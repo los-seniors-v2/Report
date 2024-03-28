@@ -19,7 +19,7 @@
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
-#### Uso de la técnica  The 5'W's w Y 2`H´s
+#### Uso de la técnica  The 5'W's w Y 2'H's
 Presentación del modelo de las preguntas 5Ws y 2Hs con la que se analizaron los antecedentes y la problemática que abarca nuestro proyecto.
 
 | LAS 5W y 2H | Pregunta | Descripción |
