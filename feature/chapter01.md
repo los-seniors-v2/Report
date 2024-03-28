@@ -71,6 +71,10 @@ Bussiness Assumptions
 * Los usuarios esperan que los planes alimentarios proporcionados por la plataforma sean adaptables a sus preferencias dietéticas y restricciones, así como que sean fáciles de seguir y de integrar en su vida cotidiana.
 * Los usuarios valoran la transparencia y la confiabilidad en una plataforma de coaching en línea, buscando garantías de que sus datos personales y de salud serán tratados de manera segura y confidencial.
 - #### 1.2.2.3. Lean UX Hypothesis Statements
+  * "Si ofrecemos a los usuarios un acceso conveniente y flexible a servicios de coaching en línea, permitiendo comunicación directa con coaches y planes personalizados, entonces aumentará la probabilidad de que los usuarios se comprometan a largo plazo con la plataforma, lo que resultará en una mayor retención de clientes."
+  * "Si proporcionamos planes alimentarios personalizados y adaptables que se ajusten a las preferencias y restricciones dietéticas de los usuarios, entonces aumentará la satisfacción del usuario y la probabilidad de que se mantengan en la plataforma, lo que contribuirá al crecimiento del negocio a través de referencias y recomendaciones positivas."
+  * "Si garantizamos la seguridad y confidencialidad de los datos personales y de salud de los usuarios, y proporcionamos una experiencia de usuario transparente y confiable, entonces aumentará la confianza y la lealtad de los usuarios hacia la plataforma, lo que resultará en una mayor retención y una reputación positiva en el mercado."
+  * "Si desarrollamos una interfaz de usuario intuitiva y fácil de usar en la plataforma de coaching en línea, lo que permite a los usuarios navegar sin problemas y acceder rápidamente a los recursos y servicios que necesitan, entonces aumentará la participación y la frecuencia de uso, lo que conducirá a una mayor retención de clientes y al crecimiento del negocio."
 - #### 1.2.2.4. Lean UX Canvas
 
 ## 1.3. Segmentos objetivo.
