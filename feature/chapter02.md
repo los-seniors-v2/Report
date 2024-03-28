@@ -13,6 +13,13 @@ El propósito de las entrevistas es adquirir una comprensión profunda de las ex
 5. ¿Qué características considerarías más importantes al elegir un servicio de coaching en línea para ayudarte a alcanzar tus objetivos de salud y condición física?
 6. ¿Qué esperas obtener de un coach profesional en términos de apoyo y seguimiento en tu viaje hacia un estilo de vida más saludable?
 
+* **Especialistas en Nutrición:**
+1. ¿Qué te llevó a especializarte en el campo de la nutrición y la dietética?
+2. ¿Cuáles son los mayores desafíos que enfrentas al trabajar con clientes para mejorar sus hábitos alimenticios y su salud en general?
+3. ¿Qué herramientas o recursos encuentras más útiles al proporcionar orientación nutricional a tus clientes?
+4. ¿Qué ventajas crees que ofrecería la posibilidad de brindar asesoramiento nutricional a través de una aplicación de coaching en línea?
+5. ¿Cuáles son tus principales preocupaciones o consideraciones al seleccionar una plataforma o herramienta en línea para proporcionar asesoramiento nutricional a tus clientes?
+6. ¿Cómo crees que una aplicación web de coaching en línea podría mejorar la eficacia de tu trabajo como especialista en nutrición y la experiencia de tus clientes?
 ### 2.2.2. Registro de entrevistas.
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
