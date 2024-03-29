@@ -1,8 +1,12 @@
 # **Capítulo I: Introducción**
 ## 1.1. Startup Profile
 
+### 1.1.1. Descripción de la Startup
 
-### 1.1.1. Perfiles de integrantes del equipo
+<p>Somos una compañía recién creada llamada "" que tiene una misión en mente: <b>mejorar la salud de todos nuestros usuarios mediante ayuda personalizada</b>.
+<br>Por esta razón, nos reunimos y trabajamos con cooperación, eficencia y responsabilidad. Los integrantes que conforman este equipo son:
+
+### 1.1.2. Perfiles de integrantes del equipo
 
 |                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |---------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -11,11 +15,6 @@
 | ![Fabrizio](assets/img_chapter01/Fabrizio_foto.jpg)     | Mi nombre es Fabrizio Alessandro Sanchez Zamora con código de estudiante u202213652, soy estudiante de Ingeniería de Software. Entre mis conocimientos se encuentran el manejo de lenguajes de programacion como C++, JavaScript y Python, asi como también se manejar SQL, Html y CSS. Como miembro del equipo, me comprometo a colaborar con mis compañeros para poder presentar un buen proyecto grupal.                                                                                                                                      |
 | ![JuanDiego](assets/img_chapter01/JuanDiego_Foto.jpg)   | Mi nombre es Juan Diego Cueto Dominguez, mi codigo de estudiante es u202012207, actualmente soy estudiante de la carrera de Ingeniería de Software. Cuento con conocimiento y experiencia en el uso de Git y GitHub, con el cual estaré apoyando a mis compañeros. Además poseo mucha práctica con los lenguajes de programación C++, JavaScript, Python , HTML5 y CSS3. Estoy dispuesto a apoyar y trabajar en el tiempo y momento que se requiera.                                                                                             |
 | Imagen del integrante                                   | Nombres y apellidos, código de estudiante y descripción de carrera, junto con párrafo de resumen indicando principales conocimientos técnicos y habilidades que puede aportar en el equipo.                                                                                                                                                                                                                                                                                                                                                      |
-### 1.1.2. Descripción de la Startup
-
-<p>Somos una compañía recién creada llamada "" que tiene una misión en mente: <b>mejorar la salud de todos nuestros usuarios mediante ayuda personalizada</b>.
-<br>Por esta razón, nos reunimos y trabajamos con cooperación, eficencia y responsabilidad. Los integrantes que conforman este equipo son:
-
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
