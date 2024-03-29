@@ -24,7 +24,7 @@
 | Primera entrega (TB1) | -/-/2024 | - Fabrizio Sanchez | - Se realizó x cosa <br> - Se realizó y cosa |
 | Primera entrega (TB1) | -/-/2024 | - Juan Cueto       | - Se realizó x cosa <br> - Se realizó y cosa |
 | Primera entrega (TB1) | -/-/2024 | - Luiggi Paredes   | - Se realizó x cosa <br> - Se realizó y cosa |
-| Primera entrega (TB1) | -/-/2024 | - Miguel           | - Se realizó x cosa <br> - Se realizó y cosa |
+| Primera entrega (TB1) | -/-/2024 | - Miguel Carpio    | - Se realizó x cosa <br> - Se realizó y cosa |
 
 - - -
 # Project Report Collaboration
