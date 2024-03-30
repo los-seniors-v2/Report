@@ -42,7 +42,9 @@ elaboración del informe junto con capturas de los analíticos de colaboración 
 ## Tabla de contenidos
 #### [Capítulo I: Introducción](/../develop/feature/chapter01.md/)<br>
 [1.1. Startup Profile](/../develop/feature/chapter01.md#11-startup-profile)<br>
-[1.2. Solution Profile](/../develop/feature/chapter01.md#12-solution-profile)
+[1.1.1. Descripción de la Startup](/../develop/feature/chapter01.md#111-descripción-de-la-startup)<br>
+[1.1.2. Perfiles de integrantes del equipo](/../develop/feature/chapter01.md#112-perfiles-de-integrantes-del-equipo)<br>
+[1.2. Solution Profile](/../develop/feature/chapter01.md#12-solution-profile)<br>
 
             1.1.1. Descripción de la Startup
             1.1.2. Perfiles de integrantes del equipo
