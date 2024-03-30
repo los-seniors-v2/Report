@@ -1,7 +1,12 @@
 # **Capítulo II:  Requirements Elicitation & Analysis**
 ## 2.1. Competidores.
+* Competidor 1: Description
+* Competidor 2: Description
+* Competidor 3: Description
 ### 2.1.1. Análisis competitivo.
+
 ### 2.1.2. Estrategias y tácticas frente a competidores.
+
 ## 2.2. Entrevistas.
 El propósito de las entrevistas es adquirir una comprensión profunda de las experiencias, perspectivas y opiniones de los segmentos de mercado seleccionados. Nuestro objetivo es obtener información valiosa que nos ayude a entender mejor a nuestro público objetivo y así mejorar nuestro conocimiento sobre los usuarios. Estas conversaciones nos permitirán obtener una visión más clara de las necesidades y deseos de nuestros usuarios, lo que nos ayudará a adaptar nuestros productos o servicios de manera más efectiva a sus requerimientos.
 ### 2.2.1. Diseño de entrevistas.
