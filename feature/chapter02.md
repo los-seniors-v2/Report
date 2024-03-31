@@ -43,4 +43,6 @@ El propósito de las entrevistas es adquirir una comprensión profunda de las ex
 ### 2.3.5. As-is Scenario Mapping.
 - As-Is De Usuarios interesados en mejorar su salud y condición física:
 ![As-Is Usuarios](assets/img_chapter01/As-Is_Usuarios.jpg)
+- As-Is De Profesionales del coaching en ejercicio:
+![As-Is_Coaching](assets/img_chapter01/As-Is_Coaching.jpg)
 ## 2.4. Ubiquitous Language
