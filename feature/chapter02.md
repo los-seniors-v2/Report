@@ -45,4 +45,6 @@ El propósito de las entrevistas es adquirir una comprensión profunda de las ex
 ![As-Is Usuarios](assets/img_chapter01/As-Is_Usuarios.jpg)
 - As-Is De Profesionales del coaching en ejercicio:
 ![As-Is_Coaching](assets/img_chapter01/As-Is_Coaching.jpg)
+- As-Is De Nutricionista:
+![As-Is_Coaching](assets/img_chapter01/As-Is_Nutricionista.jpg)
 ## 2.4. Ubiquitous Language
