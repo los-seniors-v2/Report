@@ -3,8 +3,8 @@
 
 ### 1.1.1. Descripción de la Startup
 
-<p>Somos una compañía recién creada llamada "" que tiene una misión en mente: <b>mejorar la salud de todos nuestros usuarios mediante ayuda personalizada</b>.
-<br>Por esta razón, nos reunimos y trabajamos con cooperación, eficencia y responsabilidad. Los integrantes que conforman este equipo son:
+<p>Somos una compañía recién creada llamada "Gymfinity" que tiene una misión en mente: <b>mejorar la salud de todos nuestros usuarios mediante ayuda personalizada</b>.
+<br>Por esta razón, nos reunimos y trabajamos con cooperación, eficencia y responsabilidad para crear "FlexPal". Los integrantes que conforman este equipo son:
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
@@ -17,16 +17,28 @@
 | ![Miguel](assets/img_chapter01/miguel_foto.png)         | Soy estudiante de 5to ciclo en la Universidad Peruana de Ciencias Aplicadas, tengo conocimientos en lenguajes de programación como C++, C#, Python, HTML, Java, MySQL. Lo cual podré beneficiar en el progreso de nuestro trabajo de curso.                                                                                                                                                                                                                                                                                                                                                      |
 
 ## 1.2. Solution Profile
+FlexPal es una completa aplicación web desarrollada por Gymfinity, diseñada para atender tanto a entusiastas del fitness como a profesionales. Ofrece un modelo de suscripción que brinda a los usuarios acceso a planes de nutrición personalizados, entrenadores expertos y rutinas de ejercicio adaptadas. FitHub tiene como objetivo revolucionar la industria del fitness integrando tecnología con soluciones de fitness personalizadas de manera fluida.
+
+**Características Principales:**
+
+- **Planes de Nutrición Personalizados:** FitHub utiliza algoritmos avanzados para generar planes de nutrición personalizados según las preferencias del usuario, restricciones dietéticas y objetivos de fitness. Los usuarios pueden acceder a una amplia gama de opciones de comidas adaptadas a sus necesidades específicas, asegurando una dieta equilibrada y saludable.
+
+- **Entrenadores Expertos:** FitHub conecta a los usuarios con entrenadores de fitness certificados que se especializan en áreas como entrenamiento de fuerza, cardio, yoga, etc. Los usuarios pueden programar sesiones de entrenamiento virtuales, recibir comentarios personalizados y realizar un seguimiento de su progreso con el tiempo.
+
+- **Rutinas de Ejercicio Adaptadas:** FitHub ofrece una amplia biblioteca de rutinas de ejercicio adaptadas para usuarios de todos los niveles de fitness y preferencias. Ya sea que los usuarios prefieran entrenamientos de alta intensidad, levantamiento de pesas o yoga, pueden encontrar rutinas adecuadas diseñadas para lograr los resultados deseados.
+
+- **Seguimiento del Progreso:** FitHub permite a los usuarios realizar un seguimiento de su progreso fitness con informes detallados, incluyendo métricas como pérdida de peso, ganancia muscular y mejora del rendimiento general. Esta función permite a los usuarios mantenerse motivados y monitorear su éxito con el tiempo.
+
 ### 1.2.1 Antecedentes y problemática
 #### Uso de la técnica  The 5'W's w Y 2'H's
 Presentación del modelo de las preguntas 5Ws y 2Hs con la que se analizaron los antecedentes y la problemática que abarca nuestro proyecto.
 
-| LAS 5W y 2H | Pregunta | Descripción |
-|-------------|----------|-------------|
+| LAS 5W y 2H | Pregunta | Descripción|
+|-------------|----------|------------|
 | Who?        |¿Quién es afectado?| Personas interesadas en mejorar su salud y condición física, así como profesionales del coaching en áreas como el ejercicio y la nutrición.|
 | What?       | ¿Cuál es el problema? |La demotivacion o dificultades que tienen las personas a la hora de trazar y empezar una rutina de entrenamiento, ya sea por salud o actividad propia. De acuerdo al Ministerio de Salud (MINSA, 2024), el 62% de peruanos mayores a 15 años subre de obesidad, esto demuestra la carente disciplina, compromisos o mal hábito de alimentacion que tiene la población. |
-| When?       | ¿Cuándo sucede el problema? |Es un problema que usualmente a estado presente en varias personas desde que intentaron iniciar una rutina de entrenamiento, con el objetivo de abordar sus necesidades y mejorar su estilo de vida. Añadiendo además aquellos profesionales del coaching que han deseado expandir su base de clientes.
-| Where?      | ¿Dónde surge el problema? | El problema surge de las necesidades y ubicacion de la persona, siendo los principales factores la distancia del gimnasio mas cercano y sus tiempos disponibles, por ende la aplicación estará disponible en línea, lo que permitirá el acceso desde cualquier lugar con conexión a internet. 
+| When?       | ¿Cuándo sucede el problema? |Es un problema que usualmente a estado presente en varias personas desde que intentaron iniciar una rutina de entrenamiento, con el objetivo de abordar sus necesidades y mejorar su estilo de vida. Añadiendo además aquellos profesionales del coaching que han deseado expandir su base de clientes.|
+| Where?      | ¿Dónde surge el problema? | El problema surge de las necesidades y ubicacion de la persona, siendo los principales factores la distancia del gimnasio mas cercano y sus tiempos disponibles, por ende la aplicación estará disponible en línea, lo que permitirá el acceso desde cualquier lugar con conexión a internet. |
 | Why?        | ¿Cuál es la causa del problema? | La creación de la aplicación se debe a la falta de orientación personalizada para las personas que desean mejorar su salud y condición física, así como la necesidad de los profesionales del coaching de llegar a nuevos clientes y ofrecerles un servicio efectivo y personalizado. |
 | How?        | ¿Qué llevó a la persona a esta situación? | Segun un estudio realizado por Ipsos, un 44% de personas hace actividad fisica con frecuencia y percepciona que el 88% considera que tener una buena alimentacion es la clave para tener una vida saludable (Ipsos Perú, 2019), por ende nuestra aplicación facilitara la comunicación directa entre usuarios y coaches a través de reuniones virtuales además de proporcionar acceso a planes alimentarios personalizados. Los usuarios podran suscribirse mensualmente para acceder a estos servicios y recibir el seguimiento y apoyo continuo que necesitan para alcanzar sus objetivos de salud. |
 | How Much?   | ¿Cuál es la cantidad, duración o intensidad del evento? |Según un estudio realizado por Fitness Pass (2019), se descubrió que un porcentaje alarmantemente alto del 80% de las personas optan por cancelar su membresía en el gimnasio después de tres meses de haberla adquirido. Este hallazgo preocupa a la industria del fitness, donde seguir un régimen de ejercicio a largo plazo parece ser desafiante para la mayoría de los individuos. Entre los motivos principales que impulsan esta decisión se encuentran la desmotivación y la falta de tiempo. La desmotivación puede surgir de diversas fuentes, incluida la falta de resultados rápidos o visibles. Además, en el mundo moderno, las demandas de tiempo suelen ser un factor determinante, ya que las personas luchan por equilibrar el trabajo, la familia y otras responsabilidades. |
@@ -35,7 +47,7 @@ Presentación del modelo de las preguntas 5Ws y 2Hs con la que se analizaron los
 "En un contexto de creciente interés por el bienestar personal, se hace evidente la necesidad de una aplicación web de coaching  que facilite la conexión entre usuarios y profesionales del ejercicio y nutrición. Dicha aplicación web debe proporcionar una experiencia personalizada y efectiva para cada individuo, adaptándose a sus necesidades y objetivos específicos." <br><br>
 Como grupo, nos comprometeremos a resolver este desafío mediante una colaboración estrecha entre los usuarios que deseen empezar una rutina de ejercicio, así como tambien con profesiones tanto en coaching y nutrición. Nos enfocaremos en comprender profundamente las necesidades y expectativas de nuestros usuarios, utilizando esta información para diseñar y desarrollar una solución innovadora que satisfaga sus requerimientos de manera integral.
 - #### 1.2.2.2. Lean UX Assumptions
-Bussiness Assumptions 
+  **Bussiness Assumptions**
 * **Pienso que mis clientes necesitan** una guía personalizada y un apoyo constante para alcanzar sus objetivos de salud y condición física.
 * **Estas demandas pueden ser satisfechas mediante** una plataforma en línea que conecta a los usuarios con coaches profesionales en ejercicio y alimentación, ofreciendo comunicación directa y planes personalizados.
 * **Los primeros clientes serán** aquellos que ya están activamente buscando mejorar su estilo de vida y están dispuestos a invertir en servicios de coaching profesional para lograrlo.
@@ -44,7 +56,10 @@ Bussiness Assumptions
 * **Generaré ingresos mediante** un modelo de suscripción mensual, donde los usuarios pagarán por el acceso a los servicios de coaching y los planes alimentarios personalizados ofrecidos.
 * **El principal problema que puede afectar a mi producto es** la competencia en el mercado de aplicaciones de salud y bienestar, lo que podría dificultar la adquisición de clientes y la retención en un mercado saturado.
 * **Abordaremos esta situación mediante** la diferenciación clara de nuestro servicio, destacando la calidad de la atención personalizada y la efectividad de nuestros planes de ejercicio y alimentación, así como la implementación de estrategias de fidelización de clientes para garantizar la satisfacción a largo plazo. <br><br>
-  User Assumptions
+
+  **User Assumptions**
+
+
 * Los usuarios están buscando una solución integral que no solo les proporcione orientación en el ejercicio, sino también en la alimentación, reconociendo la importancia de ambos aspectos para alcanzar sus objetivos de salud.
 * Los usuarios valoran altamente la conveniencia y la accesibilidad en una plataforma de coaching en línea, prefiriendo la flexibilidad de poder acceder a los servicios desde cualquier lugar y en cualquier momento.
 * Los usuarios están dispuestos a invertir en un servicio de coaching profesional que ofrezca una comunicación directa y personalizada con un coach, sintiéndose más motivados y comprometidos con su progreso cuando reciben un apoyo individualizado.
