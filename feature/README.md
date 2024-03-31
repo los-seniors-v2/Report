@@ -68,9 +68,9 @@ elaboración del informe junto con capturas de los analíticos de colaboración 
 
 # Student Outcome
 
-| Criterio Específico                                                                                                                                  | Acciones Ralizadas                                         | Conclusiones |
-|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|--------------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | **Juan Pescorán** <br> - TB1 <br> <br>**Juan Cueto** - TB1 |              |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software                                                              | **Juan Pescorán** <br> - TB1 <br> <br>**Juan Cueto** - TB1 |              |
+| Criterio Específico                                                                                                                                  | Acciones Ralizadas                                                             | Conclusiones |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------|
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | **Juan Pescorán** <br> - TB1 <br> <br>**Juan Cueto** - TB1 **Luiggi Paredes**  <br> - TB1 <br> |              |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software                                                              | **Juan Pescorán** <br> - TB1 <br> <br>**Juan Cueto** - TB1 **Luiggi Paredes**  <br> - TB1 <br> |              |
 
 
