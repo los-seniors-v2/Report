@@ -41,4 +41,6 @@ El propósito de las entrevistas es adquirir una comprensión profunda de las ex
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping.
 ### 2.3.5. As-is Scenario Mapping.
+- As-Is Usuarios interesados en mejorar su salud y condición física:
+![As-Is Usuarios](assets/img_chapter01/As-Is Usuarios.jpg)
 ## 2.4. Ubiquitous Language
