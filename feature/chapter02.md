@@ -70,6 +70,9 @@ Espero obtener profesionalismo, motivación, responsabilidad y compromiso.
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
+En esta sección, presentaremos el perfil de nuestros User Persona, que surge de un análisis de las entrevistas realizadas anteriormente y de una evaluación de la competencia en el mercado. Los artefactos que vamos a presentar están estrechamente relacionados con las principales características identificadas durante este proceso de análisis. Desde las entrevistas, hemos extraído valiosa información sobre las necesidades, deseos y frustraciones de nuestros potenciales usuarios, lo que nos ha permitido perfilar a nuestro User Persona de manera precisa y realista.
+- **User Persona Primer Segmento Objetivo(Usuarios interesados en mejorar su salud y condición física)**
+  ![UserPersona_Segmento1](assets/img_chapter01/UserPersona_Segmento1.png)
 ### 2.3.2. User Task Matrix.
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping.
