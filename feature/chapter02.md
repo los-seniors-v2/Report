@@ -63,7 +63,9 @@ Considero que debe tener una atención rápida, un plan de actividades semanales
 
 
 **¿Qué esperas obtener de un coach profesional en términos de apoyo y seguimiento en tu viaje hacia un estilo de vida más saludable?**  
-Espero obtener profesionalismo, motivación, responsabilidad y compromiso.
+Espero obtener profesionalismo, motivación, responsabilidad y compromiso.  
+
+[URL de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c360_upc_edu_pe/EdSdE2ZeVzlKhhKpaprpreoBPGQf2imEYcScLVT3qf_xog?e=uICrNB)
 
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
