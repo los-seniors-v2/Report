@@ -34,6 +34,37 @@ El propósito de las entrevistas es adquirir una comprensión profunda de las ex
 5. ¿Qué aspectos considerarías críticos al seleccionar una plataforma de coaching en línea para ofrecer tus servicios profesionales?
 6. ¿Cómo crees que una aplicación web de coaching  podría mejorar la eficacia de tu trabajo como coach y la experiencia de tus clientes?
 ### 2.2.2. Registro de entrevistas.
+- **Individuos interesados en mejorar su salud y condición física:**  
+
+**Entrevista #1**  
+Nombre y apellidos: Javier Carpio Cornejo  
+Edad: 30 años  
+![Entrevista_Seg01_JavierCarpio](assets/img_chapter01/Registro_Entrevista_Seg01_JavierCarpio.png)  
+
+**Transcripción:**  
+
+**¿Qué te ha motivado a buscar maneras de mejorar tu salud y condición física en este momento?**  
+Mejorar mi rendimiento físico y mental para cumplir satisfactoriamente todas las actividades que me planteo en el día.
+
+**¿Cuál ha sido tu experiencia previa al intentar adoptar un estilo de vida más saludable? ¿Qué obstáculos has enfrentado?**  
+Experiencia desfavorable y los obstáculos fueron no poder variar las actividades saludables durante un periodo largo, haciendo esto repetitivo y cansado.
+
+
+**¿Qué tipo de apoyo o orientación te resultaría más útil para alcanzar tus objetivos de salud y condición física?**  
+Definitivamente un guia para entrenar y un nutricionista que mejore mi alimentación
+
+
+**¿Cómo crees que una Aplicación web de coaching en línea podría ayudarte a mantenerte motivado y comprometido con tus metas de bienestar?**  
+Creo que un coaching en linea podría ayudarme en incluir correctamente la rutina dentro de mis actividaes diarias. Además un seguimiento por parte de él evitaría caer en la rutina y desmotivación.
+
+
+**¿Qué características considerarías más importantes al elegir un servicio de coaching en línea para ayudarte a alcanzar tus objetivos de salud y condición física?**  
+Considero que debe tener una atención rápida, un plan de actividades semanales y profesionales con capacitaciones constantes.
+
+
+**¿Qué esperas obtener de un coach profesional en términos de apoyo y seguimiento en tu viaje hacia un estilo de vida más saludable?**  
+Espero obtener profesionalismo, motivación, responsabilidad y compromiso.
+
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
