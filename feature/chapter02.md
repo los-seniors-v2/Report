@@ -287,6 +287,8 @@ En esta sección, presentaremos el perfil de nuestros User Persona, que surge de
 | Expectativas de apoyo y seguimiento de un coach profesional  | 3          | 5           |
 
 ### 2.3.3. User Journey Mapping
+- **Segmento Objetivo: Usuarios interesados en mejorar su salud y condición física**  
+![JourneyMap01](assets/img_chapter01/journey_map_seg01.png)
 ### 2.3.4. Empathy Mapping.
 ### 2.3.5. As-is Scenario Mapping.
 - As-Is De Usuarios interesados en mejorar su salud y condición física:
