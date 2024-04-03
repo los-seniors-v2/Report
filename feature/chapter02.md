@@ -275,6 +275,17 @@ En esta sección, presentaremos el perfil de nuestros User Persona, que surge de
 - **User Persona Primer Segmento Objetivo(Usuarios interesados en mejorar su salud y condición física)**
   ![UserPersona_Segmento1](assets/img_chapter01/UserPersona_Segmento1.png)
 ### 2.3.2. User Task Matrix.
+**Segmento de mercado: Usuarios interesados en mejorar su salud y condición física**  
+
+| Servicio                                                      | Frecuencia | Importancia |
+|---------------------------------------------------------------|------------|-------------|
+| Motivación para mejorar salud y condición física             | 3          | 3           |
+| Experiencia previa adoptando un estilo de vida saludable      | 2          | 2           |
+| Apoyo u orientación para alcanzar objetivos de salud y condición física | 2          | 3           |
+| Mantenerse motivado y comprometido con metas de bienestar    | 3          | 5           |
+| Características importantes al elegir servicio de coaching en línea | 5          | 3           |
+| Expectativas de apoyo y seguimiento de un coach profesional  | 3          | 5           |
+
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping.
 ### 2.3.5. As-is Scenario Mapping.
