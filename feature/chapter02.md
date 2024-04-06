@@ -286,6 +286,16 @@ Inicio De Entrevista: 0:35 <br>
 [URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213652_upc_edu_pe/Ec7t7YwWYs9ItCcgfPgYdRgByGxI1DTcZrgy-TultQdxnw?e=abfplv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) <br>
 Resumen De Entrevista: El entrevistado muestra una motivación actual para mejorar su salud y condición física, destacando su conciencia sobre la importancia del bienestar a largo plazo. Su experiencia previa revela obstáculos como la falta de motivación constante y la carencia de apoyo adecuado en sus intentos previos por adoptar un estilo de vida más saludable. Busca un apoyo útil para alcanzar sus objetivos, priorizando el acceso a un coach profesional que brinde consejos personalizados y motivación constante. Considera que una Aplicación web de coaching en línea sería beneficiosa por su fácil acceso a recursos útiles y seguimiento del progreso. Al elegir un servicio de coaching, valora la experiencia del coach, la personalización de los planes y el apoyo constante. Espera recibir un apoyo personalizado de un coach profesional, que incluya orientación experta, seguimiento regular del progreso y motivación para superar obstáculos.
 
+- **Profesionales del coaching en ejercicio y alimentación:**
+**Entrevista #1** <br>
+Nombre y apellidos: Andres Torres <br>
+Edad: 23 años <br>
+Distrito: Lince<br>
+![Entrevista_Seg01_RenzoEnciso](assets/img_chapter01/Registro_Entrevista_Seg02_AndresTorres.png) <br>
+Inicio De Entrevista: 0:42 <br>
+[URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213652_upc_edu_pe/ETpzPv5-Yz5HouMLQsPO3PgB_Jo0HO8x9CQ4l2weGKBMdg?e=vNRQA3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) <br>
+Resumen De Entrevista: El entrevistado revela una fuerte motivación en el campo del coaching en ejercicio y alimentación, destacando su deseo de ayudar a otros a lograr sus metas de salud y bienestar de manera efectiva y sostenible. Además, reconoce los desafíos asociados con el trabajo presencial, como las limitaciones geográficas y la dificultad para mantener la consistencia en las sesiones. Expresa un claro entusiasmo por los beneficios potenciales de ofrecer servicios de coaching en línea, señalando la eliminación de barreras geográficas y una mayor flexibilidad para él y sus clientes. En cuanto a las herramientas y características esenciales, resalta la importancia de la comunicación en tiempo real, el seguimiento de progreso y los recursos educativos en una plataforma en línea. Finalmente, destaca cómo una aplicación web de coaching podría mejorar significativamente su eficacia laboral y la experiencia del cliente al proporcionar una plataforma centralizada y accesible para la comunicación y el soporte en cualquier momento y lugar.
+
 
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
@@ -296,14 +306,14 @@ En esta sección, presentaremos el perfil de nuestros User Persona, que surge de
 ### 2.3.2. User Task Matrix.
 **Segmento de mercado: Usuarios interesados en mejorar su salud y condición física**  
 
-| Servicio                                                      | Frecuencia | Importancia |
-|---------------------------------------------------------------|------------|-------------|
-| Motivación para mejorar salud y condición física             | 3          | 3           |
-| Experiencia previa adoptando un estilo de vida saludable      | 2          | 2           |
+| Servicio                                                                | Frecuencia | Importancia |
+|-------------------------------------------------------------------------|------------|-------------|
+| Motivación para mejorar salud y condición física                        | 3          | 3           |
+| Experiencia previa adoptando un estilo de vida saludable                | 2          | 2           |
 | Apoyo u orientación para alcanzar objetivos de salud y condición física | 2          | 3           |
-| Mantenerse motivado y comprometido con metas de bienestar    | 3          | 5           |
-| Características importantes al elegir servicio de coaching en línea | 5          | 3           |
-| Expectativas de apoyo y seguimiento de un coach profesional  | 3          | 5           |
+| Manteners e motivado y comprometido con metas de bienestar              | 3          | 5           |
+| Características importantes al elegir servicio de coaching en línea     | 5          | 3           |
+| Expectativas de apoyo y seguimiento de un coach profesional             | 3          | 5           |
 
 ### 2.3.3. User Journey Mapping
 - **Segmento Objetivo: Usuarios interesados en mejorar su salud y condición física**  
