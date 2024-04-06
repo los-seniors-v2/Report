@@ -197,6 +197,25 @@
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
+1.  **Desarrollar una Propuesta de Valor Única :**
+    * Estrategia: Destacar los aspectos únicos y diferenciadores de nuestro producto que lo hacen sobresalir frente a la competencia.
+    * Táctica: Identificar las fortalezas clave de nuestro producto, como el enfoque holístico en la salud y el bienestar, y comunica claramente cómo benefician a los usuarios.
+2.  **Enfoque en la Experiencia del Usuario :**
+    * Estrategia: Priorizar la satisfacción y la experiencia del usuario para generar lealtad a la marca.
+    * Táctica: Mejorar continuamente la interfaz de usuario de nuestro aplicación, simplificando la navegación y agregando funciones que faciliten el uso y la comprensión.
+3.  **Ampliar la Base de Usuarios:**
+    * Estrategia: Atraer a más usuarios a nuestra plataforma para aumentar su visibilidad y relevancia en el mercado.
+    * Táctica: Implementar programas de referidos y promociones para incentivar a los usuarios actuales a invitar a amigos y familiares a unirse a nuestra aplicación.
+4.  **Ampliar la Base de Usuarios:**
+    * Estrategia: Destacar la capacidad de nuestro producto para adaptarse a las necesidades individuales de cada usuario.
+    * Táctica: Ofrecer opciones de personalización en los planes de ejercicio y alimentación, así como seguimiento de progreso y recomendaciones adaptadas a los objetivos y preferencias de cada usuario.
+5.  **Marketing Digital Dirigido:**
+    * Estrategia: Dirigir nuestros esfuerzos de marketing digital hacia los segmentos de mercado más relevantes y receptivos.
+    * Táctica: Utilizar estrategias de segmentación de audiencia en plataformas como redes sociales y motores de búsqueda para llegar a usuarios interesados en mejorar su salud y condición física.
+6.  **Colaboraciones Estratégicas:**
+    * Estrategia: Establecer asociaciones con otras empresas o profesionales del sector para expandir nuestro alcance y credibilidad.
+    * Táctica: Colaborar con nutricionistas, entrenadores personales o influencers en el ámbito del fitness para promocionar unestro producto y llegar a nuevas audiencias.
+
 
 ## 2.2. Entrevistas.
 El propósito de las entrevistas es adquirir una comprensión profunda de las experiencias, perspectivas y opiniones de los segmentos de mercado seleccionados. Nuestro objetivo es obtener información valiosa que nos ayude a entender mejor a nuestro público objetivo y así mejorar nuestro conocimiento sobre los usuarios. Estas conversaciones nos permitirán obtener una visión más clara de las necesidades y deseos de nuestros usuarios, lo que nos ayudará a adaptar nuestros productos o servicios de manera más efectiva a sus requerimientos.
@@ -258,6 +277,16 @@ Espero obtener profesionalismo, motivación, responsabilidad y compromiso.
 
 [URL de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c360_upc_edu_pe/EdSdE2ZeVzlKhhKpaprpreoBPGQf2imEYcScLVT3qf_xog?e=uICrNB)
 
+**Entrevista #2** <br>
+Nombre y apellidos: Renzo Enciso <br>
+Edad: 20 años <br>
+Distrito: Chorrillos<br>
+![Entrevista_Seg01_RenzoEnciso](assets/img_chapter01/Registro_Entrevista_Seg01_RenzoEnciso.png) <br>
+Inicio De Entrevista: 0:35 <br>
+[URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213652_upc_edu_pe/Ec7t7YwWYs9ItCcgfPgYdRgByGxI1DTcZrgy-TultQdxnw?e=abfplv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) <br>
+Resumen De Entrevista: El entrevistado muestra una motivación actual para mejorar su salud y condición física, destacando su conciencia sobre la importancia del bienestar a largo plazo. Su experiencia previa revela obstáculos como la falta de motivación constante y la carencia de apoyo adecuado en sus intentos previos por adoptar un estilo de vida más saludable. Busca un apoyo útil para alcanzar sus objetivos, priorizando el acceso a un coach profesional que brinde consejos personalizados y motivación constante. Considera que una Aplicación web de coaching en línea sería beneficiosa por su fácil acceso a recursos útiles y seguimiento del progreso. Al elegir un servicio de coaching, valora la experiencia del coach, la personalización de los planes y el apoyo constante. Espera recibir un apoyo personalizado de un coach profesional, que incluya orientación experta, seguimiento regular del progreso y motivación para superar obstáculos.
+
+
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
@@ -265,7 +294,20 @@ En esta sección, presentaremos el perfil de nuestros User Persona, que surge de
 - **User Persona Primer Segmento Objetivo(Usuarios interesados en mejorar su salud y condición física)**
   ![UserPersona_Segmento1](assets/img_chapter01/UserPersona_Segmento1.png)
 ### 2.3.2. User Task Matrix.
+**Segmento de mercado: Usuarios interesados en mejorar su salud y condición física**  
+
+| Servicio                                                      | Frecuencia | Importancia |
+|---------------------------------------------------------------|------------|-------------|
+| Motivación para mejorar salud y condición física             | 3          | 3           |
+| Experiencia previa adoptando un estilo de vida saludable      | 2          | 2           |
+| Apoyo u orientación para alcanzar objetivos de salud y condición física | 2          | 3           |
+| Mantenerse motivado y comprometido con metas de bienestar    | 3          | 5           |
+| Características importantes al elegir servicio de coaching en línea | 5          | 3           |
+| Expectativas de apoyo y seguimiento de un coach profesional  | 3          | 5           |
+
 ### 2.3.3. User Journey Mapping
+- **Segmento Objetivo: Usuarios interesados en mejorar su salud y condición física**  
+![JourneyMap01](assets/img_chapter01/journey_map_seg01.png)
 ### 2.3.4. Empathy Mapping.
 ### 2.3.5. As-is Scenario Mapping.
 - As-Is De Usuarios interesados en mejorar su salud y condición física:
