@@ -327,3 +327,18 @@ En esta sección, presentaremos el perfil de nuestros User Persona, que surge de
 - As-Is De Nutricionista:
 ![As-Is_Coaching](assets/img_chapter01/As-Is_Nutricionista.jpg)
 ## 2.4. Ubiquitous Language
+
+***Member***: A person who has registered and holds a membership at the gym. Members have access to our web facilities and services.
+
+***Membership Plan***: The subscription package chosen by a member, determining the duration of access to our web application facilities and services.
+
+***Coach***: A certified fitness professional employed by the gym to provide personalized training sessions and fitness advice to members.
+
+***Workout Routine***: A personalized plan created for a member by a coach, outlining specific exercises, sets, and repetitions to achieve fitness goals.
+
+***Nutrition Plan***: A dietary plan designed for a member by coach, specifying recommended meals, portion sizes, and nutritional guidelines to support fitness objectives.
+
+Implementation example:
+When a ***member*** signs up for a ***membership plan***, they are presented with options labeled as "***Membership Plans***".
+
+When a ***coach*** creates a ***workout routine*** or ***nutrition plan*** for a ***member***, the terminology used within the software aligns with the ubiquitous language established.
