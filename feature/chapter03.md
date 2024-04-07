@@ -21,94 +21,14 @@ Para elaborar user stories que pertenecen a un epic. A continuación, las epics 
 
 A continuacion, la realizacion de los user stories con sus criterios de aceptacion con escenarios e ID de Épica:
 
-<table border="1" style="text-align: left;">
-    <tbody>
-        <tr>
-            <td colspan="1"><strong>ID de Historia de Usuario</strong></td>
-            <td colspan="1"><strong>Título</strong></td>
-            <td colspan="1"><strong>Descripción</strong></td>
-            <td colspan="1"><strong>Criterios de Aceptación con Escenarios</strong></td>
-            <td colspan="1"><strong>ID de Épica</strong></td>
-        </tr>
-        <tr>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-        </tr>
-        <tr>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-        </tr>
-        <tr>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-        </tr>
-        <tr>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-        </tr>
-        <tr>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-        </tr>
-        <tr>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-        </tr>
-        <tr>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-        </tr>
-        <tr>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-        </tr>
-        <tr>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-        </tr>
-        <tr>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-        </tr>
-        <tr>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-            <td colspan="1">...</td>
-        </tr>
-    </tbody>
-</table>
+| ID de Historia de Usuario | Título de User Story              | Descripción                                                                                                       | Criterios de Aceptación con Escenarios                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | ID de Épica |
+|---------------------------|----------------------------------|---------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| US001                     | Iniciar Sesión                   | Como usuario registrado, Quiero poder iniciar sesión en la plataforma, Para acceder a mi cuenta y utilizar las funciones disponibles. | **Dado** que el usuario tiene credenciales válidas. <br>**Cuando** el usuario ingresa sus credenciales y presiona "Iniciar sesión". <br> **Entonces** el sistema lo redirige a la página principal de la plataforma. <br> **Dado** que el usuario tiene credenciales inválidas. <br> **Cuando** el usuario ingresa credenciales incorrectas y presiona "Iniciar sesión". <br> **Entonces** el sistema muestra un mensaje de error. <br>**Dado** que el usuario no tiene una cuenta. <br> **Cuando** el usuario intenta iniciar sesión sin estar registrado. <br> **Entonces** el sistema muestra un enlace para registrarse.                                                                              | EP001       |
+| US002                     | Recuperar Contraseña             | Como usuario de la plataforma, Quiero poder recuperar mi contraseña olvidada, Para poder acceder nuevamente a mi cuenta. | **Dado** que el usuario ha olvidado su contraseña. <br> **Cuando** el usuario solicita restablecer la contraseña. <br> **Entonces** el sistema envía un correo electrónico con un enlace de restablecimiento. <br>**Dado** que el usuario no ha olvidado su contraseña. <br> **Cuando** el usuario intenta restablecerla sin haber olvidado la contraseña. <br> **Entonces** el sistema muestra un mensaje indicando que la contraseña es incorrecta. <br>**Dado** que el usuario no tiene una cuenta. <br> **Cuando** el usuario intenta restablecer la contraseña sin estar registrado. <br> **Entonces** el sistema muestra un mensaje indicando que la cuenta no existe.                              | EP001       |
+| US003                     | Actualizar Información Personal | Como usuario registrado, Quiero poder actualizar mi información personal en mi perfil, Para mantenerla actualizada y precisa. | **Dado** que el usuario desea cambiar su información personal. <br> **Cuando** el usuario realiza cambios en su perfil y guarda. <br> **Entonces** el sistema actualiza la información en la base de datos. <br> **Dado** que el usuario intenta guardar información inválida. <br>  **Cuando** el usuario intenta guardar cambios con campos obligatorios vacíos. <br> **Entonces** el sistema muestra un mensaje indicando los campos obligatorios. <br>    **Dado** que el usuario desea eliminar su foto de perfil. <br> **Cuando** el usuario elimina la foto y guarda los cambios. <br> **Entonces** el sistema elimina la foto de perfil y actualiza la información en la base de datos.           | EP001       |
+| US004                     | Cambiar Idioma de la Plataforma | Como usuario, Quiero poder cambiar el idioma de la plataforma, Para utilizar la plataforma en mi idioma preferido. | **Dado** que el usuario desea cambiar el idioma de la plataforma. <br> **Cuando** el usuario selecciona un nuevo idioma en la configuración. <br> **Entonces** la plataforma muestra el contenido en el nuevo idioma.<br>**Dado** que el usuario selecciona el mismo idioma actual. <br>  **Cuando** el usuario intenta cambiar el idioma a uno que ya está seleccionado. <br> **Entonces** la plataforma no realiza cambios y muestra un mensaje informativo. <br> **Dado** que el usuario selecciona un idioma no admitido. <br> **Cuando** el usuario intenta cambiar el idioma a uno no admitido por la plataforma. <br> **Entonces** la plataforma no realiza cambios y muestra un mensaje de error. | EP002       |
+| US005                     | Personalizar Tema de Interfaz   | Como usuario de la plataforma, Quiero poder personalizar el tema de la interfaz, Para adaptarla a mis preferencias visuales. | **Dado** que el usuario desea cambiar el tema de la interfaz. <br> **Cuando** el usuario elige un tema de interfaz en la configuración. <br> **Entonces** la plataforma cambia la apariencia según el tema seleccionado. <br>**Dado** que el usuario selecciona el mismo tema actual. <br> **Cuando** el usuario intenta cambiar el tema a uno que ya está seleccionado. <br> **Entonces** la plataforma no realiza cambios y muestra un mensaje informativo. <br> **Dado** que el usuario selecciona un tema no admitido. <br> **Cuando** el usuario intenta cambiar el tema a uno no admitido por la plataforma. <br> **Entonces** la plataforma no realiza cambios y muestra un mensaje de error.      | EP002       |
+| US006                     | Filtrar Contenido por Categoría | Como usuario, Quiero poder filtrar el contenido por categoría, Para encontrar información relevante más fácilmente.  | **Dado** que el usuario desea ver contenido específico. <br> **Cuando** el usuario selecciona una categoría de filtrado. <br> **Entonces** la plataforma muestra solo el contenido de esa categoría. <br>**Dado** que el usuario intenta filtrar contenido con una categoría no existente. <br> **Cuando** el usuario selecciona una categoría inexistente. <br> **Entonces** la plataforma no muestra ningún contenido y muestra un mensaje informativo. <br>**Dado** que el usuario intenta filtrar contenido sin seleccionar ninguna categoría. <br> **Cuando** el usuario intenta aplicar un filtro sin seleccionar una categoría. <br> **Entonces** la plataforma no realiza cambios y muestra un mensaje informativo. | EP002       ||                           |                                  |                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |             |
 
 ## 3.3. Impact Mapping.
 
