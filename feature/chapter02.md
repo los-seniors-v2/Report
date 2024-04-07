@@ -294,7 +294,7 @@ Resumen De Entrevista: El entrevistado revela una fuerte motivación en el campo
 ### 2.3.1. User Personas.
 En esta sección, presentaremos el perfil de nuestros User Persona, que surge de un análisis de las entrevistas realizadas anteriormente y de una evaluación de la competencia en el mercado. Los artefactos que vamos a presentar están estrechamente relacionados con las principales características identificadas durante este proceso de análisis. Desde las entrevistas, hemos extraído valiosa información sobre las necesidades, deseos y frustraciones de nuestros potenciales usuarios, lo que nos ha permitido perfilar a nuestro User Persona de manera precisa y realista.
 - **User Persona Primer Segmento Objetivo(Usuarios interesados en mejorar su salud y condición física)**
-  ![UserPersona_Segmento1](assets/img_chapter01/UserPersona_Segmento1.png)
+  ![UserPersona_Segmento1](assets/img_chapter01/UserPersona_Segmento1.jpg)
 - **User Persona Segundo Segmento Objetivo(Profesionales del coaching en ejercicio y alimentación)**
   ![UserPersona_Segmento2](assets/img_chapter01/UserPersona__Segmento2.png)
 ### 2.3.2. User Task Matrix.
