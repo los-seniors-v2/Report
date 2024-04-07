@@ -314,9 +314,9 @@ En esta sección, presentaremos el perfil de nuestros User Persona, que surge de
 ![JourneyMap01](assets/img_chapter01/journey_map_seg01.png)
 ### 2.3.4. Empathy Mapping.
 - **Empathy Map Primer Segmento Objetivo(Usuarios interesados en mejorar su salud y condición física)**
-  ![EmpathyMap_Segmento1](assets/img_chapter01/EmpathyMap_Segmento1.png)
+  ![EmpathyMap__Segmento1](assets/img_chapter01/EmpathyMap_Segmento1.png)
 - **Empathy Map Segundo Segmento Objetivo(Profesionales del coaching en ejercicio y alimentación)**
-  ![EmpathyMap_Segmento2](assets/img_chapter01/Empathy Map_Segmento2.png)
+  ![EmpathyMap__Segmento2](assets/img_chapter01/Empathy Map_Segmento2.png)
 ### 2.3.5. As-is Scenario Mapping.
 - As-Is del segmento objetivo usuario:
 ![As-Is Usuarios](assets/img_chapter01/As-Is_Usuarios.jpg)
