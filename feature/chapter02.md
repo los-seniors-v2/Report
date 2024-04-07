@@ -197,6 +197,25 @@
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
+1.  **Desarrollar una Propuesta de Valor Única :**
+    * Estrategia: Destacar los aspectos únicos y diferenciadores de nuestro producto que lo hacen sobresalir frente a la competencia.
+    * Táctica: Identificar las fortalezas clave de nuestro producto, como el enfoque holístico en la salud y el bienestar, y comunica claramente cómo benefician a los usuarios.
+2.  **Enfoque en la Experiencia del Usuario :**
+    * Estrategia: Priorizar la satisfacción y la experiencia del usuario para generar lealtad a la marca.
+    * Táctica: Mejorar continuamente la interfaz de usuario de nuestro aplicación, simplificando la navegación y agregando funciones que faciliten el uso y la comprensión.
+3.  **Ampliar la Base de Usuarios:**
+    * Estrategia: Atraer a más usuarios a nuestra plataforma para aumentar su visibilidad y relevancia en el mercado.
+    * Táctica: Implementar programas de referidos y promociones para incentivar a los usuarios actuales a invitar a amigos y familiares a unirse a nuestra aplicación.
+4.  **Ampliar la Base de Usuarios:**
+    * Estrategia: Destacar la capacidad de nuestro producto para adaptarse a las necesidades individuales de cada usuario.
+    * Táctica: Ofrecer opciones de personalización en los planes de ejercicio y alimentación, así como seguimiento de progreso y recomendaciones adaptadas a los objetivos y preferencias de cada usuario.
+5.  **Marketing Digital Dirigido:**
+    * Estrategia: Dirigir nuestros esfuerzos de marketing digital hacia los segmentos de mercado más relevantes y receptivos.
+    * Táctica: Utilizar estrategias de segmentación de audiencia en plataformas como redes sociales y motores de búsqueda para llegar a usuarios interesados en mejorar su salud y condición física.
+6.  **Colaboraciones Estratégicas:**
+    * Estrategia: Establecer asociaciones con otras empresas o profesionales del sector para expandir nuestro alcance y credibilidad.
+    * Táctica: Colaborar con nutricionistas, entrenadores personales o influencers en el ámbito del fitness para promocionar unestro producto y llegar a nuevas audiencias.
+
 
 ## 2.2. Entrevistas.
 El propósito de las entrevistas es adquirir una comprensión profunda de las experiencias, perspectivas y opiniones de los segmentos de mercado seleccionados. Nuestro objetivo es obtener información valiosa que nos ayude a entender mejor a nuestro público objetivo y así mejorar nuestro conocimiento sobre los usuarios. Estas conversaciones nos permitirán obtener una visión más clara de las necesidades y deseos de nuestros usuarios, lo que nos ayudará a adaptar nuestros productos o servicios de manera más efectiva a sus requerimientos.
@@ -208,14 +227,6 @@ El propósito de las entrevistas es adquirir una comprensión profunda de las ex
 4. ¿Cómo crees que una Aplicación web de coaching en línea podría ayudarte a mantenerte motivado y comprometido con tus metas de bienestar?
 5. ¿Qué características considerarías más importantes al elegir un servicio de coaching en línea para ayudarte a alcanzar tus objetivos de salud y condición física?
 6. ¿Qué esperas obtener de un coach profesional en términos de apoyo y seguimiento en tu viaje hacia un estilo de vida más saludable?
-
-* **Especialistas en Nutrición:**
-1. ¿Qué te llevó a especializarte en el campo de la nutrición y la dietética?
-2. ¿Cuáles son los mayores desafíos que enfrentas al trabajar con clientes para mejorar sus hábitos alimenticios y su salud en general?
-3. ¿Qué herramientas o recursos encuentras más útiles al proporcionar orientación nutricional a tus clientes?
-4. ¿Qué ventajas crees que ofrecería la posibilidad de brindar asesoramiento nutricional a través de una aplicación de coaching en línea?
-5. ¿Cuáles son tus principales preocupaciones o consideraciones al seleccionar una plataforma o herramienta en línea para proporcionar asesoramiento nutricional a tus clientes?
-6. ¿Cómo crees que una aplicación web de coaching en línea podría mejorar la eficacia de tu trabajo como especialista en nutrición y la experiencia de tus clientes?
 
 * **Profesionales del coaching en ejercicio y alimentación:**
 1. ¿Qué te llevó a convertirte en un profesional del coaching en ejercicio o alimentación?
@@ -258,20 +269,68 @@ Espero obtener profesionalismo, motivación, responsabilidad y compromiso.
 
 [URL de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c360_upc_edu_pe/EdSdE2ZeVzlKhhKpaprpreoBPGQf2imEYcScLVT3qf_xog?e=uICrNB)
 
+**Entrevista #2** <br>
+Nombre y apellidos: Renzo Enciso <br>
+Edad: 20 años <br>
+Distrito: Chorrillos<br>
+![Entrevista_Seg01_RenzoEnciso](assets/img_chapter01/Registro_Entrevista_Seg01_RenzoEnciso.png) <br>
+Inicio De Entrevista: 0:35 <br>
+[URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213652_upc_edu_pe/Ec7t7YwWYs9ItCcgfPgYdRgByGxI1DTcZrgy-TultQdxnw?e=abfplv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) <br>
+Resumen De Entrevista: El entrevistado muestra una motivación actual para mejorar su salud y condición física, destacando su conciencia sobre la importancia del bienestar a largo plazo. Su experiencia previa revela obstáculos como la falta de motivación constante y la carencia de apoyo adecuado en sus intentos previos por adoptar un estilo de vida más saludable. Busca un apoyo útil para alcanzar sus objetivos, priorizando el acceso a un coach profesional que brinde consejos personalizados y motivación constante. Considera que una Aplicación web de coaching en línea sería beneficiosa por su fácil acceso a recursos útiles y seguimiento del progreso. Al elegir un servicio de coaching, valora la experiencia del coach, la personalización de los planes y el apoyo constante. Espera recibir un apoyo personalizado de un coach profesional, que incluya orientación experta, seguimiento regular del progreso y motivación para superar obstáculos.
+
+- **Profesionales del coaching en ejercicio y alimentación:**
+**Entrevista #1** <br>
+Nombre y apellidos: Andres Torres <br>
+Edad: 23 años <br>
+Distrito: Lince<br>
+![Entrevista_Seg01_RenzoEnciso](assets/img_chapter01/Registro_Entrevista_Seg02_AndresTorres.png) <br>
+Inicio De Entrevista: 0:42 <br>
+[URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213652_upc_edu_pe/ETpzPv5-Yz5HouMLQsPO3PgB_Jo0HO8x9CQ4l2weGKBMdg?e=vNRQA3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) <br>
+Resumen De Entrevista: El entrevistado revela una fuerte motivación en el campo del coaching en ejercicio y alimentación, destacando su deseo de ayudar a otros a lograr sus metas de salud y bienestar de manera efectiva y sostenible. Además, reconoce los desafíos asociados con el trabajo presencial, como las limitaciones geográficas y la dificultad para mantener la consistencia en las sesiones. Expresa un claro entusiasmo por los beneficios potenciales de ofrecer servicios de coaching en línea, señalando la eliminación de barreras geográficas y una mayor flexibilidad para él y sus clientes. En cuanto a las herramientas y características esenciales, resalta la importancia de la comunicación en tiempo real, el seguimiento de progreso y los recursos educativos en una plataforma en línea. Finalmente, destaca cómo una aplicación web de coaching podría mejorar significativamente su eficacia laboral y la experiencia del cliente al proporcionar una plataforma centralizada y accesible para la comunicación y el soporte en cualquier momento y lugar.
+
+
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 En esta sección, presentaremos el perfil de nuestros User Persona, que surge de un análisis de las entrevistas realizadas anteriormente y de una evaluación de la competencia en el mercado. Los artefactos que vamos a presentar están estrechamente relacionados con las principales características identificadas durante este proceso de análisis. Desde las entrevistas, hemos extraído valiosa información sobre las necesidades, deseos y frustraciones de nuestros potenciales usuarios, lo que nos ha permitido perfilar a nuestro User Persona de manera precisa y realista.
 - **User Persona Primer Segmento Objetivo(Usuarios interesados en mejorar su salud y condición física)**
-  ![UserPersona_Segmento1](assets/img_chapter01/UserPersona_Segmento1.png)
+  ![UserPersona_Segmento1](assets/img_chapter01/UserPersona_Segmento1.jpg)
+- **User Persona Segundo Segmento Objetivo(Profesionales del coaching en ejercicio y alimentación)**
+  ![UserPersona_Segmento2](assets/img_chapter01/UserPersona__Segmento2.png)
 ### 2.3.2. User Task Matrix.
+**Segmento de mercado: Usuarios interesados en mejorar su salud y condición física**  
+
+| Servicio                                                                | Frecuencia | Importancia |
+|-------------------------------------------------------------------------|------------|-------------|
+| Motivación para mejorar salud y condición física                        | 3          | 3           |
+| Experiencia previa adoptando un estilo de vida saludable                | 2          | 2           |
+| Apoyo u orientación para alcanzar objetivos de salud y condición física | 2          | 3           |
+| Manteners e motivado y comprometido con metas de bienestar              | 3          | 5           |
+| Características importantes al elegir servicio de coaching en línea     | 5          | 3           |
+| Expectativas de apoyo y seguimiento de un coach profesional             | 3          | 5           |
+
 ### 2.3.3. User Journey Mapping
+- **Segmento Objetivo: Usuarios interesados en mejorar su salud y condición física**  
+![JourneyMap01](assets/img_chapter01/journey_map_seg01.png)
 ### 2.3.4. Empathy Mapping.
 ### 2.3.5. As-is Scenario Mapping.
-- As-Is De Usuarios interesados en mejorar su salud y condición física:
+- As-Is del segmento objetivo usuario:
 ![As-Is Usuarios](assets/img_chapter01/As-Is_Usuarios.jpg)
-- As-Is De Profesionales del coaching en ejercicio:
+- As-Is del segmento objetivo coach:
 ![As-Is_Coaching](assets/img_chapter01/As-Is_Coaching.jpg)
-- As-Is De Nutricionista:
-![As-Is_Coaching](assets/img_chapter01/As-Is_Nutricionista.jpg)
 ## 2.4. Ubiquitous Language
+
+***Member***: A person who has registered and holds a membership at the gym. Members have access to our web facilities and services.
+
+***Membership Plan***: The subscription package chosen by a member, determining the duration of access to our web application facilities and services.
+
+***Coach***: A certified fitness professional employed by the gym to provide personalized training sessions and fitness advice to members.
+
+***Workout Routine***: A personalized plan created for a member by a coach, outlining specific exercises, sets, and repetitions to achieve fitness goals.
+
+***Nutrition Plan***: A dietary plan designed for a member by coach, specifying recommended meals, portion sizes, and nutritional guidelines to support fitness objectives.
+
+Implementation example:
+When a ***member*** signs up for a ***membership plan***, they are presented with options labeled as "***Membership Plans***".
+
+When a ***coach*** creates a ***workout routine*** or ***nutrition plan*** for a ***member***, the terminology used within the software aligns with the ubiquitous language established.
