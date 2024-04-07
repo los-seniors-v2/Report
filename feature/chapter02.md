@@ -314,9 +314,9 @@ En esta sección, presentaremos el perfil de nuestros User Persona, que surge de
 ![JourneyMap01](assets/img_chapter01/journey_map_seg01.png)
 ### 2.3.4. Empathy Mapping.
 ### 2.3.5. As-is Scenario Mapping.
-- As-Is De Usuarios interesados en mejorar su salud y condición física:
+- As-Is del segmento objetivo usuario:
 ![As-Is Usuarios](assets/img_chapter01/As-Is_Usuarios.jpg)
-- As-Is De Profesionales del coaching en ejercicio:
+- As-Is del segmento objetivo coach:
 ![As-Is_Coaching](assets/img_chapter01/As-Is_Coaching.jpg)
 ## 2.4. Ubiquitous Language
 
