@@ -238,7 +238,7 @@ El propósito de las entrevistas es adquirir una comprensión profunda de las ex
 ### 2.2.2. Registro de entrevistas.
 - **Individuos interesados en mejorar su salud y condición física:**  
 **Entrevista #1**  
-Nombre y apellidos: Javier Carpio Cornejo  
+Nombre y apellidos: Javier Cornejo  
 Edad: 30 años  
 ![Entrevista_Seg01_JavierCarpio](assets/img_chapter01/Registro_Entrevista_Seg01_JavierCarpio.png)
 
