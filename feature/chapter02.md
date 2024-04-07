@@ -228,14 +228,6 @@ El propósito de las entrevistas es adquirir una comprensión profunda de las ex
 5. ¿Qué características considerarías más importantes al elegir un servicio de coaching en línea para ayudarte a alcanzar tus objetivos de salud y condición física?
 6. ¿Qué esperas obtener de un coach profesional en términos de apoyo y seguimiento en tu viaje hacia un estilo de vida más saludable?
 
-* **Especialistas en Nutrición:**
-1. ¿Qué te llevó a especializarte en el campo de la nutrición y la dietética?
-2. ¿Cuáles son los mayores desafíos que enfrentas al trabajar con clientes para mejorar sus hábitos alimenticios y su salud en general?
-3. ¿Qué herramientas o recursos encuentras más útiles al proporcionar orientación nutricional a tus clientes?
-4. ¿Qué ventajas crees que ofrecería la posibilidad de brindar asesoramiento nutricional a través de una aplicación de coaching en línea?
-5. ¿Cuáles son tus principales preocupaciones o consideraciones al seleccionar una plataforma o herramienta en línea para proporcionar asesoramiento nutricional a tus clientes?
-6. ¿Cómo crees que una aplicación web de coaching en línea podría mejorar la eficacia de tu trabajo como especialista en nutrición y la experiencia de tus clientes?
-
 * **Profesionales del coaching en ejercicio y alimentación:**
 1. ¿Qué te llevó a convertirte en un profesional del coaching en ejercicio o alimentación?
 2. ¿Cuáles son los mayores desafíos que enfrentas al trabajar con clientes de manera presencial?
@@ -303,6 +295,8 @@ Resumen De Entrevista: El entrevistado revela una fuerte motivación en el campo
 En esta sección, presentaremos el perfil de nuestros User Persona, que surge de un análisis de las entrevistas realizadas anteriormente y de una evaluación de la competencia en el mercado. Los artefactos que vamos a presentar están estrechamente relacionados con las principales características identificadas durante este proceso de análisis. Desde las entrevistas, hemos extraído valiosa información sobre las necesidades, deseos y frustraciones de nuestros potenciales usuarios, lo que nos ha permitido perfilar a nuestro User Persona de manera precisa y realista.
 - **User Persona Primer Segmento Objetivo(Usuarios interesados en mejorar su salud y condición física)**
   ![UserPersona_Segmento1](assets/img_chapter01/UserPersona_Segmento1.png)
+- **User Persona Segundo Segmento Objetivo(Profesionales del coaching en ejercicio y alimentación)**
+  ![UserPersona_Segmento2](assets/img_chapter01/UserPersona__Segmento2.png)
 ### 2.3.2. User Task Matrix.
 **Segmento de mercado: Usuarios interesados en mejorar su salud y condición física**  
 
@@ -324,8 +318,6 @@ En esta sección, presentaremos el perfil de nuestros User Persona, que surge de
 ![As-Is Usuarios](assets/img_chapter01/As-Is_Usuarios.jpg)
 - As-Is De Profesionales del coaching en ejercicio:
 ![As-Is_Coaching](assets/img_chapter01/As-Is_Coaching.jpg)
-- As-Is De Nutricionista:
-![As-Is_Coaching](assets/img_chapter01/As-Is_Nutricionista.jpg)
 ## 2.4. Ubiquitous Language
 
 ***Member***: A person who has registered and holds a membership at the gym. Members have access to our web facilities and services.
