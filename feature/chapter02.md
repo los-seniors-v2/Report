@@ -324,16 +324,14 @@ En esta sección, presentaremos el perfil de nuestros User Persona, que surge de
 - **User Persona Segundo Segmento Objetivo(Profesionales del coaching en ejercicio y alimentación)**
   ![UserPersona_Segmento2](assets/img_chapter01/UserPersona__Segmento2.png)
 ### 2.3.2. User Task Matrix.
-**Segmento de mercado: Usuarios interesados en mejorar su salud y condición física**  
-
-| Servicio                                                                | Frecuencia | Importancia |
-|-------------------------------------------------------------------------|------------|-------------|
-| Motivación para mejorar salud y condición física                        | 3          | 3           |
-| Experiencia previa adoptando un estilo de vida saludable                | 2          | 2           |
-| Apoyo u orientación para alcanzar objetivos de salud y condición física | 2          | 3           |
-| Manteners e motivado y comprometido con metas de bienestar              | 3          | 5           |
-| Características importantes al elegir servicio de coaching en línea     | 5          | 3           |
-| Expectativas de apoyo y seguimiento de un coach profesional             | 3          | 5           |
+| Tareas                                               | Usuarios interesados en mejorar su salud y condición física | Profesionales del coaching en ejercicio y alimentación |
+|------------------------------------------------------|-------------------------------------------------------------|--------------------------------------------------------|
+| Lograr peso deseado                                  | A menudo                                                   | A menudo                                               |
+| Oportunidad de alcanzar sus objetivos con el internet | A menudo                                                   | A menudo                                               |
+| Dieta más saludable                                  | A menudo                                                   | A menudo                                               |
+| Brindar buen servicio                                | Nunca                                                      | A menudo                                               |
+| Poder conectar con sus clientes                     | A veces                                                    | A menudo                                               |
+| Contar con herramientas que le ayuden a agilizar su trabajo | A veces                                             | A menudo                                               |
 
 ### 2.3.3. User Journey Mapping
 - **Segmento Objetivo: Usuarios interesados en mejorar su salud y condición física**  
