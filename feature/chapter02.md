@@ -304,7 +304,7 @@ Inicio De Entrevista: 0:10 <br>
 - Espero que él me dé una buena organización, en mis alimentos, de manera en que me indique que comer. Que organice los ejercicios. Y en base de eso, espero que indique en semanas si mejore mi condición física y mi salud.
 - - -
 - **Profesionales del coaching en ejercicio y alimentación:**
-**Entrevista #1** <br>
+- **Entrevista #1** <br>
 Nombre y apellidos: Andres Torres <br>
 Edad: 23 años <br>
 Distrito: Lince<br>
@@ -312,6 +312,15 @@ Distrito: Lince<br>
 Inicio De Entrevista: 0:42 <br>
 [URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213652_upc_edu_pe/ETpzPv5-Yz5HouMLQsPO3PgB_Jo0HO8x9CQ4l2weGKBMdg?e=vNRQA3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) <br>
 Resumen De Entrevista: El entrevistado revela una fuerte motivación en el campo del coaching en ejercicio y alimentación, destacando su deseo de ayudar a otros a lograr sus metas de salud y bienestar de manera efectiva y sostenible. Además, reconoce los desafíos asociados con el trabajo presencial, como las limitaciones geográficas y la dificultad para mantener la consistencia en las sesiones. Expresa un claro entusiasmo por los beneficios potenciales de ofrecer servicios de coaching en línea, señalando la eliminación de barreras geográficas y una mayor flexibilidad para él y sus clientes. En cuanto a las herramientas y características esenciales, resalta la importancia de la comunicación en tiempo real, el seguimiento de progreso y los recursos educativos en una plataforma en línea. Finalmente, destaca cómo una aplicación web de coaching podría mejorar significativamente su eficacia laboral y la experiencia del cliente al proporcionar una plataforma centralizada y accesible para la comunicación y el soporte en cualquier momento y lugar.
+  
+- **Entrevista #2** <br>
+  Nombre y apellidos: Cristopher Paredes <br>
+  Edad: 23 años <br>
+  Distrito: Santiago de Surco<br>
+  ![Entrevista_Seg01_RenzoEnciso](assets/img_chapter01/Registro_Entrevista_Seg02_Cristopher.png) <br>
+  Inicio De Entrevista: 0:12 <br>
+  [URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218996_upc_edu_pe/Eacs2f3FM1BHuKWBVQeYPMcBG1p_bXqAgge7QaNddKzNBw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=7tgXih) <br>
+  Resumen De Entrevista: El entrevistado muestra el porque inició en el mundo del coaching y nutrición, destacando su deseo de ayudar a otras personas a obtener su cuerpo deseado. Ya que como él dice, entrenar y comer saludable es distinto a solamente comer saludable. Reconoce los desafios de de trabajar de manera presencial, como la dificultad de tener mas asesorados. Expresa entusiasmo por los beneficios que obtendría ofreciendo servicios de coaching en linea. En cuanto a las herramientas y caracteristicas esenciales, resalta la facilidad de hablar con mas asesorados en el transcurso del dia, asi como el seguimiento de progreso que los obtendria consultando una base de datos. Finalmente, destaca cómo una aplicación web de coaching podría mejorar significativamente su eficacia laboral y la experiencia del cliente.  
 
 
 
