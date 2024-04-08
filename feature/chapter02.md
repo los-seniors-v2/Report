@@ -1,14 +1,14 @@
 # **Capítulo II:  Requirements Elicitation & Analysis**
 ## 2.1. Competidores.
-![MyFitnessPal](assets/img_chapter01/MyFitnessPal_Logo+.png)
+<img src="assets/img_chapter01/MyFitnessPal_Logo+.png" alt="MFPlogo" width="200" height="200">   
 
 ***MyFitnessPal:*** Es una de las aplicaciones líderes en el seguimiento de alimentos y ejercicio físico. Ofrece una amplia base de datos de alimentos y permite a los usuarios realizar un seguimiento de su ingesta calórica y actividad física para ayudarles a alcanzar sus objetivos de salud y fitness. Además del seguimiento básico, MyFitnessPal también proporciona herramientas para establecer metas personalizadas, crear planes de alimentación y recibir apoyo de una comunidad activa de usuarios.
 
-![Noom](assets/img_chapter01/Noom_logo.png)
+<img src="assets/img_chapter01/Noom_logo.png" alt="NOOMlogo" width="200" height="200">   
 
 ***Noom:*** Es una aplicación de coaching en salud y bienestar que se centra en la pérdida de peso y el cambio de hábitos. Utiliza un enfoque basado en la psicología y la tecnología para ayudar a los usuarios a desarrollar hábitos saludables a largo plazo. Noom ofrece programas personalizados de pérdida de peso, seguimiento del progreso, educación sobre nutrición y ejercicio, así como apoyo de coaches certificados.
 
-![NikeTrainingClub](assets/img_chapter01/NTC_logo.png)
+<img src="assets/img_chapter01/NTC_logo.png" alt="NTClogo" width="200" height="200">   
 
 ***NikeTrainingClub:*** Es una aplicación de entrenamiento de Nike que ofrece una amplia variedad de programas de ejercicio, desde entrenamientos de fuerza hasta yoga y cardio. La aplicación incluye entrenamientos guiados por expertos, seguimiento del progreso y una comunidad activa de usuarios que comparten sus logros y motivan a otros. Además, Nike Training Club está integrado con dispositivos Nike y ofrece acceso exclusivo a contenido de entrenamiento de atletas y celebridades patrocinados por Nike.
 ### 2.1.1. Análisis competitivo.
@@ -228,14 +228,6 @@ El propósito de las entrevistas es adquirir una comprensión profunda de las ex
 5. ¿Qué características considerarías más importantes al elegir un servicio de coaching en línea para ayudarte a alcanzar tus objetivos de salud y condición física?
 6. ¿Qué esperas obtener de un coach profesional en términos de apoyo y seguimiento en tu viaje hacia un estilo de vida más saludable?
 
-* **Especialistas en Nutrición:**
-1. ¿Qué te llevó a especializarte en el campo de la nutrición y la dietética?
-2. ¿Cuáles son los mayores desafíos que enfrentas al trabajar con clientes para mejorar sus hábitos alimenticios y su salud en general?
-3. ¿Qué herramientas o recursos encuentras más útiles al proporcionar orientación nutricional a tus clientes?
-4. ¿Qué ventajas crees que ofrecería la posibilidad de brindar asesoramiento nutricional a través de una aplicación de coaching en línea?
-5. ¿Cuáles son tus principales preocupaciones o consideraciones al seleccionar una plataforma o herramienta en línea para proporcionar asesoramiento nutricional a tus clientes?
-6. ¿Cómo crees que una aplicación web de coaching en línea podría mejorar la eficacia de tu trabajo como especialista en nutrición y la experiencia de tus clientes?
-
 * **Profesionales del coaching en ejercicio y alimentación:**
 1. ¿Qué te llevó a convertirte en un profesional del coaching en ejercicio o alimentación?
 2. ¿Cuáles son los mayores desafíos que enfrentas al trabajar con clientes de manera presencial?
@@ -245,46 +237,82 @@ El propósito de las entrevistas es adquirir una comprensión profunda de las ex
 6. ¿Cómo crees que una aplicación web de coaching  podría mejorar la eficacia de tu trabajo como coach y la experiencia de tus clientes?
 ### 2.2.2. Registro de entrevistas.
 - **Individuos interesados en mejorar su salud y condición física:**  
-
 **Entrevista #1**  
-Nombre y apellidos: Javier Carpio Cornejo  
+Nombre y apellidos: Javier Cornejo  
 Edad: 30 años  
-![Entrevista_Seg01_JavierCarpio](assets/img_chapter01/Registro_Entrevista_Seg01_JavierCarpio.png)  
+![Entrevista_Seg01_JavierCarpio](assets/img_chapter01/Registro_Entrevista_Seg01_JavierCarpio.png)
 
 **Transcripción:**  
 
 **¿Qué te ha motivado a buscar maneras de mejorar tu salud y condición física en este momento?**  
-Mejorar mi rendimiento físico y mental para cumplir satisfactoriamente todas las actividades que me planteo en el día.
+- Mejorar mi rendimiento físico y mental para cumplir satisfactoriamente todas las actividades que me planteo en el día.
 
 **¿Cuál ha sido tu experiencia previa al intentar adoptar un estilo de vida más saludable? ¿Qué obstáculos has enfrentado?**  
-Experiencia desfavorable y los obstáculos fueron no poder variar las actividades saludables durante un periodo largo, haciendo esto repetitivo y cansado.
+- Experiencia desfavorable y los obstáculos fueron no poder variar las actividades saludables durante un periodo largo, haciendo esto repetitivo y cansado.
 
 
 **¿Qué tipo de apoyo o orientación te resultaría más útil para alcanzar tus objetivos de salud y condición física?**  
-Definitivamente un guia para entrenar y un nutricionista que mejore mi alimentación
+- Definitivamente un guia para entrenar y un nutricionista que mejore mi alimentación
 
 
 **¿Cómo crees que una Aplicación web de coaching en línea podría ayudarte a mantenerte motivado y comprometido con tus metas de bienestar?**  
-Creo que un coaching en linea podría ayudarme en incluir correctamente la rutina dentro de mis actividaes diarias. Además un seguimiento por parte de él evitaría caer en la rutina y desmotivación.
+- Creo que un coaching en linea podría ayudarme en incluir correctamente la rutina dentro de mis actividaes diarias. Además un seguimiento por parte de él evitaría caer en la rutina y desmotivación.
 
 
 **¿Qué características considerarías más importantes al elegir un servicio de coaching en línea para ayudarte a alcanzar tus objetivos de salud y condición física?**  
-Considero que debe tener una atención rápida, un plan de actividades semanales y profesionales con capacitaciones constantes.
+- Considero que debe tener una atención rápida, un plan de actividades semanales y profesionales con capacitaciones constantes.
 
 
 **¿Qué esperas obtener de un coach profesional en términos de apoyo y seguimiento en tu viaje hacia un estilo de vida más saludable?**  
-Espero obtener profesionalismo, motivación, responsabilidad y compromiso.  
+- Espero obtener profesionalismo, motivación, responsabilidad y compromiso.  
 
 [URL de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c360_upc_edu_pe/EdSdE2ZeVzlKhhKpaprpreoBPGQf2imEYcScLVT3qf_xog?e=uICrNB)
-
+- - -
 **Entrevista #2** <br>
 Nombre y apellidos: Renzo Enciso <br>
 Edad: 20 años <br>
 Distrito: Chorrillos<br>
 ![Entrevista_Seg01_RenzoEnciso](assets/img_chapter01/Registro_Entrevista_Seg01_RenzoEnciso.png) <br>
 Inicio De Entrevista: 0:35 <br>
-[URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213652_upc_edu_pe/Ec7t7YwWYs9ItCcgfPgYdRgByGxI1DTcZrgy-TultQdxnw?e=abfplv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) <br>
+[URL de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213652_upc_edu_pe/Ec7t7YwWYs9ItCcgfPgYdRgByGxI1DTcZrgy-TultQdxnw?e=abfplv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) <br>
 Resumen De Entrevista: El entrevistado muestra una motivación actual para mejorar su salud y condición física, destacando su conciencia sobre la importancia del bienestar a largo plazo. Su experiencia previa revela obstáculos como la falta de motivación constante y la carencia de apoyo adecuado en sus intentos previos por adoptar un estilo de vida más saludable. Busca un apoyo útil para alcanzar sus objetivos, priorizando el acceso a un coach profesional que brinde consejos personalizados y motivación constante. Considera que una Aplicación web de coaching en línea sería beneficiosa por su fácil acceso a recursos útiles y seguimiento del progreso. Al elegir un servicio de coaching, valora la experiencia del coach, la personalización de los planes y el apoyo constante. Espera recibir un apoyo personalizado de un coach profesional, que incluya orientación experta, seguimiento regular del progreso y motivación para superar obstáculos.
+- - -
+**Entrevista #3** <br>
+Nombre y apellidos: Diego Paulino <br>
+Edad: 21 años <br>
+Distrito: Santiago de Surco <br>
+![Entrevista_Seg01_DiegoPaulino](assets/img_chapter01/Registro_Entrevista_Seg01_DiegoPaulino.png) <br>
+Inicio De Entrevista: 0:10 <br>
+[URL de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202012207_upc_edu_pe/EQyvgUTQcndGpVwbXHjXbicBN1_OcDsCOwjHTs4Rx1N8hQ?e=YuRagK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+**¿Qué te ha motivado a buscar maneras de mejorar tu salud y condición física en este momento?**
+- Tener un buen físico de manera natural y tener también una salud más organizada.
+
+**¿Cuál ha sido tu experiencia previa al intentar adoptar un estilo de vida más saludable? ¿Qué obstáculos has enfrentado?**
+- Mi experiencia previa fue buena. Consumir alimento más saludable, tener entrenamientos día a día. Aun asó he tenido problemas a veces tanto de intentar alimentarme de la mejor manera, pero no encuentro que mi cuerpo mejore.
+
+**¿Qué tipo de apoyo o orientación te resultaría más útil para alcanzar tus objetivos de salud y condición física?**
+- Me me resultaría más que nada tener un apoyo de alguien que sepa en como yo pueda mejorar mi capacidad física o también de manera de salud. Cómo comer más saludable de manera organizadamente.
+
+**¿Cómo crees que una Aplicación web de coaching en línea podría ayudarte a mantenerte motivado y comprometido con tus metas de bienestar?**
+- La verdad que me ayudaría mucho en tener una buena organización de los alimentos, las calorías de las proteínas y de que como yo podría tener buen ejercicios día a día, brazos, pierna en diferentes días y horas.
+
+**¿Qué características considerarías más importantes al elegir un servicio de coaching en línea para ayudarte a alcanzar tus objetivos de salud y condición física?**
+- Que el coach sea sociable, empático, que genere confianza.
+
+**¿Qué esperas obtener de un coach profesional en términos de apoyo y seguimiento en tu viaje hacia un estilo de vida más saludable?**
+- Espero que él me dé una buena organización, en mis alimentos, de manera en que me indique que comer. Que organice los ejercicios. Y en base de eso, espero que indique en semanas si mejore mi condición física y mi salud.
+- - -
+- **Profesionales del coaching en ejercicio y alimentación:**
+**Entrevista #1** <br>
+Nombre y apellidos: Andres Torres <br>
+Edad: 23 años <br>
+Distrito: Lince<br>
+![Entrevista_Seg01_RenzoEnciso](assets/img_chapter01/Registro_Entrevista_Seg02_AndresTorres.png) <br>
+Inicio De Entrevista: 0:42 <br>
+[URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213652_upc_edu_pe/ETpzPv5-Yz5HouMLQsPO3PgB_Jo0HO8x9CQ4l2weGKBMdg?e=vNRQA3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) <br>
+Resumen De Entrevista: El entrevistado revela una fuerte motivación en el campo del coaching en ejercicio y alimentación, destacando su deseo de ayudar a otros a lograr sus metas de salud y bienestar de manera efectiva y sostenible. Además, reconoce los desafíos asociados con el trabajo presencial, como las limitaciones geográficas y la dificultad para mantener la consistencia en las sesiones. Expresa un claro entusiasmo por los beneficios potenciales de ofrecer servicios de coaching en línea, señalando la eliminación de barreras geográficas y una mayor flexibilidad para él y sus clientes. En cuanto a las herramientas y características esenciales, resalta la importancia de la comunicación en tiempo real, el seguimiento de progreso y los recursos educativos en una plataforma en línea. Finalmente, destaca cómo una aplicación web de coaching podría mejorar significativamente su eficacia laboral y la experiencia del cliente al proporcionar una plataforma centralizada y accesible para la comunicación y el soporte en cualquier momento y lugar.
+
 
 
 ### 2.2.3. Análisis de entrevistas.
@@ -292,28 +320,45 @@ Resumen De Entrevista: El entrevistado muestra una motivación actual para mejor
 ### 2.3.1. User Personas.
 En esta sección, presentaremos el perfil de nuestros User Persona, que surge de un análisis de las entrevistas realizadas anteriormente y de una evaluación de la competencia en el mercado. Los artefactos que vamos a presentar están estrechamente relacionados con las principales características identificadas durante este proceso de análisis. Desde las entrevistas, hemos extraído valiosa información sobre las necesidades, deseos y frustraciones de nuestros potenciales usuarios, lo que nos ha permitido perfilar a nuestro User Persona de manera precisa y realista.
 - **User Persona Primer Segmento Objetivo(Usuarios interesados en mejorar su salud y condición física)**
-  ![UserPersona_Segmento1](assets/img_chapter01/UserPersona_Segmento1.png)
+  ![UserPersona_Segmento1](assets/img_chapter01/UserPersona_Segmento1.jpg)
+- **User Persona Segundo Segmento Objetivo(Profesionales del coaching en ejercicio y alimentación)**
+  ![UserPersona_Segmento2](assets/img_chapter01/UserPersona__Segmento2.png)
 ### 2.3.2. User Task Matrix.
-**Segmento de mercado: Usuarios interesados en mejorar su salud y condición física**  
-
-| Servicio                                                      | Frecuencia | Importancia |
-|---------------------------------------------------------------|------------|-------------|
-| Motivación para mejorar salud y condición física             | 3          | 3           |
-| Experiencia previa adoptando un estilo de vida saludable      | 2          | 2           |
-| Apoyo u orientación para alcanzar objetivos de salud y condición física | 2          | 3           |
-| Mantenerse motivado y comprometido con metas de bienestar    | 3          | 5           |
-| Características importantes al elegir servicio de coaching en línea | 5          | 3           |
-| Expectativas de apoyo y seguimiento de un coach profesional  | 3          | 5           |
+| Tareas                                               | Usuarios interesados en mejorar su salud y condición física | Profesionales del coaching en ejercicio y alimentación |
+|------------------------------------------------------|-------------------------------------------------------------|--------------------------------------------------------|
+| Lograr peso deseado                                  | A menudo                                                   | A menudo                                               |
+| Oportunidad de alcanzar sus objetivos con el internet | A menudo                                                   | A menudo                                               |
+| Dieta más saludable                                  | A menudo                                                   | A menudo                                               |
+| Brindar buen servicio                                | Nunca                                                      | A menudo                                               |
+| Poder conectar con sus clientes                     | A veces                                                    | A menudo                                               |
+| Contar con herramientas que le ayuden a agilizar su trabajo | A veces                                             | A menudo                                               |
 
 ### 2.3.3. User Journey Mapping
 - **Segmento Objetivo: Usuarios interesados en mejorar su salud y condición física**  
 ![JourneyMap01](assets/img_chapter01/journey_map_seg01.png)
 ### 2.3.4. Empathy Mapping.
+- **Empathy Map Primer Segmento Objetivo(Usuarios interesados en mejorar su salud y condición física)**
+  ![EmpathyMap__Segmento1](assets/img_chapter01/EmpathyMap_Segmento1.png)
+- **Empathy Map Segundo Segmento Objetivo(Profesionales del coaching en ejercicio y alimentación)**
+  ![EmpathyMap__Segmento2](assets/img_chapter01/EmpathyMap_Segmento2.png)
 ### 2.3.5. As-is Scenario Mapping.
-- As-Is De Usuarios interesados en mejorar su salud y condición física:
+- As-Is del segmento objetivo usuario:
 ![As-Is Usuarios](assets/img_chapter01/As-Is_Usuarios.jpg)
-- As-Is De Profesionales del coaching en ejercicio:
+- As-Is del segmento objetivo coach:
 ![As-Is_Coaching](assets/img_chapter01/As-Is_Coaching.jpg)
-- As-Is De Nutricionista:
-![As-Is_Coaching](assets/img_chapter01/As-Is_Nutricionista.jpg)
 ## 2.4. Ubiquitous Language
+
+***Member***: A person who has registered and holds a membership at the gym. Members have access to our web facilities and services.
+
+***Membership Plan***: The subscription package chosen by a member, determining the duration of access to our web application facilities and services.
+
+***Coach***: A certified fitness professional employed by the gym to provide personalized training sessions and fitness advice to members.
+
+***Workout Routine***: A personalized plan created for a member by a coach, outlining specific exercises, sets, and repetitions to achieve fitness goals.
+
+***Nutrition Plan***: A dietary plan designed for a member by coach, specifying recommended meals, portion sizes, and nutritional guidelines to support fitness objectives.
+
+Implementation example:
+When a ***member*** signs up for a ***membership plan***, they are presented with options labeled as "***Membership Plans***".
+
+When a ***coach*** creates a ***workout routine*** or ***nutrition plan*** for a ***member***, the terminology used within the software aligns with the ubiquitous language established.
