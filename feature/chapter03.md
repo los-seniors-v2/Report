@@ -8,7 +8,6 @@
 ## 3.2. User Stories.
 Para elaborar user stories que pertenecen a un epic. A continuación, las epics que consideramos como equipo:
 
-
 | **Código** | **Título**                                      | **Epic**                                                                                                          |
 |------------|-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
 | EP001      | Gestión de cuentas                              | **Como** usuario de la plataforma, **Quiero** poder gestionar mi cuenta, **Para** poder actualizar mi información personal, cambiar mi contraseña y gestionar mis preferencias de privacidad.  |
