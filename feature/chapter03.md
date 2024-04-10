@@ -74,4 +74,6 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 <img src="assets/img/Impact_map_01.png" alt="Impactmap01">
 
 ### Segment 2: Coachs
+<img src="assets/img/Impact_map_02.png" alt="Impactmap02">
+
 ## 3.4. Product Backlog.
