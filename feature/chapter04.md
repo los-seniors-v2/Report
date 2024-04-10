@@ -287,3 +287,4 @@ el tamaño de la pantalla.</td>
 - SistemaAplicacion: Esta clase conecta las funcionalidades del sistema. Tiene atributos para gestionar instancias de PlanAlimenticio, Suscripcion y RutinaGimnasio. Sus métodos permiten establecer y obtener estas instancias.
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
+![DataBaseDiagram](assets/img/DbDiagram.png)
