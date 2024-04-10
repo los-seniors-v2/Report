@@ -3,8 +3,8 @@
 # APLICACIONES WEB (SV51)
 ## PROFESOR: Angel Augusto Velasquez Nuñez
 ## "INFORME DE TRABAJO FINAL APLICACIONES WEB"
-## STARTUP:
-## NOMBRE DEL PRODUCTO:
+## STARTUP: Gymfinity
+## NOMBRE DEL PRODUCTO: FlexPal
 - - -
 ### INTEGRANTES
 - Miguel Angel Jesus Carpio Cornejo (U20221C360)
