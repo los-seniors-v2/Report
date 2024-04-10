@@ -327,6 +327,21 @@ Resumen De Entrevista: El entrevistado revela una fuerte motivación en el campo
 Este análisis sugiere que ambos entrevistados comparten similitudes en términos de motivación, desafíos enfrentados y expectativas del servicio de coaching en línea. Identificar estas características comunes nos permitirá ayudar a orientar el diseño y desarrollo de la aplicación web para satisfacer las necesidades y expectativas de este grupo objetivo.
 
 - #### Analisis Segundo Segmento:
+![Pregunta1](assets/img/Resultados_Segmento2_Pregunta1.png)
+![Pregunta2](assets/img/Resultados_Segmento2_Pregunta2.png)
+![Pregunta3](assets/img/Resultados_Segmento2_Pregunta3.png)
+![Pregunta4](assets/img/Resultados_Segmento2_Pregunta4.png)
+![Pregunta5](assets/img/Resultados_Segmento2_Pregunta5.png)
+![Pregunta6](assets/img/Resultados_Segmento2_Pregunta6.png)
+Características comunes:
+
+- **Motivación y pasión**: Todos los entrevistados muestran una fuerte motivación y pasión por el campo del coaching en ejercicio y alimentación, destacando su deseo de ayudar a otros a mejorar su salud y bienestar.
+- **Reconocimiento de desafíos**: Los entrevistados reconocen los desafíos asociados con el trabajo presencial, como las limitaciones geográficas y la dificultad para mantener la consistencia en las sesiones.
+- **Interés en la virtualidad**: Todos expresan un claro entusiasmo por los beneficios potenciales de ofrecer servicios de coaching en línea, como la eliminación de barreras geográficas y una mayor flexibilidad para ellos y sus clientes.
+- **Importancia de herramientas y características esenciales**: Resaltan la importancia de herramientas como la comunicación en tiempo real, el seguimiento del progreso y los recursos educativos en una plataforma en línea para brindar un servicio efectivo.
+- **Mejora de la eficacia laboral**: Todos destacan cómo una aplicación web de coaching podría mejorar
+
+
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 En esta sección, presentaremos el perfil de nuestros User Persona, que surge de un análisis de las entrevistas realizadas anteriormente y de una evaluación de la competencia en el mercado. Los artefactos que vamos a presentar están estrechamente relacionados con las principales características identificadas durante este proceso de análisis. Desde las entrevistas, hemos extraído valiosa información sobre las necesidades, deseos y frustraciones de nuestros potenciales usuarios, lo que nos ha permitido perfilar a nuestro User Persona de manera precisa y realista.
