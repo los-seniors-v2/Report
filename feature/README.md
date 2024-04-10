@@ -1,5 +1,5 @@
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
-![UPC](assets/img/UPC_logo_transparente.png)
+![UPC](assets/img_chapter01/UPC_logo_transparente.png)
 # APLICACIONES WEB (SV51)
 ## PROFESOR: Angel Augusto Velasquez Nuñez
 ## "INFORME DE TRABAJO FINAL APLICACIONES WEB"

@@ -306,9 +306,17 @@ Resumen De Entrevista: El entrevistado revela una fuerte motivación en el campo
   [URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218996_upc_edu_pe/Eacs2f3FM1BHuKWBVQeYPMcBG1p_bXqAgge7QaNddKzNBw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=7tgXih) <br>
   Resumen De Entrevista: El entrevistado muestra el porque inició en el mundo del coaching y nutrición, destacando su deseo de ayudar a otras personas a obtener su cuerpo deseado. Ya que como él dice, entrenar y comer saludable es distinto a solamente comer saludable. Reconoce los desafios de de trabajar de manera presencial, como la dificultad de tener mas asesorados. Expresa entusiasmo por los beneficios que obtendría ofreciendo servicios de coaching en linea. En cuanto a las herramientas y caracteristicas esenciales, resalta la facilidad de hablar con mas asesorados en el transcurso del dia, asi como el seguimiento de progreso que los obtendria consultando una base de datos. Finalmente, destaca cómo una aplicación web de coaching podría mejorar significativamente su eficacia laboral y la experiencia del cliente.  
 
-
-
 ### 2.2.3. Análisis de entrevistas.
+- #### Analisis Primer Segmento:
+![Pregunta1](assets/img/Resultados_Segmento1_Pregunta1.png)
+![Pregunta2](assets/img/Resultados_Segmento1_Pregunta2.png)
+![Pregunta3](assets/img/Resultados_Segmento1_Pregunta3.png)
+![Pregunta4](assets/img/Resultados_Segmento1_Pregunta4.png)
+![Pregunta5](assets/img/Resultados_Segmento1_Pregunta5.png)
+![Pregunta6](assets/img/Resultados_Segmento1_Pregunta6.png)
+Este análisis sugiere que ambos entrevistados comparten similitudes en términos de motivación, desafíos enfrentados y expectativas del servicio de coaching en línea. Identificar estas características comunes nos permitirá ayudar a orientar el diseño y desarrollo de la aplicación web para satisfacer las necesidades y expectativas de este grupo objetivo.
+
+- #### Analisis Segundo Segmento:
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 En esta sección, presentaremos el perfil de nuestros User Persona, que surge de un análisis de las entrevistas realizadas anteriormente y de una evaluación de la competencia en el mercado. Los artefactos que vamos a presentar están estrechamente relacionados con las principales características identificadas durante este proceso de análisis. Desde las entrevistas, hemos extraído valiosa información sobre las necesidades, deseos y frustraciones de nuestros potenciales usuarios, lo que nos ha permitido perfilar a nuestro User Persona de manera precisa y realista.
