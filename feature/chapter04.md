@@ -269,7 +269,9 @@ el tamaño de la pantalla.</td>
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
+![Context-FlexPal](assets/img/ContextFlexPal.png)
 ### 4.6.2. Software Architecture Container Diagrams
+![Container-FlexPal](assets/img/ContainerFlexPal.png)
 ### 4.6.3. Software Architecture Components Diagrams
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
