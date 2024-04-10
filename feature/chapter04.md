@@ -23,6 +23,12 @@
 ### 4.6.3. Software Architecture Components Diagrams.
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
+![DiagramaClases](assets/img_chapter01/DiagramC.png)
 ### 4.7.2. Class Dictionary.
+- Suscripcion: Representa la suscripción de un usuario al servicio. Tiene los atributos idUsuario para el identificador del usuario y suscrito para indicar si está suscrito o no. Sus métodos incluyen Suscribir para suscribir al usuario, CancelarSuscripcion para cancelar la suscripción y EstaSuscrito para verificar el estado de suscripción.
+- Usuario: Representa un usuario del sistema. Tiene los atributos idUsuario, nombreUsuario y correoElectronico. Sus métodos permiten establecer y obtener estos atributos.
+- RutinaGimnasio: Representa una rutina de ejercicio en el gimnasio. Tiene los atributos idRutina, nombreRutina y entrenador. Sus métodos permiten establecer y obtener estos atributos.
+- PlanAlimenticio: Representa un plan alimenticio personalizado para un usuario. Tiene los atributos idPlan, nombrePlan y nutricionista. Sus métodos permiten establecer y obtener estos atributos.
+- SistemaAplicacion: Esta clase conecta las funcionalidades del sistema. Tiene atributos para gestionar instancias de PlanAlimenticio, Suscripcion y RutinaGimnasio. Sus métodos permiten establecer y obtener estas instancias.
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
