@@ -203,7 +203,7 @@ el tamaño de la pantalla.</td>
 <br>
 <td>Las meta etiquetas nos permiten codificar y especificar metadatos en una página web. Aunque no son visibles para los usuarios, los navegadores y rastreadores web las leen. Estas etiquetas facilitan el análisis de archivos HTML y ayudan en el mantenimiento del contenido. Además, influyen en el posicionamiento de nuestra página en los motores de búsqueda.</td>
 
-`<title>Register your processes with FlexHub</title>`
+`<title>Register your processes with FlexPal</title>`
 
 **Codificación de caracteres**
 <br>
@@ -227,8 +227,8 @@ el tamaño de la pantalla.</td>
 <br>
 <td>Se utiliza para registrar la información del autor de la página web y la propiedad y derechos de autor.</td>
 
-`<meta name="author" content="FlexHub"/>` <br>
-`<meta name="copyright" content="Copyright FlexHub team" />`
+`<meta name="author" content="FlexPal"/>` <br>
+`<meta name="copyright" content="Copyright FlexPal team" />`
 
 ### 4.2.4. Searching Systems
 <td>El motor de búsqueda es fundamental para que los usuarios encuentren rápidamente detalles específicos</td>
