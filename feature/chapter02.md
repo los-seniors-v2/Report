@@ -285,23 +285,7 @@ Distrito: Santiago de Surco <br>
 Inicio De Entrevista: 0:10 <br>
 [URL de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202012207_upc_edu_pe/EQyvgUTQcndGpVwbXHjXbicBN1_OcDsCOwjHTs4Rx1N8hQ?e=YuRagK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-**¿Qué te ha motivado a buscar maneras de mejorar tu salud y condición física en este momento?**
-- Tener un buen físico de manera natural y tener también una salud más organizada.
-
-**¿Cuál ha sido tu experiencia previa al intentar adoptar un estilo de vida más saludable? ¿Qué obstáculos has enfrentado?**
-- Mi experiencia previa fue buena. Consumir alimento más saludable, tener entrenamientos día a día. Aun asó he tenido problemas a veces tanto de intentar alimentarme de la mejor manera, pero no encuentro que mi cuerpo mejore.
-
-**¿Qué tipo de apoyo o orientación te resultaría más útil para alcanzar tus objetivos de salud y condición física?**
-- Me me resultaría más que nada tener un apoyo de alguien que sepa en como yo pueda mejorar mi capacidad física o también de manera de salud. Cómo comer más saludable de manera organizadamente.
-
-**¿Cómo crees que una Aplicación web de coaching en línea podría ayudarte a mantenerte motivado y comprometido con tus metas de bienestar?**
-- La verdad que me ayudaría mucho en tener una buena organización de los alimentos, las calorías de las proteínas y de que como yo podría tener buen ejercicios día a día, brazos, pierna en diferentes días y horas.
-
-**¿Qué características considerarías más importantes al elegir un servicio de coaching en línea para ayudarte a alcanzar tus objetivos de salud y condición física?**
-- Que el coach sea sociable, empático, que genere confianza.
-
-**¿Qué esperas obtener de un coach profesional en términos de apoyo y seguimiento en tu viaje hacia un estilo de vida más saludable?**
-- Espero que él me dé una buena organización, en mis alimentos, de manera en que me indique que comer. Que organice los ejercicios. Y en base de eso, espero que indique en semanas si mejore mi condición física y mi salud.
+Resumen De Entrevista: El entrevistado revela una motivación actual para mejorar su salud y condición física, destacando su interés en adoptar un estilo de vida más activa y organizada. Su experiencia previa incluye intentos anteriores de seguir una dieta equilibrada y hacer ejercicio regularmente, pero ha enfrentado desafíos como la falta de organización y la dificultad para mantener la consistencia. Busca un apoyo y orientación útiles para alcanzar sus objetivos, priorizando la educación sobre nutrición y la planificación de comidas saludables. Considera que una Aplicación web de coaching en línea sería beneficiosa por su accesibilidad y seguimiento del progreso. Al elegir un servicio de coaching, valora la personalización de los planes, el apoyo constante y la motivación para mantenerse comprometido con sus objetivos. Espera recibir un apoyo profesional y personalizado de un coach en su viaje hacia un estilo de vida más saludable.
 - - -
 - **Profesionales del coaching en ejercicio y alimentación:**
 - **Entrevista #1** <br>
