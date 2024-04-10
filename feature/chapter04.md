@@ -273,6 +273,7 @@ el tamaño de la pantalla.</td>
 ### 4.6.2. Software Architecture Container Diagrams
 ![Container-FlexPal](assets/img/ContainerFlexPal.png)
 ### 4.6.3. Software Architecture Components Diagrams
+![Component-FlexPal](assets/img/ComponentFlexPal.png)
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 ### 4.7.2. Class Dictionary
