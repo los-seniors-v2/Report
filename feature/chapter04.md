@@ -258,6 +258,8 @@ el tamaño de la pantalla.</td>
 ![Landing Page Desktop](assets/img/wireframe-FlexPal.PNG)
 ![Landing Page_2 Desktop](assets/img/wireframe_2-FlexPal.PNG)
 **Landing Page para Mobile Web Browser**
+![Landing Page Mobile](assets/img/wireframe-mobile-FlexPal.PNG) 
+![Landing Page_2 Mobile](assets/img/wireframe-mobile2-FlexPal.PNG)
 
 
 ### 4.3.2. Landing Page Mock-up
