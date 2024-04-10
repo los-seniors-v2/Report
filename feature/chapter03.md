@@ -71,7 +71,7 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 
 ## 3.3. Impact Mapping.
 ### Segment 1: Users
-<img src="assets/img/Impact_map_01.png">
+<img src="assets/img/Impact_map_01.png" alt="Impactmap01">
 
 ### Segment 2: Coachs
 ## 3.4. Product Backlog.
