@@ -385,9 +385,23 @@ El sprint planning es una reunión en la metodología ágil donde el equipo plan
 
 #### 5.2.1.2. Sprint Backlog 1.
 #### 5.2.1.3. Development Evidence for Sprint Review.
+
+| Repository | Bramch | Commit ID | Commit Message | Commite Message Body | Commited on (Date) |
+|--|--------|-----------|----------------|----------------------|--------------------|
+|  |        |           |                |                      |                    |
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
 #### 5.2.1.5. Execution Evidence for Sprint Review.
+En esta entrega, el equipo de desarrolladores de FlexPal ha completado con éxito la implementación y el lanzamiento de la página de la Landing Page. Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto.
+![Evidencia1](assets/img/Evidencia1.png)
+![Evidencia2](assets/img/Evidencia2.png)
+![Evidencia3](assets/img/Evidencia3.png)
+![Evidencia4](assets/img/Evidencia4.png)
+![Evidencia5](assets/img/Evidencia5.png)
+![Evidencia6](assets/img/Evidencia6.png)
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
