@@ -340,3 +340,7 @@ Como norma general, se espera que todo el código desarrollado por los miembros 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 ## Avance de Conclusiones, Bibliografía y Anexos.
+### Bibliografía
+- Ipsos. (16 de Octubre de 2019). Alimentación y vida saludable  en Lima. Ipsos. https://www.ipsos.com/es-pe/alimentacion-y-vida-saludable-en-lima
+- Aproximadamente 15 millones de peruanos sufren de obesidad. (4 de Marzo de 2024). Noticias - Ministerio De Salud - Plataforma Del Estado Peruano. https://www.gob.pe/institucion/minsa/noticias/915217-aproximadamente-15-millones-de-peruanos-sufren-de-obesidad
+- Mena, F. G. (10 de Junio de 2019). La realidad de los gimnasios: “80% de peruanos abandona su membresía en los primeros 3 meses.” Gestión. https://gestion.pe/tendencias/realidad-gimnasios-80-peruanos-abandona-membresia-primeros-3-meses-269519-noticia/
