@@ -247,7 +247,7 @@ el tamaño de la pantalla.</td>
 **Estructura de navegación:** <td> El Sistema de Navegación constará de las siguientes secciones principales en la barra de navegación</td>
 
 - Home
-- Susriptions
+- Subscriptions
 - Testimonials
 - Contact
 - Log In
