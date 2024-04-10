@@ -263,6 +263,8 @@ el tamaño de la pantalla.</td>
 
 
 ### 4.3.2. Landing Page Mock-up
+![Mockup-LandingFlexPal](assets/img/mockup-landing1.PNG)
+![Mockup-LandingFlexPal-2](assets/img/mockup-landing2.PNG)
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 ![Wireframe-FlexPal](assets/img/wireframe-FlexPalApp.PNG)
