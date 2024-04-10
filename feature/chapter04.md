@@ -275,6 +275,7 @@ el tamaño de la pantalla.</td>
 ![Mockup-FlexPal-2](assets/img/mockup-2.png)
 ![Mockup-FlexPal-3](assets/img/mockup-3.png)
 ### 4.4.4. Web Applications User Flow Diagrams
+![UserFlow-FlexPal](assets/img/user-flow-diagramFlexPal.PNG)
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
