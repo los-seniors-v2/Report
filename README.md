@@ -24,7 +24,7 @@
 | Primera entrega (TB1) | -/-/2024 | - Fabrizio Sanchez | - Se realizó x cosa <br> - Se realizó y cosa |
 | Primera entrega (TB1) | -/-/2024 | - Juan Cueto       | - Se realizó x cosa <br> - Se realizó y cosa |
 | Primera entrega (TB1) | -/-/2024 | - Luiggi Paredes   | - Se realizó x cosa <br> - Se realizó y cosa |
-| Primera entrega (TB1) | 10/04/2024 | - Miguel Carpio    | - Se culminó con el capítulo 3 agregando el impact map yproduct backlog |
+| Primera entrega (TB1) | 10/04/2024 | - Miguel Carpio    | - Se culminó con el capítulo 3 agregando el impact map y product backlog |
 
 - - -
 # Project Report Collaboration
