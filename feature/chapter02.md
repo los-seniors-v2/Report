@@ -292,7 +292,7 @@ Resumen De Entrevista: El entrevistado revela una motivación actual para mejora
 Nombre y apellidos: Andres Torres <br>
 Edad: 23 años <br>
 Distrito: Lince<br>
-![Entrevista_Seg01_RenzoEnciso](assets/img/Registro_Entrevista_Seg02_AndresTorres.png) <br>
+![Entrevista_Seg01_AndresTorres](assets/img/Registro_Entrevista_Seg02_AndresTorres.png) <br>
 Inicio De Entrevista: 0:42 <br>
 [URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213652_upc_edu_pe/ETpzPv5-Yz5HouMLQsPO3PgB_Jo0HO8x9CQ4l2weGKBMdg?e=vNRQA3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) <br>
 Resumen De Entrevista: El entrevistado revela una fuerte motivación en el campo del coaching en ejercicio y alimentación, destacando su deseo de ayudar a otros a lograr sus metas de salud y bienestar de manera efectiva y sostenible. Además, reconoce los desafíos asociados con el trabajo presencial, como las limitaciones geográficas y la dificultad para mantener la consistencia en las sesiones. Expresa un claro entusiasmo por los beneficios potenciales de ofrecer servicios de coaching en línea, señalando la eliminación de barreras geográficas y una mayor flexibilidad para él y sus clientes. En cuanto a las herramientas y características esenciales, resalta la importancia de la comunicación en tiempo real, el seguimiento de progreso y los recursos educativos en una plataforma en línea. Finalmente, destaca cómo una aplicación web de coaching podría mejorar significativamente su eficacia laboral y la experiencia del cliente al proporcionar una plataforma centralizada y accesible para la comunicación y el soporte en cualquier momento y lugar.
@@ -301,10 +301,20 @@ Resumen De Entrevista: El entrevistado revela una fuerte motivación en el campo
   Nombre y apellidos: Cristopher Paredes <br>
   Edad: 23 años <br>
   Distrito: Santiago de Surco<br>
-  ![Entrevista_Seg01_RenzoEnciso](assets/img/Registro_Entrevista_Seg02_Cristopher.png) <br>
+  ![Entrevista_Seg02_CristopherParedes](assets/img/Registro_Entrevista_Seg02_Cristopher.png) <br>
   Inicio De Entrevista: 0:12 <br>
   [URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218996_upc_edu_pe/Eacs2f3FM1BHuKWBVQeYPMcBG1p_bXqAgge7QaNddKzNBw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=7tgXih) <br>
   Resumen De Entrevista: El entrevistado muestra el porque inició en el mundo del coaching y nutrición, destacando su deseo de ayudar a otras personas a obtener su cuerpo deseado. Ya que como él dice, entrenar y comer saludable es distinto a solamente comer saludable. Reconoce los desafios de de trabajar de manera presencial, como la dificultad de tener mas asesorados. Expresa entusiasmo por los beneficios que obtendría ofreciendo servicios de coaching en linea. En cuanto a las herramientas y caracteristicas esenciales, resalta la facilidad de hablar con mas asesorados en el transcurso del dia, asi como el seguimiento de progreso que los obtendria consultando una base de datos. Finalmente, destaca cómo una aplicación web de coaching podría mejorar significativamente su eficacia laboral y la experiencia del cliente.  
+
+- **Entrevista #3** <br>
+  Nombre y apellidos: Adrián Valerio <br>
+  Edad: 22 años <br>
+  Distrito: Chorrillos<br>
+  ![Entrevista_Seg02_AdrianValerio](assets/img/Registro_Entrevista_Seg02_Valerio.png) <br>
+  Inicio De Entrevista: 0:12 <br>
+  [URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c936_upc_edu_pe/Efz8wi4LvnlNiIB_odnblJQBRQBBJHxhK5xwB2Axk4o2oQ?e=jDPaet&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) <br>
+  Resumen De Entrevista: El entrevistado nos comenta a cerca de su gran interés a cerca de la actividad física cuando niño, por ello esstudió y en estos momentos está sacando una certificación de coaching profesional mientras ejerce su carrera a sus 22 años. Para él, la comunicación usuario-coach es de lo más importante, y más si es virtual, pues, Adrián nos indica que hay una gran ventaja a comparación de la virtualidad, ya que feedbacks, consejos y regulaciones que brinda a sus usuarios puede ser más consistente, ya que la disponibilidad es más grande. 
+
 
 ### 2.2.3. Análisis de entrevistas.
 - #### Analisis Primer Segmento:
