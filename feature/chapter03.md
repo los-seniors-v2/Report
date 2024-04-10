@@ -77,3 +77,35 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 <img src="assets/img/Impact_map_02.png" alt="Impactmap02">
 
 ## 3.4. Product Backlog.
+| Orden | User Story ID | Título | Descripción | Story Points |
+|-------|---------------|--------|-------------|--------------|
+| 1     | US010         | Programar Sesiones de Entrenamiento | Como usuario, quiero programar una sesión de entrenamiento con un coach, para recibir orientación personalizada. | 8 |
+| 2     | US020         | Asignar Rutinas de Ejercicio a Clientes | Como coach, quiero asignar rutinas de ejercicio a mis clientes, para guiar su entrenamiento y seguimiento. | 8 |
+| 3     | US022         | Crear Rutinas de Ejercicio Personalizadas | Como coach, quiero crear rutinas de ejercicio personalizadas para mis clientes, para adaptar los entrenamientos a sus necesidades específicas. | 8 |
+| 4     | US011         | Seguir Rutinas de Ejercicio | Como usuario, quiero poder seguir rutinas de ejercicio recomendadas por mi coach, para mejorar mi rendimiento físico. | 5 |
+| 5     | US012         | Registrar Progreso | Como usuario, quiero registrar mi progreso de entrenamiento, para hacer un seguimiento de mi rendimiento y mejoras. | 5 |
+| 6     | US015         | Visualizar Planes de Nutrición | Como usuario, quiero visualizar los planes de nutrición personalizados, para tener una guía alimentaria adaptada a mis necesidades. | 5 |
+| 7     | US013         | Visualizar Estadísticas de Progreso | Como usuario, quiero visualizar estadísticas de mi progreso de entrenamiento, para analizar mi rendimiento a lo largo del tiempo. | 5 |
+| 8     | US017         | Seguir Planes de Nutrición | Como usuario, quiero poder seguir planes de nutrición personalizados, para mejorar mis hábitos alimenticios. | 5 |
+| 9     | US019         | Visualizar Calendario de Sesiones | Como coach, quiero visualizar un calendario con las sesiones programadas de mis clientes, para organizar mi agenda y planificar las sesiones. | 5 |
+| 10    | US021         | Generar Reportes de Progreso de Clientes | Como coach, quiero generar reportes de progreso de mis clientes, para analizar su evolución y ajustar sus entrenamientos. | 5 |
+| 11    | US023         | Asignar Rutinas de Ejercicio a Clientes | Como coach, quiero asignar rutinas de ejercicio a mis clientes, para guiar su entrenamiento y seguimiento. | 5 |
+| 12    | US024         | Generar Reportes de Progreso de Clientes | Como coach, quiero generar reportes de progreso de mis clientes, para analizar su evolución y ajustar sus entrenamientos. | 5 |
+| 13    | US026         | Gestionar Lista de Clientes | Como coach, quiero gestionar una lista de clientes, para tener un registro organizado de las personas que entreno. | 5 |
+| 14    | US028         | Registrar Sesiones de Entrenamiento | Como coach, quiero registrar sesiones de entrenamiento con mis clientes, para hacer un seguimiento de su progreso. | 5 |
+| 15    | US030         | Programar Sesiones de Entrenamiento Recurrentes | Como coach, quiero programar sesiones de entrenamiento recurrentes para mis clientes, para establecer una rutina de entrenamiento consistente. | 5 |
+| 16    | US004         | Cambiar Idioma de la Plataforma | Como usuario, quiero poder cambiar el idioma de la plataforma, para utilizarla en mi idioma preferido. | 2 |
+| 17    | US005         | Personalizar Tema de Interfaz | Como usuario de la plataforma, quiero poder personalizar el tema de la interfaz, para adaptarla a mis preferencias visuales. | 2 |
+| 18    | US003         | Actualizar Información Personal | Como usuario registrado, quiero poder actualizar mi información personal en mi perfil, para mantenerla actualizada y precisa. | 3 |
+| 19    | US009         | Compartir Publicaciones | Como usuario, quiero poder compartir publicaciones en mis redes sociales, para compartir contenido interesante con otros. | 3 |
+| 20    | US014         | Establecer Objetivos de Entrenamiento | Como usuario, quiero establecer objetivos de entrenamiento, para tener metas claras y medibles. | 3 |
+| 21    | US008         | Dar "Me Gusta" a Publicaciones | Como usuario de la plataforma, quiero poder dar "Me Gusta" a las publicaciones de otros usuarios, para mostrar aprecio por el contenido. | 3 |
+| 22    | US016         | Acceder a Recetas Nutricionales | Como usuario, quiero acceder a recetas nutricionales saludables, para mejorar mi alimentación y mantener un estilo de vida saludable. | 3 |
+| 23    | US025         | Envíar Recordatorios de Sesiones | Como coach, quiero enviar recordatorios automáticos de sesiones a mis clientes, para ayudarles a mantenerse comprometidos con sus entrenamientos. | 3 |
+| 24    | US027         | Visualizar Estadísticas de Clientes | Como coach, quiero visualizar estadísticas de mis clientes, para evaluar su progreso y ajustar sus entrenamientos. | 3 |
+| 25    | US029         | Visualizar Progreso de los Clientes | Como coach, quiero visualizar el progreso de mis clientes, para evaluar su rendimiento y ajustar sus entrenamientos. | 3 |
+| 26    | US001         | Iniciar Sesión | Como usuario registrado, quiero poder iniciar sesión en la plataforma, para acceder a mi cuenta y utilizar las funciones disponibles. | 3 |
+| 27    | US007         | Publicar Comentarios | Como usuario, quiero poder publicar comentarios en las publicaciones de otros usuarios, para interactuar con la comunidad de la plataforma. | 3 |
+| 28    | US006         | Filtrar Contenido por Categoría | Como usuario, quiero poder filtrar el contenido por categoría, para encontrar información relevante más fácilmente. | 3 |
+| 29    | US018         | Compartir Recetas Nutricionales | Como usuario, quiero poder compartir recetas nutricionales con otros usuarios, para ayudarles a mejorar su alimentación. | 3 |
+| 30    | US028         | Registrar Sesiones de Entrenamiento | Como coach, quiero registrar sesiones de entrenamiento con mis clientes, para hacer un seguimiento de su progreso. | 5 |
