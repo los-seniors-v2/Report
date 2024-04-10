@@ -265,8 +265,9 @@ el tamaño de la pantalla.</td>
 ### 4.3.2. Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+![Wireframe-FlexPal](assets/img/wireframe-FlexPalApp.PNG)
 ### 4.4.2. Web Applications Wireflow Diagrams
-![Wireflow-FlexPal](assets/img/wireflow-diagram.PNG)
+![Wireflow-FlexPal](assets/img/wireflow-diagram1.PNG)
 ### 4.4.3. Web Applications Mock-ups
 ![Mockup-FlexPal](assets/img/mockup-1.png)
 ![Mockup-FlexPal-2](assets/img/mockup-2.png)
