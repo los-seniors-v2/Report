@@ -266,7 +266,11 @@ el tamaño de la pantalla.</td>
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
+![Wireflow-FlexPal](assets/img/wireflow-diagram.PNG)
 ### 4.4.3. Web Applications Mock-ups
+![Mockup-FlexPal](assets/img/mockup-1.png)
+![Mockup-FlexPal-2](assets/img/mockup-2.png)
+![Mockup-FlexPal-3](assets/img/mockup-3.png)
 ### 4.4.4. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
