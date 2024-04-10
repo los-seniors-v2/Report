@@ -277,6 +277,8 @@ el tamaño de la pantalla.</td>
 ### 4.4.4. Web Applications User Flow Diagrams
 ![UserFlow-FlexPal](assets/img/user-flow-diagramFlexPal.PNG)
 ## 4.5. Web Applications Prototyping
+Prototipo de la aplicación web FlexPal en Figma:
+[Prototipo-FlexPal](https://www.figma.com/file/91Ez19KOQpxgpmPEZ9NtIm/FlexPal?type=design&node-id=0%3A1&mode=design&t=vgM82K5YOfavEdYS-1)
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
 ![Context-FlexPal](assets/img/ContextFlexPal.png)
