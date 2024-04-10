@@ -406,6 +406,10 @@ Se ha omitido la sección de la aplicación web debido a que solo se ha desarrol
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 ## Avance de Conclusiones, Bibliografía y Anexos.
+### Anexos
+- Anexo 1: [Landing Page Repository](https://github.com/los-seniors-v2)
+- Anexo 2: [Mockups - Wireframe](https://www.figma.com/file/91Ez19KOQpxgpmPEZ9NtIm/FlexPal?type=design&node-id=0%3A1&mode=design&t=vgM82K5YOfavEdYS-1)
+- Anexo 3: [User-Flow - WireFlow Diagram](https://lucid.app/lucidspark/2c642c76-fe1b-41c2-a0e3-613a0b64f8f0/edit?viewport_loc=-1797%2C-1394%2C8704%2C4350%2C0_0&invitationId=inv_0f96f168-1b85-4920-a9fb-ce76f2b42015)
 ### Bibliografía
 - Ipsos. (16 de Octubre de 2019). Alimentación y vida saludable  en Lima. Ipsos. https://www.ipsos.com/es-pe/alimentacion-y-vida-saludable-en-lima
 - Aproximadamente 15 millones de peruanos sufren de obesidad. (4 de Marzo de 2024). Noticias - Ministerio De Salud - Plataforma Del Estado Peruano. https://www.gob.pe/institucion/minsa/noticias/915217-aproximadamente-15-millones-de-peruanos-sufren-de-obesidad
