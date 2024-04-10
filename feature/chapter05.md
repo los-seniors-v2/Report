@@ -62,7 +62,7 @@
 Landing Page Repository: [Landing Page Repository](https://github.com/los-seniors-v2/LandingPageFlexPal.git)
 - #### GitFlow Implementation:
 Para implementar el flujo de trabajo Gitflow utilizando Git como nuestra herramienta de control de versiones, nos basamos en la entrada de blog "A successful Git branching model" de Vincent Driessen. Esta referencia nos permitió establecer las convenciones detalladas que serán aplicadas en nuestro proyecto 
-![Gitflow Vincent Driessen ](assets/img_chapter01/Gitflow_graphic.png)
+![Gitflow Vincent Driessen ](assets/img/Gitflow_graphic.png)
 
 ### **Master o Main branch**
 La rama principal de desarrollo del proyecto es la Master branch. En esta rama reside el código que actualmente se encuentra en producción.
@@ -323,11 +323,11 @@ Como norma general, se espera que todo el código desarrollado por los miembros 
 ### 5.1.4. Software Deployment Configuration.
 - Creacion Landing Page:<br>
 1. Se crea un repositorio remoto en GitHub
-![CreacionRepositorio](assets/img_chapter01/Creacion_repo.png)
+![CreacionRepositorio](assets/img/Creacion_repo.png)
 2. Agregar a participantes
-![CreacionRepositorio](assets/img_chapter01/miembros_repo.png)
+![CreacionRepositorio](assets/img/miembros_repo.png)
 3. Habilitmos Gitgub Pages en branch "master" y ruta "/(root)"
-   ![CreacionRepositorio](assets/img_chapter01/Github_pages.png)
+   ![CreacionRepositorio](assets/img/Github_pages.png)
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1.
@@ -340,3 +340,7 @@ Como norma general, se espera que todo el código desarrollado por los miembros 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 ## Avance de Conclusiones, Bibliografía y Anexos.
+### Bibliografía
+- Ipsos. (16 de Octubre de 2019). Alimentación y vida saludable  en Lima. Ipsos. https://www.ipsos.com/es-pe/alimentacion-y-vida-saludable-en-lima
+- Aproximadamente 15 millones de peruanos sufren de obesidad. (4 de Marzo de 2024). Noticias - Ministerio De Salud - Plataforma Del Estado Peruano. https://www.gob.pe/institucion/minsa/noticias/915217-aproximadamente-15-millones-de-peruanos-sufren-de-obesidad
+- Mena, F. G. (10 de Junio de 2019). La realidad de los gimnasios: “80% de peruanos abandona su membresía en los primeros 3 meses.” Gestión. https://gestion.pe/tendencias/realidad-gimnasios-80-peruanos-abandona-membresia-primeros-3-meses-269519-noticia/
