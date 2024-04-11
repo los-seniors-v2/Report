@@ -55,7 +55,7 @@
       [Link De Descarga]( https://desktop.github.com)
       [Link De Registro o Inicio De Sesión](https://github.com/login)
 - ###  Software Deployment:
-    * ### Github Pages: 
+    * ### GitHub Pages: 
       Una plataforma que posibilita la realización de despliegues simples directamente desde un repositorio de GitHub. <br>
 
 ### 5.1.2. Source Code Management.
