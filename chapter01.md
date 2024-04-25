@@ -47,28 +47,60 @@ Presentación del modelo de las preguntas 5Ws y 2 hs con la que se analizaron lo
 "En un contexto de creciente interés por el bienestar personal, se hace evidente la necesidad de una aplicación web de coaching que facilite la conexión entre miembros y profesionales del ejercicio y nutrición. Dicha aplicación web debe proporcionar una experiencia personalizada y efectiva para cada individuo, adaptándose a sus necesidades y objetivos específicos." <br><br>
 Como grupo, nos comprometeremos a resolver este desafío mediante una colaboración estrecha entre los miembros que deseen empezar una rutina de ejercicio, así como también con profesiones tanto en coaching y nutrición. Nos enfocaremos en comprender profundamente las necesidades y expectativas de nuestros miembros, utilizando esta información para diseñar y desarrollar una solución innovadora que satisfaga sus requerimientos de manera integral.
 - #### 1.2.2.2. Lean UX Assumptions
-  **Business Assumptions**
-* **Pienso que mis clientes necesitan** una guía personalizada y un apoyo constante para alcanzar sus objetivos de salud y condición física.
-* **Estas demandas pueden ser satisfechas mediante** una plataforma en línea que conecta a los miembros con coaches profesionales en ejercicio y alimentación, ofreciendo comunicación directa y planes personalizados.
-* **Los primeros clientes serán** aquellos que ya están activamente buscando mejorar su estilo de vida y están dispuestos a invertir en servicios de coaching profesional para lograrlo.
-* **La principal necesidad que los clientes tienen de mi servicio es** recibir orientación experta y seguimiento personalizado para optimizar su progreso y alcanzar sus metas de salud de manera efectiva y sostenible.
-* **Obtendré la mayor parte de mis clientes mediante** estrategias de marketing digital dirigidas a individuos interesados en la salud y el bienestar, así como colaboraciones con influencers y profesionales del sector.
-* **Generaré ingresos mediante** un modelo de suscripción mensual, donde los miembros pagarán por el acceso a los servicios de coaching y los planes alimentarios personalizados ofrecidos.
-* **El principal problema que puede afectar a mi producto es** la competencia en el mercado de aplicaciones de salud y bienestar, lo que podría dificultar la adquisición de clientes y la retención en un mercado saturado.
-* **Abordaremos esta situación mediante** la diferenciación clara de nuestro servicio, destacando la calidad de la atención personalizada y la efectividad de nuestros planes de ejercicio y alimentación, así como la implementación de estrategias de fidelización de clientes para garantizar la satisfacción a largo plazo. <br><br>
+  ### **Business Assumptions**
 
-  **User Assumptions**
+    * **I believe my customers need** personalized guidance and continuous support to achieve their health and fitness goals.
+    * **These demands can be met by** an online platform that connects members with professional coaches in exercise and nutrition, offering direct communication and personalized plans.
+    * **The initial customers will be** those who are actively seeking to improve their lifestyle and are willing to invest in professional coaching services to achieve it.
+    * **The primary need that customers have for my service is** to receive expert guidance and personalized follow-up to optimize their progress and effectively and sustainably achieve their health goals.
+    * **I will acquire most of my customers through** digital marketing strategies targeted at individuals interested in health and wellness, as well as collaborations with influencers and industry professionals.
+    * **I will generate revenue through** a monthly subscription model, where members will pay for access to coaching services and personalized meal plans offered.
+    * **The main problem that could affect my product is** competition in the health and wellness app market, which could hinder customer acquisition and retention in a saturated market.
+    * **We will address this situation by** clearly differentiating our service, highlighting the quality of personalized attention and the effectiveness of our exercise and nutrition plans, as well as implementing customer retention strategies to ensure long-term satisfaction.
 
-* Los miembros están buscando una solución integral que no solo les proporcione orientación en el ejercicio, sino también en la alimentación, reconociendo la importancia de ambos aspectos para alcanzar sus objetivos de salud.
-* Los miembros valoran altamente la conveniencia y la accesibilidad en una plataforma de coaching en línea, prefiriendo la flexibilidad de poder acceder a los servicios desde cualquier lugar y en cualquier momento.
-* Los miembros están dispuestos a invertir en un servicio de coaching profesional que ofrezca una comunicación directa y personalizada con un coach, sintiéndose más motivados y comprometidos con su progreso cuando reciben un apoyo individualizado.
-* Los miembros esperan que los planes alimentarios proporcionados por la plataforma sean adaptables a sus preferencias dietéticas y restricciones, así como que sean fáciles de seguir y de integrar en su vida cotidiana.
-* Los miembros valoran la transparencia y la confiabilidad en una plataforma de coaching en línea, buscando garantías de que sus datos personales y de salud serán tratados de manera segura y confidencial.
+  ### **Business Outcomes Assumptions**
+    * Improving the user experience of our web app will lead to an increase in membership sign-ups and revenue for gyms.
+    * Providing personalized coaching services will result in higher member engagement and retention rates.
+    * Offering adaptable and convenient meal plans will enhance member satisfaction and loyalty to the platform.
+    * Ensuring the security and confidentiality of member data will build trust and credibility in the online community.
+    * Developing an intuitive and user-friendly interface will lead to higher user engagement and usage frequency.
+    * Implementing effective marketing strategies will drive customer acquisition and growth for the business.
+    * Differentiating our service from competitors will establish a unique value proposition and attract a broader audience.
+    * Building a strong online community will foster member engagement, support, and loyalty to the platform.
+  
+  ### **User Assumptions**
+    * Target Member Segment:
+      * Members are seeking a comprehensive solution that not only provides guidance in exercise but also in nutrition, recognizing the importance of both aspects in achieving their health goals.
+      * Members highly value convenience and accessibility in an online coaching platform, preferring the flexibility of being able to access services from anywhere and at any time.
+      * Members are willing to invest in a professional coaching service that offers direct and personalized communication with a coach, feeling more motivated and committed to their progress when they receive individualized support.
+      * Members expect the meal plans provided by the platform to be adaptable to their dietary preferences and restrictions, as well as easy to follow and integrate into their daily lives.
+      * Members value transparency and reliability in an online coaching platform, seeking assurances that their personal and health data will be treated securely and confidentially.
+    * Target Coach Segment:
+      * Coaches seek a platform that allows them to reach a broader and more diverse audience, offering their services efficiently and effectively through an online environment.
+      * Coaches value the opportunity to establish direct and personalized communication with their clients, enabling them to tailor their services and plans to the specific needs and goals of each individual.
+      * Coaches are interested in a platform that provides them with tools and resources to optimize their work, including the ability to schedule sessions, track member progress, and access detailed reports and analysis.
+      * Coaches seek a platform that offers an intuitive and user-friendly experience, allowing them to navigate smoothly and quickly access the information and features they need to provide high-quality service to their clients.
+      * Coaches value security and confidentiality in an online coaching platform, expecting their data and their clients' information to be protected and for the platform to comply with industry-established privacy and security standards.
+
+  ### **User Outcomes Assumptions**
+  * Target Member Segment:
+      * Members will experience increased motivation and commitment to their health and fitness progress by receiving personalized guidance and continuous support from a professional coach.
+      * Members will feel satisfied and content with the personalized and adaptable meal plans provided by the platform, finding options that fit their dietary preferences and restrictions.
+      * Members will trust in the security and confidentiality of their personal and health data on the platform, feeling comfortable and protected when sharing sensitive information with their coaches and the online community.
+      * Members will enjoy an intuitive and user-friendly experience on the online coaching platform, allowing them to navigate smoothly and quickly access the resources and services they need to optimize their progress and achieve their health goals.   * Segmento objetivo Coach:
+  * Target coach Segment:
+      * Coaches will find the platform easy to use and efficient in delivering personalized guidance and support to their clients.
+      * Coaches will appreciate the ability to customize meal plans and fitness routines for individual clients, enhancing their coaching effectiveness.
+      * Coaches will trust in the platform's security measures to safeguard client data and maintain confidentiality, ensuring a professional and ethical coaching environment.
+      * Coaches will benefit from a streamlined interface and tools that facilitate communication and collaboration with clients, enabling them to focus more on providing value and less on administrative tasks.
+
 - #### 1.2.2.3. Lean UX Hypothesis Statements
-  * "Si ofrecemos a los miembros un acceso conveniente y flexible a servicios de coaching en línea, permitiendo comunicación directa con coaches y planes personalizados, entonces aumentará la probabilidad de que los miembros se comprometan a largo plazo con la plataforma, lo que resultará en una mayor retención de clientes."
-  * "Si proporcionamos planes alimentarios personalizados y adaptables que se ajusten a las preferencias y restricciones dietéticas de los miembros, entonces aumentará la satisfacción del miembro y la probabilidad de que se mantengan en la plataforma, lo que contribuirá al crecimiento del negocio a través de referencias y recomendaciones positivas."
-  * "Si garantizamos la seguridad y confidencialidad de los datos personales y de salud de los miembros, y proporcionamos una experiencia de miembro transparente y confiable, entonces aumentará la confianza y la lealtad de los miembros hacia la plataforma, lo que resultará en una mayor retención y una reputación positiva en el mercado."
-  * "Si desarrollamos una interfaz de miembro intuitiva y fácil de usar en la plataforma de coaching en línea, lo que permite a los miembros navegar sin problemas y acceder rápidamente a los recursos y servicios que necesitan, entonces aumentará la participación y la frecuencia de uso, lo que conducirá a una mayor retención de clientes y al crecimiento del negocio."
+
+  * If we offer members convenient and flexible access to online coaching services, enabling direct communication with coaches and personalized plans, then the probability of members committing long-term to the platform will increase, resulting in higher customer retention.
+  * If we provide personalized and adaptable meal plans that cater to members' dietary preferences and restrictions, then member satisfaction will increase, along with the likelihood of them staying on the platform, contributing to business growth through referrals and positive recommendations.
+  * If we guarantee the security and confidentiality of members' personal and health data, and provide a transparent and reliable member experience, then trust and loyalty towards the platform will increase, resulting in higher retention and a positive reputation in the market.
+  * If we develop an intuitive and easy-to-use member interface on the online coaching platform, allowing members to navigate seamlessly and access resources and services quickly, then participation and frequency of use will increase, leading to higher customer retention and business growth.
+
 - #### 1.2.2.4. Lean UX Canvas
 
 ![lean-ux-canvas](assets/img/leanux-canvas-v5.jpg)
