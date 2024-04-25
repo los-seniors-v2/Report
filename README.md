@@ -1,5 +1,6 @@
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
-![UPC](assets/img_chapter01/UPC_logo_transparente.png)
+![UPC](assets/img/UPC_logo_transparente.png)
+<br>Imagen de logo UPC
 # APLICACIONES WEB (SV51)
 ## PROFESOR: Angel Augusto Velasquez Nuñez
 ## "INFORME DE TRABAJO FINAL APLICACIONES WEB"
@@ -36,6 +37,22 @@ Aquí se encuentra el resultado del Project Report de la entrega correspondiente
 
 A continuación, se explicará todo a cerca del desarrollo de activades para la
 elaboración del informe junto con capturas de los analíticos de colaboración y commits en Github.
+
+Para la entrega de la TB1, este es el análisis de colaboración, que presenta el número de contribuciones
+hechas en el repositorio del informe.
+![analytics-1-report](assets/img/analytics-screenshots-contributions-tb1.png)
+
+En la primera semana del reporte, estos eran los commits totales realizados durante la semana 3:
+![analytics-2-report](assets/img/analytics-screenshots-commits-mar24.png)
+
+los commits totales realizados durante la semana 4:
+![analytics-3-report](assets/img/analytics-screenshots-commits-mar31.png)
+
+los commits totales realizados durante la semana 5:
+![analytics-4-report](assets/img/analytics-screenshots-commits-apr7.png)
+
+los commits totales realizados durante la semana 6:
+![analytics-5-report](assets/img/analytics-screenshots-commits-apr14.png)
 
 
 # Contenido
