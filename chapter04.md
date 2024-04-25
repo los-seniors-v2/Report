@@ -255,11 +255,11 @@ el tamaño de la pantalla.</td>
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 **Landing Page para Desktop Web Browser**
-![Landing Page Desktop](assets/img/wireframe-FlexPal.PNG)
-![Landing Page_2 Desktop](assets/img/wireframe_2-FlexPal.PNG)
+![Landing Page Desktop](assets/img/wireframe-flex-pal.PNG)
+![Landing Page_2 Desktop](assets/img/wireframe-2-flex-pal.PNG)
 **Landing Page para Mobile Web Browser**
-![Landing Page Mobile](assets/img/wireframe-mobile-FlexPal.PNG) 
-![Landing Page_2 Mobile](assets/img/wireframe-mobile2-FlexPal.PNG)
+![Landing Page Mobile](assets/img/wireframe-mobile-flex-pal.PNG) 
+![Landing Page_2 Mobile](assets/img/wireframe-mobile-2-flex-pal.PNG)
 
 
 ### 4.3.2. Landing Page Mock-up
@@ -267,28 +267,28 @@ el tamaño de la pantalla.</td>
 ![Mockup-LandingFlexPal-2](assets/img/mockup-landing2.PNG)
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
-![Wireframe-FlexPal](assets/img/wireframe-FlexPalApp.PNG)
+![Wireframe-FlexPal](assets/img/wireframe-flex-pal-app.PNG)
 ### 4.4.2. Web Applications Wireflow Diagrams
-![Wireflow-FlexPal](assets/img/wireflow-diagram1.PNG)
+![Wireflow-FlexPal](assets/img/wireflow-diagram-1.PNG)
 ### 4.4.3. Web Applications Mock-ups
 ![Mockup-FlexPal](assets/img/mockup-1.png)
 ![Mockup-FlexPal-2](assets/img/mockup-2.png)
 ![Mockup-FlexPal-3](assets/img/mockup-3.png)
 ### 4.4.4. Web Applications User Flow Diagrams
-![UserFlow-FlexPal](assets/img/user-flow-diagramFlexPal.PNG)
+![UserFlow-FlexPal](assets/img/user-flow-diagram-flex-pal.PNG)
 ## 4.5. Web Applications Prototyping
 Prototipo de la aplicación web FlexPal en Figma:
 [Prototipo-FlexPal](https://www.figma.com/file/91Ez19KOQpxgpmPEZ9NtIm/FlexPal?type=design&node-id=0%3A1&mode=design&t=vgM82K5YOfavEdYS-1)
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
-![Context-FlexPal](assets/img/ContextFlexPal.png)
+![Context-FlexPal](assets/img/context-flex-pal.png)
 ### 4.6.2. Software Architecture Container Diagrams
-![Container-FlexPal](assets/img/ContainerFlexPal.png)
+![Container-FlexPal](assets/img/container-flex-pal.png)
 ### 4.6.3. Software Architecture Components Diagrams
-![Component-FlexPal](assets/img/ComponentFlexPal.png)
+![Component-FlexPal](assets/img/component-flex-pal.png)
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
-![ClassDiagram](assets/img/DiagramC.png)
+![ClassDiagram](assets/img/c4-diagram.png)
 ### 4.7.2. Class Dictionary
 - Suscripcion: Representa la suscripción de un usuario al servicio. Tiene los atributos idUsuario para el identificador del usuario y suscrito para indicar si está suscrito o no. Sus métodos incluyen Suscribir para suscribir al usuario, CancelarSuscripcion para cancelar la suscripción y EstaSuscrito para verificar el estado de suscripción.
 - Usuario: Representa un usuario del sistema. Tiene los atributos idUsuario, nombreUsuario y correoElectronico. Sus métodos permiten establecer y obtener estos atributos.
@@ -297,4 +297,4 @@ Prototipo de la aplicación web FlexPal en Figma:
 - SistemaAplicacion: Esta clase conecta las funcionalidades del sistema. Tiene atributos para gestionar instancias de PlanAlimenticio, Suscripcion y RutinaGimnasio. Sus métodos permiten establecer y obtener estas instancias.
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-![DataBaseDiagram](assets/img/DbDiagram.png)
+![DataBaseDiagram](assets/img/data-base-diagram.png)

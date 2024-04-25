@@ -62,7 +62,7 @@
 Landing Page Repository: [Landing Page Repository](https://github.com/los-seniors-v2/LandingPageFlexPal.git)
 - #### GitFlow Implementation:
 Para implementar el flujo de trabajo Gitflow utilizando Git como nuestra herramienta de control de versiones, nos basamos en la entrada de blog "A successful Git branching model" de Vincent Driessen. Esta referencia nos permitió establecer las convenciones detalladas que serán aplicadas en nuestro proyecto 
-![Gitflow Vincent Driessen ](assets/img/Gitflow_graphic.png)
+![Gitflow Vincent Driessen ](assets/img/gitflow-graphic.png)
 
 ### **Master o Main branch**
 La rama principal de desarrollo del proyecto es la Master branch. En esta rama reside el código que actualmente se encuentra en producción.
@@ -323,11 +323,11 @@ Como norma general, se espera que todo el código desarrollado por los miembros 
 ### 5.1.4. Software Deployment Configuration.
 - Creacion Landing Page:<br>
 1. Se crea un repositorio remoto en GitHub
-![CreacionRepositorio](assets/img/Creacion_repo.png)
+![CreacionRepositorio](assets/img/creation-repository-image.png)
 2. Agregar a participantes
-![CreacionRepositorio](assets/img/miembros_repo.png)
+![CreacionRepositorio](assets/img/members-organization.png)
 3. Habilitmos Gitgub Pages en branch "master" y ruta "/(root)"
-   ![CreacionRepositorio](assets/img/Github_pages.png)
+   ![CreacionRepositorio](assets/img/github-pages.png)
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1.
@@ -394,12 +394,12 @@ El sprint planning es una reunión en la metodología ágil donde el equipo plan
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 En esta entrega, el equipo de desarrolladores de FlexPal ha completado con éxito la implementación y el lanzamiento de la página de la Landing Page. Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto.
-![Evidencia1](assets/img/Evidencia1.png)
-![Evidencia2](assets/img/Evidencia2.png)
-![Evidencia3](assets/img/Evidencia3.png)
-![Evidencia4](assets/img/Evidencia4.png)
-![Evidencia5](assets/img/Evidencia5.png)
-![Evidencia6](assets/img/Evidencia6.png)
+![Evidencia1](assets/img/evidence-landing-page-1.png)
+![Evidencia2](assets/img/evidence-landing-page-2.png)
+![Evidencia3](assets/img/evidence-landing-page-3.png)
+![Evidencia4](assets/img/evidence-landing-page-4.png)
+![Evidencia5](assets/img/evidence-landing-page-5.png)
+![Evidencia6](assets/img/evidence-landing-page-6.png)
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.

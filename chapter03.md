@@ -2,9 +2,9 @@
 
 ## 3.1. To-Be Scenario Mapping.
 - To-Be del segmento objetivo usuario:
-![To-Be Scenario Mapping User](assets/img/WA_To_be.jpg)
+![To-Be Scenario Mapping User](assets/img/to-be-segment-1.jpg)
 - To-Be del segmento objetivo coach:
-![To-Be Scenario Mapping Coach](assets/img/WA_To_be2.jpg)
+![To-Be Scenario Mapping Coach](assets/img/to-be-segment-2.jpg)
 ## 3.2. User Stories.
 Para elaborar user stories que pertenecen a un epic. A continuación, las epics que consideramos como equipo:
 
@@ -71,10 +71,10 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 
 ## 3.3. Impact Mapping.
 ### Segment 1: Users
-<img src="assets/img/Impact_map_01.png" alt="Impactmap01">
+<img src="assets/img/impact-map-01.png" alt="Impactmap01">
 
 ### Segment 2: Coachs
-<img src="assets/img/Impact_map_02.png" alt="Impactmap02">
+<img src="assets/img/impact-map-02.png" alt="Impactmap02">
 
 ## 3.4. Product Backlog.
 | Orden | User Story ID | Título | Descripción | Story Points |
