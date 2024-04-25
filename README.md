@@ -19,13 +19,18 @@
 
 # Registro de Versiones del Informe
 
-| Versión               | Fecha    | Autores            | Descripción de Modificación                  |
-|-----------------------|----------|--------------------|----------------------------------------------|
-| Primera entrega (TB1) | -/-/2024 | - Juan Pescorán    | - Se realizó x cosa <br> - Se realizó y cosa |
-| Primera entrega (TB1) | -/-/2024 | - Fabrizio Sanchez | - Se realizó x cosa <br> - Se realizó y cosa |
-| Primera entrega (TB1) | -/-/2024 | - Juan Cueto       | - Se realizó x cosa <br> - Se realizó y cosa |
-| Primera entrega (TB1) | -/-/2024 | - Luiggi Paredes   | - Se realizó x cosa <br> - Se realizó y cosa |
-| Primera entrega (TB1) | -/-/2024 | - Miguel Carpio    | - Se realizó x cosa <br> - Se realizó y cosa |
+| Versión | Fecha      | Autores            | Descripción de Modificación                                                                                                                                                                                                                                                     |
+|---------|------------|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1       | 10/04/2024 | - Juan Pescoran    | - Añadió contenido a todos los capítulos <br> - Aportó ideas para la creación de User Stories <br> - Realizó código para el despliegue de la Landing Page <br> - Adicionó las secciones que pertenecen al capítulo 1 hasta el 2.                                                |
+| 1       | 10/04/2024 | - Fabrizio Sanchez | - Se realizó x cosa <br> - Se realizó y cosa                                                                                                                                                                                                                                    |
+| 1       | 10/04/2024 | - Juan Cueto       | - Se realizó x cosa <br> - Se realizó y cosa                                                                                                                                                                                                                                    |
+| 1       | 10/04/2024 | - Luiggi Paredes   | - Se realizó x cosa <br> - Se realizó y cosa                                                                                                                                                                                                                                    |
+| 1       | 10/04/2024 | - Miguel Carpio    | - Se realizó x cosa <br> - Se realizó y cosa                                                                                                                                                                                                                                    |
+| 2       | 29/04/2024 | - Juan Pescoran    | - Corrigió, mediante commits dirigidos al "refactor", el nombre de los archivos en assets <br> - Agregó el seguimiento que faltaba en la sección "Project Report Collaboration Insights" <br> - Investigó y se realizó de forma correcta los "Lean UX Assumptions" <br> - . . . |
+| 2       | 29/04/2024 | - Fabrizio Sanchez | - Se realizó x cosa <br> - Se realizó y cosa                                                                                                                                                                                                                                    |
+| 2       | 29/04/2024 | - Juan Cueto       | - Se realizó x cosa <br> - Se realizó y cosa                                                                                                                                                                                                                                    |
+| 2       | 29/04/2024 | - Luiggi Paredes   | - Se realizó x cosa <br> - Se realizó y cosa                                                                                                                                                                                                                                    |
+| 2       | 29/04/2024 | - Miguel Carpio    | - Se realizó x cosa <br> - Se realizó y cosa                                                                                                                                                                                                                                    |
 
 - - -
 # Project Report Collaboration Insights
@@ -52,6 +57,7 @@ los commits totales realizados durante la semana 5:
 ![analytics-4-report](assets/img/analytics-screenshots-commits-apr7.png)
 
 los commits totales realizados durante la semana 6:
+
 ![analytics-5-report](assets/img/analytics-screenshots-commits-apr14.png)
 
 
