@@ -1,4 +1,5 @@
 # Capítulo IV: Product Design
+El product design será fundamental para nuestro trabajo, ya que nos permitirá crear soluciones centradas en el usuario que aborden de manera efectiva los desafíos identificados. Utilizaremos este enfoque para diseñar productos y servicios que sean intuitivos, atractivos y que cumplan con las expectativas y necesidades de nuestros usuarios. Esto nos ayudará a generar valor para nuestros clientes y a alcanzar nuestros objetivos comerciales de manera más eficiente.
 ## 4.1. Style Guidelines.
 Un **Style Guideline** es un conjunto de reglas y normas que definen cómo se debe redactar, diseñar o presentar documentos, contenido web, software u otros trabajos creativos. A continuación, se detallan las especificaciones de los parámetros implementados en la estructura del proyecto.
 ### 4.1.1. General Style Guidelines
@@ -253,6 +254,7 @@ el tamaño de la pantalla.</td>
 - Log In
 
 ## 4.3. Landing Page UI Design
+El diseño de la interfaz de usuario para nuestra landing page será crucial para nuestro proyecto, ya que es la primera impresión que tendrán los usuarios de nuestro producto. Nos permitirá crear una experiencia visualmente atractiva y funcional que capture la atención de los visitantes y los motive a explorar más.
 ### 4.3.1. Landing Page Wireframe
 **Landing Page para Desktop Web Browser**
 ![Landing Page Desktop](assets/img/wireframe-FlexPal.PNG)
@@ -266,6 +268,7 @@ el tamaño de la pantalla.</td>
 ![Mockup-LandingFlexPal](assets/img/mockup-landing1.PNG)
 ![Mockup-LandingFlexPal-2](assets/img/mockup-landing2.PNG)
 ## 4.4. Web Applications UX/UI Design
+El diseño de la experiencia de usuario (UX) y la interfaz de usuario (UI) para nuestra aplicaciones web será fundamental para brindar una experiencia atractiva y satisfactoria a nuestros usuarios. Nos permitirá crear interfaces intuitivas y fáciles de usar que guíen a los usuarios a través de nuestras herramientas y funcionalidades de manera eficiente.
 ### 4.4.1. Web Applications Wireframes
 ![Wireframe-FlexPal](assets/img/wireframe-FlexPalApp.PNG)
 ### 4.4.2. Web Applications Wireflow Diagrams
@@ -280,6 +283,7 @@ el tamaño de la pantalla.</td>
 Prototipo de la aplicación web FlexPal en Figma:
 [Prototipo-FlexPal](https://www.figma.com/file/91Ez19KOQpxgpmPEZ9NtIm/FlexPal?type=design&node-id=0%3A1&mode=design&t=vgM82K5YOfavEdYS-1)
 ## 4.6. Domain-Driven Software Architecture
+El desarrollo de software basado en la arquitectura orientada al dominio (DDD) será fundamental para nuestro proyecto. Esta metodología nos permitirá diseñar sistemas de software que reflejen de manera precisa y efectiva el dominio del problema que estamos abordando. Al aplicar los principios de DDD, podremos identificar y modelar correctamente las entidades, agregados y contextos del dominio, lo que nos permitirá construir una arquitectura de software flexible, escalable y fácil de mantener.
 ### 4.6.1. Software Architecture Context Diagram
 ![Context-FlexPal](assets/img/ContextFlexPal.png)
 ### 4.6.2. Software Architecture Container Diagrams
@@ -287,6 +291,7 @@ Prototipo de la aplicación web FlexPal en Figma:
 ### 4.6.3. Software Architecture Components Diagrams
 ![Component-FlexPal](assets/img/ComponentFlexPal.png)
 ## 4.7. Software Object-Oriented Design
+El diseño orientado a objetos del software será esencial para nuestro proyecto. Esta metodología nos permitirá estructurar nuestro sistema de manera modular y escalable, aprovechando los principios de encapsulamiento, herencia y polimorfismo para crear componentes reutilizables y de fácil mantenimiento.
 ### 4.7.1. Class Diagrams
 ![ClassDiagram](assets/img/DiagramC.png)
 ### 4.7.2. Class Dictionary
@@ -296,5 +301,6 @@ Prototipo de la aplicación web FlexPal en Figma:
 - PlanAlimenticio: Representa un plan alimenticio personalizado para un usuario. Tiene los atributos idPlan, nombrePlan y nutricionista. Sus métodos permiten establecer y obtener estos atributos.
 - SistemaAplicacion: Esta clase conecta las funcionalidades del sistema. Tiene atributos para gestionar instancias de PlanAlimenticio, Suscripcion y RutinaGimnasio. Sus métodos permiten establecer y obtener estas instancias.
 ## 4.8. Database Design.
+El diseño de la base de datos será fundamental para nuestro proyecto, ya que proporcionará la estructura subyacente para almacenar y gestionar los datos de manera eficiente y segura. Utilizaremos un enfoque cuidadoso para modelar las tablas, relaciones y restricciones de la base de datos de acuerdo con los requisitos del sistema y las mejores prácticas de diseño. Esto nos permitirá organizar los datos de manera lógica y coherente, facilitando su recuperación y manipulación en respuesta a las solicitudes de los usuarios.
 ### 4.8.1. Database Diagram.
 ![DataBaseDiagram](assets/img/DbDiagram.png)

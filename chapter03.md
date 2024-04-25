@@ -1,6 +1,8 @@
 ﻿# **Capítulo III: Requirements Specification**
-
+La especificación de requisitos será una etapa crucial en nuestro trabajo, ya que nos permitirá definir claramente los objetivos y las funcionalidades que nuestro producto debe cumplir. 
 ## 3.1. To-Be Scenario Mapping.
+Este elememto nos permitirá visualizar cómo nuestro producto transformará la experiencia de los usuarios y resolverá sus necesidades de manera efectiva. 
+<br>
 - To-Be del segmento objetivo usuario:
 ![To-Be Scenario Mapping User](assets/img/WA_To_be.jpg)
 - To-Be del segmento objetivo coach:

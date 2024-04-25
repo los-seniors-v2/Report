@@ -1,5 +1,7 @@
 # **Capítulo II:  Requirements Elicitation & Analysis**
+La recolección y análisis de requisitos es una etapa fundamental en el desarrollo de cualquier proyecto. Este proceso implica identificar, comprender y documentar las necesidades y expectativas de los stakeholders, así como los objetivos y restricciones del proyecto. Mediante diversas técnicas como entrevistas, encuestas y talleres de trabajo colaborativo, se busca obtener una comprensión clara y detallada de lo que se espera lograr con el proyecto. El análisis de estos requisitos permite establecer una base sólida para el diseño y desarrollo posterior, asegurando que el producto final satisfaga las necesidades del usuario y cumpla con los objetivos del negocio.
 ## 2.1. Competidores.
+Este punto nos proporciona una visión clara del panorama competitivo en el que operamos, permitiéndonos tomar decisiones estratégicas informadas y diferenciar nuestra oferta en el mercado. <br> <br>
 <img src="assets/img/MyFitnessPal_Logo+.png" alt="MFPlogo" width="200" height="200">   
 
 ***MyFitnessPal:*** Es una de las aplicaciones líderes en el seguimiento de alimentos y ejercicio físico. Ofrece una amplia base de datos de alimentos y permite a los usuarios realizar un seguimiento de su ingesta calórica y actividad física para ayudarles a alcanzar sus objetivos de salud y fitness. Además del seguimiento básico, MyFitnessPal también proporciona herramientas para establecer metas personalizadas, crear planes de alimentación y recibir apoyo de una comunidad activa de usuarios.
@@ -12,6 +14,8 @@
 
 ***NikeTrainingClub:*** Es una aplicación de entrenamiento de Nike que ofrece una amplia variedad de programas de ejercicio, desde entrenamientos de fuerza hasta yoga y cardio. La aplicación incluye entrenamientos guiados por expertos, seguimiento del progreso y una comunidad activa de usuarios que comparten sus logros y motivan a otros. Además, Nike Training Club está integrado con dispositivos Nike y ofrece acceso exclusivo a contenido de entrenamiento de atletas y celebridades patrocinados por Nike.
 ### 2.1.1. Análisis competitivo.
+El análisis competitivo es una herramienta fundamental para comprender el panorama en el que opera una empresa o proyecto. Este análisis implica la evaluación de los competidores directos e indirectos en el mercado, así como sus fortalezas, debilidades, oportunidades y amenazas. Proporciona información valiosa sobre cómo se posiciona el producto o servicio en comparación con otros en el mercado, identificando áreas de oportunidad y posibles riesgos.
+<br>
 <table border="1" style="text-align: center;">
 	<tbody>
 		<tr>
@@ -197,6 +201,8 @@
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
+Para destacar frente a la competencia, es crucial desarrollar estrategias y tácticas efectivas que permitan diferenciar nuestro producto o servicio y captar la atención del mercado. Algunas estrategias y tácticas que podríamos considerar incluyen:
+<br>
 1.  **Desarrollar una Propuesta de Valor Única :**
     * Estrategia: Destacar los aspectos únicos y diferenciadores de nuestro producto que lo hacen sobresalir frente a la competencia.
     * Táctica: Identificar las fortalezas clave de nuestro producto, como el enfoque holístico en la salud y el bienestar, y comunica claramente cómo benefician a los usuarios.
@@ -206,7 +212,7 @@
 3.  **Ampliar la Base de Usuarios:**
     * Estrategia: Atraer a más usuarios a nuestra plataforma para aumentar su visibilidad y relevancia en el mercado.
     * Táctica: Implementar programas de referidos y promociones para incentivar a los usuarios actuales a invitar a amigos y familiares a unirse a nuestra aplicación.
-4.  **Ampliar la Base de Usuarios:**
+4.  **Personalización Integral:**
     * Estrategia: Destacar la capacidad de nuestro producto para adaptarse a las necesidades individuales de cada usuario.
     * Táctica: Ofrecer opciones de personalización en los planes de ejercicio y alimentación, así como seguimiento de progreso y recomendaciones adaptadas a los objetivos y preferencias de cada usuario.
 5.  **Marketing Digital Dirigido:**
@@ -236,6 +242,8 @@ El propósito de las entrevistas es adquirir una comprensión profunda de las ex
 5. ¿Qué aspectos considerarías críticos al seleccionar una plataforma de coaching en línea para ofrecer tus servicios profesionales?
 6. ¿Cómo crees que una aplicación web de coaching  podría mejorar la eficacia de tu trabajo como coach y la experiencia de tus clientes?
 ### 2.2.2. Registro de entrevistas.
+El registro de entrevistas es una parte fundamental del proceso de investigación de mercado. Consiste en documentar de manera sistemática y detallada todas las interacciones y conversaciones mantenidas con los participantes de la investigación. Este registro sirve como un recurso invaluable para comprender las necesidades, deseos, preocupaciones y opiniones de los usuarios, así como para identificar patrones y tendencias emergentes.
+<br>
 - **Individuos interesados en mejorar su salud y condición física:**  
 **Entrevista #1**  
 Nombre y apellidos: Javier Cornejo  
@@ -317,6 +325,8 @@ Resumen De Entrevista: El entrevistado revela una fuerte motivación en el campo
 
 
 ### 2.2.3. Análisis de entrevistas.
+El análisis de entrevistas nos permite profundizar en la comprensión de las necesidades, deseos y comportamientos de nuestros usuarios, lo que a su vez informa la toma de decisiones en el diseño y desarrollo de productos o servicios orientados al usuario.
+<br>
 - #### Analisis Primer Segmento:
 ![Pregunta1](assets/img/Resultados_Segmento1_Pregunta1.png)
 ![Pregunta2](assets/img/Resultados_Segmento1_Pregunta2.png)
@@ -343,6 +353,7 @@ Características comunes:
 
 
 ## 2.3. Needfinding.
+El proceso de needfinding nos permite identificar problemas reales que enfrentan los usuarios y descubrir oportunidades de diseño que pueden llevar a soluciones innovadoras y centradas en el usuario.
 ### 2.3.1. User Personas.
 En esta sección, presentaremos el perfil de nuestros User Persona, que surge de un análisis de las entrevistas realizadas anteriormente y de una evaluación de la competencia en el mercado. Los artefactos que vamos a presentar están estrechamente relacionados con las principales características identificadas durante este proceso de análisis. Desde las entrevistas, hemos extraído valiosa información sobre las necesidades, deseos y frustraciones de nuestros potenciales usuarios, lo que nos ha permitido perfilar a nuestro User Persona de manera precisa y realista.
 - **User Persona Primer Segmento Objetivo(Usuarios interesados en mejorar su salud y condición física)**
@@ -350,6 +361,9 @@ En esta sección, presentaremos el perfil de nuestros User Persona, que surge de
 - **User Persona Segundo Segmento Objetivo(Profesionales del coaching en ejercicio y alimentación)**
   ![UserPersona_Segmento2](assets/img/UserPersona__Segmento2.png)
 ### 2.3.2. User Task Matrix.
+La User Task Matrix proporciona una visión completa de las actividades que realizan los usuarios y ayuda a garantizar que el diseño del producto o sistema satisfaga eficazmente sus necesidades y objetivos.
+<br>
+
 | Tareas                                               | Usuarios interesados en mejorar su salud y condición física | Profesionales del coaching en ejercicio y alimentación |
 |------------------------------------------------------|-------------------------------------------------------------|--------------------------------------------------------|
 | Lograr peso deseado                                  | A menudo                                                   | A menudo                                               |
@@ -360,20 +374,27 @@ En esta sección, presentaremos el perfil de nuestros User Persona, que surge de
 | Contar con herramientas que le ayuden a agilizar su trabajo | A veces                                             | A menudo                                               |
 
 ### 2.3.3. User Journey Mapping
+El User Journey Mapping es una herramienta  para comprender la experiencia del usuario de manera holística, lo que permite a los equipos de diseño crear productos y servicios que se alineen mejor con las necesidades y expectativas de los usuarios.
+<br>
 - **Segmento Objetivo: Usuarios interesados en mejorar su salud y condición física**  
 ![JourneyMap01](assets/img/journey_map_seg01.png)
 ### 2.3.4. Empathy Mapping.
+El "Empathy Mapping" será una herramienta esencial en nuestro proceso de trabajo, ya que nos permitirá comprender a fondo las necesidades, deseos y emociones de nuestros usuarios.
+<br>
 - **Empathy Map Primer Segmento Objetivo(Usuarios interesados en mejorar su salud y condición física)**
   ![EmpathyMap__Segmento1](assets/img/EmpathyMap_Segmento1.png)
 - **Empathy Map Segundo Segmento Objetivo(Profesionales del coaching en ejercicio y alimentación)**
   ![EmpathyMap__Segmento2](assets/img/EmpathyMap_Segmento2.png)
 ### 2.3.5. As-is Scenario Mapping.
+El "As-is Scenario Mapping" será una parte fundamental de nuestro enfoque de trabajo, ya que nos permitirá comprender el estado actual de nuestros procesos, identificar áreas de mejora y visualizar los pasos necesarios para alcanzar nuestros objetivos.
+<br>
 - As-Is del segmento objetivo usuario:
 ![As-Is Usuarios](assets/img/As-Is_Usuarios.jpg)
 - As-Is del segmento objetivo coach:
 ![As-Is_Coaching](assets/img/As-Is_Coaching.jpg)
 ## 2.4. Ubiquitous Language
-
+El "Ubiquitous Language" será una herramienta esencial en nuestro trabajo, ya que nos permitirá establecer un lenguaje común y compartido entre todos los miembros del equipo, facilitando la comunicación y la comprensión de los conceptos clave en nuestro proyecto.
+<br><br>
 ***Member***: A person who has registered and holds a membership at the gym. Members have access to our web facilities and services.
 
 ***Membership Plan***: The subscription package chosen by a member, determining the duration of access to our web application facilities and services.
