@@ -63,7 +63,7 @@ los commits totales realizados durante la semana 6:
 
 # Contenido
 ## Tabla de contenidos
-#### [Capítulo I: Introducción](/chapter01.md/)
+#### [Capítulo I: Introducción](/chapter01.md)
 
 [1.1. Startup Profile](/chapter01.md#11-startup-profile)
 
@@ -157,7 +157,7 @@ los commits totales realizados durante la semana 6:
 
 [4.4. Web Applications UX/UI Design](/chapter04.md#44-web-applications-uxui-design)
 
-[4.4.1. Web Applications Wireframes](**/chapter04.md#441-web-applications-wireframes)
+[4.4.1. Web Applications Wireframes](/chapter04.md#441-web-applications-wireframes)
 
 [4.4.2. Web Applications Wireflow Diagrams](/chapter04.md#442-web-applications-wireflow-diagrams)
 
@@ -217,15 +217,15 @@ los commits totales realizados durante la semana 6:
 
 [5.2.1.8. Team Collaboration Insights during Sprint](/chapter05.md#5218-team-collaboration-insights-during-sprint)
 
-[5.3. Validation Interviews](/chapter05.md#)
+[5.3. Validation Interviews](/chapter05.md)
 
-[5.3.1. Diseño de Entrevistas](/chapter05.md#)
+[5.3.1. Diseño de Entrevistas](/chapter05.md)
 
-[5.3.2. Registro de Entrevistas](/chapter05.md#)
+[5.3.2. Registro de Entrevistas](/chapter05.md)
 
-[5.3.3. Evaluaciones según heurísticas](/chapter05.md#)
+[5.3.3. Evaluaciones según heurísticas](/chapter05.md)
 
-[5.4. Video About-the-Product](/chapter05.md#)
+[5.4. Video About-the-Product](/chapter05.md)
 
 [Conclusiones]()
 
