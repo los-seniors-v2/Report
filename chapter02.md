@@ -362,16 +362,106 @@ En esta sección, presentaremos el perfil de nuestros User Persona, que surge de
   ![UserPersona_Segmento2](assets/img/UserPersona__Segmento2.png)
 ### 2.3.2. User Task Matrix.
 La User Task Matrix proporciona una visión completa de las actividades que realizan los usuarios y ayuda a garantizar que el diseño del producto o sistema satisfaga eficazmente sus necesidades y objetivos.
-<br>
+<br><br>
+- User Task Matrix Primer Segmento Objetivo(Usuarios interesados en mejorar su salud y condición física)
 
-| Tareas                                               | Usuarios interesados en mejorar su salud y condición física | Profesionales del coaching en ejercicio y alimentación |
-|------------------------------------------------------|-------------------------------------------------------------|--------------------------------------------------------|
-| Lograr peso deseado                                  | A menudo                                                   | A menudo                                               |
-| Oportunidad de alcanzar sus objetivos con el internet | A menudo                                                   | A menudo                                               |
-| Dieta más saludable                                  | A menudo                                                   | A menudo                                               |
-| Brindar buen servicio                                | Nunca                                                      | A menudo                                               |
-| Poder conectar con sus clientes                     | A veces                                                    | A menudo                                               |
-| Contar con herramientas que le ayuden a agilizar su trabajo | A veces                                             | A menudo                                               |
+<table  style="text-align: center">
+    <tbody>
+     <tr>
+            <td colspan="3"> Javier Cornejo</td>
+    </tr>  
+    <tr>
+        <td>Tareas</td>
+        <td>Frecuencia</td>
+        <td>Importancia</td>
+    </tr>
+    <tr>
+        <td>Asistir a clases de gimnasio o grupos de entrenamiento </td>
+        <td>Never</td>
+        <td>High</td>
+    </tr>
+    <tr>
+        <td>Hacer ejercicio en casa </td>
+        <td>Rarely</td>
+        <td>High</td>
+    </tr>
+    <tr>
+        <td>Planificar comidas semanalmente</td>
+        <td>Sometimes</td>
+        <td>Medium</td>
+    </tr>
+    <tr>
+        <td>Consultar blogs y videos sobre nutrición y fitness</td>
+        <td>Often</td>
+        <td>High</td>
+    </tr>
+    <tr>
+        <td>Hablar con amigos o familiares sobre sus experiencias con planes de ejercicio y alimentación</td>
+        <td>Sometimes</td>
+        <td>Low</td>
+    </tr>
+    <tr>
+        <td>Investigar diferentes tipos de dietas y programas de ejercicio</td>
+        <td>Low</td>
+        <td>Medium</td>
+    </tr>
+    <tr>
+        <td>Buscar aplicaciones de seguimiento de alimentos y ejercicios</td>
+        <td>Always</td>
+        <td>High</td>
+    </tr>
+    </tbody>
+    
+</table>
+
+
+- User Task Matrix Segundo Segmento Objetivo(Profesionales del coaching en ejercicio y alimentación)
+
+<table  style="text-align: center">
+    <tbody>
+     <tr>
+            <td colspan="3"> Andrés Torres</td>
+    </tr>  
+    <tr>
+        <td>Tareas</td>
+        <td>Frecuencia</td>
+        <td>Importancia</td>
+    </tr>
+    <tr>
+        <td>Crear planes de ejercicio personalizados para sus clientes presencialmente</td>
+        <td>Always</td>
+        <td>High</td>
+    </tr>
+    <tr>
+        <td>Seguir el progreso de los clientes </td>
+        <td>High</td>
+        <td>High</td>
+    </tr>
+    <tr>
+        <td>Comunicarse con los clientes</td>
+        <td>Often</td>
+        <td>Medium</td>
+    </tr>
+    <tr>
+        <td>Hacer uso de redes sociales y plataformas digitales para atraer clientes</td>
+        <td>Low</td>
+        <td>High</td>
+    </tr>
+    <tr>
+        <td>Buscar oportuniades para mejorar su forma de trabajo</td>
+        <td>Sometimes</td>
+        <td>Medium</td>
+    </tr>
+    <tr>
+        <td>Mantenerse al día con las últimas investigaciones en salud y fitness</td>
+        <td>Low</td>
+        <td>Medium</td>
+    </tr>
+    </tbody>
+
+</table>
+
+
 
 ### 2.3.3. User Journey Mapping
 El User Journey Mapping es una herramienta  para comprender la experiencia del usuario de manera holística, lo que permite a los equipos de diseño crear productos y servicios que se alineen mejor con las necesidades y expectativas de los usuarios.
