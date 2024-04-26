@@ -197,22 +197,19 @@
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
-1.  **Desarrollar una Propuesta de Valor Única :**
+1.  **Desarrollar una Propuesta de Valor Únic :**
     * Estrategia: Destacar los aspectos únicos y diferenciadores de nuestro producto que lo hacen sobresalir frente a la competencia.
     * Táctica: Identificar las fortalezas clave de nuestro producto, como el enfoque holístico en la salud y el bienestar, y comunica claramente cómo benefician a los usuarios.
-2.  **Enfoque en la Experiencia del Usuario :**
+2.  **Enfoque en la Experiencia del Usuario:**
     * Estrategia: Priorizar la satisfacción y la experiencia del usuario para generar lealtad a la marca.
     * Táctica: Mejorar continuamente la interfaz de usuario de nuestro aplicación, simplificando la navegación y agregando funciones que faciliten el uso y la comprensión.
 3.  **Ampliar la Base de Usuarios:**
     * Estrategia: Atraer a más usuarios a nuestra plataforma para aumentar su visibilidad y relevancia en el mercado.
     * Táctica: Implementar programas de referidos y promociones para incentivar a los usuarios actuales a invitar a amigos y familiares a unirse a nuestra aplicación.
-4.  **Ampliar la Base de Usuarios:**
-    * Estrategia: Destacar la capacidad de nuestro producto para adaptarse a las necesidades individuales de cada usuario.
-    * Táctica: Ofrecer opciones de personalización en los planes de ejercicio y alimentación, así como seguimiento de progreso y recomendaciones adaptadas a los objetivos y preferencias de cada usuario.
-5.  **Marketing Digital Dirigido:**
+4.  **Marketing Digital Dirigido:**
     * Estrategia: Dirigir nuestros esfuerzos de marketing digital hacia los segmentos de mercado más relevantes y receptivos.
     * Táctica: Utilizar estrategias de segmentación de audiencia en plataformas como redes sociales y motores de búsqueda para llegar a usuarios interesados en mejorar su salud y condición física.
-6.  **Colaboraciones Estratégicas:**
+5.  **Colaboraciones Estratégicas:**
     * Estrategia: Establecer asociaciones con otras empresas o profesionales del sector para expandir nuestro alcance y credibilidad.
     * Táctica: Colaborar con nutricionistas, entrenadores personales o influencers en el ámbito del fitness para promocionar unestro producto y llegar a nuevas audiencias.
 
@@ -236,13 +233,22 @@ El propósito de las entrevistas es adquirir una comprensión profunda de las ex
 5. ¿Qué aspectos considerarías críticos al seleccionar una plataforma de coaching en línea para ofrecer tus servicios profesionales?
 6. ¿Cómo crees que una aplicación web de coaching  podría mejorar la eficacia de tu trabajo como coach y la experiencia de tus clientes?
 ### 2.2.2. Registro de entrevistas.
-- **Individuos interesados en mejorar su salud y condición física:**  
-**Entrevista #1**  
-Nombre y apellidos: Javier Cornejo  
-Edad: 30 años  
-![Entrevista_Seg01_JavierCarpio](assets/img/Registro_Entrevista_Seg01_JavierCarpio.png)
+# **Personas que frecuentan actividades físicas:**
 
-**Transcripción:**  
+### **Entrevista #1**
+#### Características:
+Nombre y apellidos: Javier Cornejo <br>
+Edad: 30 años <br>
+Sistema Operativo: Windows <br>
+Dispositivo más usado: Celular <br>
+Distrito: <br>
+
+#### Imagen de referencia:
+![Entrevista_Seg01_JavierCarpio](assets/img/Registro_Entrevista_Seg01_JavierCarpio.png)
+Inicio De Entrevista: 0:00 <br>
+Fin de la entrevista: 2:10 <br>
+
+#### Transcripción:
 
 **¿Qué te ha motivado a buscar maneras de mejorar tu salud y condición física en este momento?**  
 - Mejorar mi rendimiento físico y mental para cumplir satisfactoriamente todas las actividades que me planteo en el día.
@@ -252,11 +258,11 @@ Edad: 30 años
 
 
 **¿Qué tipo de apoyo o orientación te resultaría más útil para alcanzar tus objetivos de salud y condición física?**  
-- Definitivamente un guia para entrenar y un nutricionista que mejore mi alimentación
+- Un guía para entrenar y un nutricionista que mejore mi alimentación
 
 
 **¿Cómo crees que una Aplicación web de coaching en línea podría ayudarte a mantenerte motivado y comprometido con tus metas de bienestar?**  
-- Creo que un coaching en linea podría ayudarme en incluir correctamente la rutina dentro de mis actividaes diarias. Además un seguimiento por parte de él evitaría caer en la rutina y desmotivación.
+- Creo que un coaching en línea podría ayudarme en incluir correctamente la rutina dentro de mis actividaes diarias. Además un seguimiento por parte de él evitaría caer en la rutina y desmotivación.
 
 
 **¿Qué características considerarías más importantes al elegir un servicio de coaching en línea para ayudarte a alcanzar tus objetivos de salud y condición física?**  
@@ -266,55 +272,94 @@ Edad: 30 años
 **¿Qué esperas obtener de un coach profesional en términos de apoyo y seguimiento en tu viaje hacia un estilo de vida más saludable?**  
 - Espero obtener profesionalismo, motivación, responsabilidad y compromiso.  
 
-[URL de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c360_upc_edu_pe/EdSdE2ZeVzlKhhKpaprpreoBPGQf2imEYcScLVT3qf_xog?e=uICrNB)
 - - -
-**Entrevista #2** <br>
+
+### **Entrevista #2** 
+
+#### Características:
 Nombre y apellidos: Renzo Enciso <br>
 Edad: 20 años <br>
 Distrito: Chorrillos<br>
+
+#### Imagen de referencia:
 ![Entrevista_Seg01_RenzoEnciso](assets/img/Registro_Entrevista_Seg01_RenzoEnciso.png) <br>
-Inicio De Entrevista: 0:35 <br>
-[URL de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213652_upc_edu_pe/Ec7t7YwWYs9ItCcgfPgYdRgByGxI1DTcZrgy-TultQdxnw?e=abfplv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) <br>
+Inicio De Entrevista: 2:10 <br>
+Fin de la entrevista: 6:32 <br>
+
+#### Transcripción:
 Resumen De Entrevista: El entrevistado muestra una motivación actual para mejorar su salud y condición física, destacando su conciencia sobre la importancia del bienestar a largo plazo. Su experiencia previa revela obstáculos como la falta de motivación constante y la carencia de apoyo adecuado en sus intentos previos por adoptar un estilo de vida más saludable. Busca un apoyo útil para alcanzar sus objetivos, priorizando el acceso a un coach profesional que brinde consejos personalizados y motivación constante. Considera que una Aplicación web de coaching en línea sería beneficiosa por su fácil acceso a recursos útiles y seguimiento del progreso. Al elegir un servicio de coaching, valora la experiencia del coach, la personalización de los planes y el apoyo constante. Espera recibir un apoyo personalizado de un coach profesional, que incluya orientación experta, seguimiento regular del progreso y motivación para superar obstáculos.
+
 - - -
-**Entrevista #3** <br>
+
+### **Entrevista #3** <br>
+
+#### Características:
 Nombre y apellidos: Diego Paulino <br>
 Edad: 21 años <br>
 Distrito: Santiago de Surco <br>
-![Entrevista_Seg01_DiegoPaulino](assets/img/Registro_Entrevista_Seg01_DiegoPaulino.png) <br>
-Inicio De Entrevista: 0:10 <br>
-[URL de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202012207_upc_edu_pe/EQyvgUTQcndGpVwbXHjXbicBN1_OcDsCOwjHTs4Rx1N8hQ?e=YuRagK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
+#### Imagen de referencia:
+![Entrevista_Seg01_DiegoPaulino](assets/img/Registro_Entrevista_Seg01_DiegoPaulino.png) <br>
+Inicio De Entrevista: 6:32 <br>
+Fin de la entrevista: 9:45 <br>
+
+#### Transcripción:
 Resumen De Entrevista: El entrevistado revela una motivación actual para mejorar su salud y condición física, destacando su interés en adoptar un estilo de vida más activa y organizada. Su experiencia previa incluye intentos anteriores de seguir una dieta equilibrada y hacer ejercicio regularmente, pero ha enfrentado desafíos como la falta de organización y la dificultad para mantener la consistencia. Busca un apoyo y orientación útiles para alcanzar sus objetivos, priorizando la educación sobre nutrición y la planificación de comidas saludables. Considera que una Aplicación web de coaching en línea sería beneficiosa por su accesibilidad y seguimiento del progreso. Al elegir un servicio de coaching, valora la personalización de los planes, el apoyo constante y la motivación para mantenerse comprometido con sus objetivos. Espera recibir un apoyo profesional y personalizado de un coach en su viaje hacia un estilo de vida más saludable.
+
 - - -
-- **Profesionales del coaching en ejercicio y alimentación:**
-- **Entrevista #1** <br>
+
+# **Coaches certificados:**
+
+### **Entrevista #1**
+
+#### Características:
 Nombre y apellidos: Andres Torres <br>
 Edad: 23 años <br>
 Distrito: Lince<br>
+
+#### Imagen de referencia:
 ![Entrevista_Seg01_AndresTorres](assets/img/Registro_Entrevista_Seg02_AndresTorres.png) <br>
-Inicio De Entrevista: 0:42 <br>
-[URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213652_upc_edu_pe/ETpzPv5-Yz5HouMLQsPO3PgB_Jo0HO8x9CQ4l2weGKBMdg?e=vNRQA3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) <br>
+Inicio De Entrevista: 9:45 
+Fin de la entrevista: 14:46 <br>
+
+#### Transcripción:
 Resumen De Entrevista: El entrevistado revela una fuerte motivación en el campo del coaching en ejercicio y alimentación, destacando su deseo de ayudar a otros a lograr sus metas de salud y bienestar de manera efectiva y sostenible. Además, reconoce los desafíos asociados con el trabajo presencial, como las limitaciones geográficas y la dificultad para mantener la consistencia en las sesiones. Expresa un claro entusiasmo por los beneficios potenciales de ofrecer servicios de coaching en línea, señalando la eliminación de barreras geográficas y una mayor flexibilidad para él y sus clientes. En cuanto a las herramientas y características esenciales, resalta la importancia de la comunicación en tiempo real, el seguimiento de progreso y los recursos educativos en una plataforma en línea. Finalmente, destaca cómo una aplicación web de coaching podría mejorar significativamente su eficacia laboral y la experiencia del cliente al proporcionar una plataforma centralizada y accesible para la comunicación y el soporte en cualquier momento y lugar.
   
-- **Entrevista #2** <br>
-  Nombre y apellidos: Cristopher Paredes <br>
+- - -
+
+### **Entrevista #2** <br>
+#### Características:
+Nombre y apellidos: Cristopher Paredes <br>
   Edad: 23 años <br>
   Distrito: Santiago de Surco<br>
-  ![Entrevista_Seg02_CristopherParedes](assets/img/Registro_Entrevista_Seg02_Cristopher.png) <br>
-  Inicio De Entrevista: 0:12 <br>
-  [URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218996_upc_edu_pe/Eacs2f3FM1BHuKWBVQeYPMcBG1p_bXqAgge7QaNddKzNBw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=7tgXih) <br>
-  Resumen De Entrevista: El entrevistado muestra el porque inició en el mundo del coaching y nutrición, destacando su deseo de ayudar a otras personas a obtener su cuerpo deseado. Ya que como él dice, entrenar y comer saludable es distinto a solamente comer saludable. Reconoce los desafios de de trabajar de manera presencial, como la dificultad de tener mas asesorados. Expresa entusiasmo por los beneficios que obtendría ofreciendo servicios de coaching en linea. En cuanto a las herramientas y caracteristicas esenciales, resalta la facilidad de hablar con mas asesorados en el transcurso del dia, asi como el seguimiento de progreso que los obtendria consultando una base de datos. Finalmente, destaca cómo una aplicación web de coaching podría mejorar significativamente su eficacia laboral y la experiencia del cliente.  
 
-- **Entrevista #3** <br>
-  Nombre y apellidos: Adrián Valerio <br>
-  Edad: 22 años <br>
-  Distrito: Chorrillos<br>
-  ![Entrevista_Seg02_AdrianValerio](assets/img/Registro_Entrevista_Seg02_Valerio.png) <br>
-  Inicio De Entrevista: 0:12 <br>
-  [URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c936_upc_edu_pe/Efz8wi4LvnlNiIB_odnblJQBRQBBJHxhK5xwB2Axk4o2oQ?e=jDPaet&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) <br>
+#### Imagen de referencia:
+  ![Entrevista_Seg02_CristopherParedes](assets/img/Registro_Entrevista_Seg02_Cristopher.png) <br>
+  Inicio De Entrevista: 14:46  
+  Fin de la entrevista: 21:14 <br>
+
+#### Transcripción:
+  Resumen De Entrevista: El entrevistado muestra     el porqué inició en el mundo del coaching y nutrición, destacando su deseo de ayudar a otras personas a obtener su cuerpo deseado. Ya que como él dice, entrenar y comer saludable es distinto a solamente comer saludable. Reconoce los desafios de de trabajar de manera presencial, como la dificultad de tener mas asesorados. Expresa entusiasmo por los beneficios que obtendría ofreciendo servicios de coaching en linea. En cuanto a las herramientas y caracteristicas esenciales, resalta la facilidad de hablar con mas asesorados en el transcurso del dia, asi como el seguimiento de progreso que los obtendria consultando una base de datos. Finalmente, destaca cómo una aplicación web de coaching podría mejorar significativamente su eficacia laboral y la experiencia del cliente.  
+
+- - -
+
+### **Entrevista #3** <br>
+#### Características:
+Nombre y apellidos: Adrián Valerio <br>
+Edad: 22 años <br>
+Dispositivo más usado: Móvil <br>
+Sistema Operativo: Android <br>
+Distrito: Chorrillos<br>
+
+#### Imagen de referencia:
+![Entrevista_Seg02_AdrianValerio](assets/img/Registro_Entrevista_Seg02_Valerio.png) <br>
+Inicio De Entrevista: 21:14  
+Fin de la entrevista: 27:06 <br>
+
+#### Transcripción:
   Resumen De Entrevista: El entrevistado nos comenta a cerca de su gran interés a cerca de la actividad física cuando niño, por ello esstudió y en estos momentos está sacando una certificación de coaching profesional mientras ejerce su carrera a sus 22 años. Para él, la comunicación usuario-coach es de lo más importante, y más si es virtual, pues, Adrián nos indica que hay una gran ventaja a comparación de la virtualidad, ya que feedbacks, consejos y regulaciones que brinda a sus usuarios puede ser más consistente, ya que la disponibilidad es más grande. 
 
+## [Link de la entrevista upc-pre-202401-si730-SV51-Gymfinity-sprint-2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c936_upc_edu_pe/EdthUfWGQcdNjafKk4Iss98Blmmlg1Ej3pICf9SBl_3Hkw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ctQ6T7)
 
 ### 2.2.3. Análisis de entrevistas.
 - #### Analisis Primer Segmento:
