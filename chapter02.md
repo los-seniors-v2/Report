@@ -240,6 +240,7 @@ El propósito de las entrevistas es adquirir una comprensión profunda de las ex
 **Entrevista #1**  
 Nombre y apellidos: Javier Cornejo  
 Edad: 30 años  
+Distrito: Chorrillos <br><br>
 ![Entrevista_Seg01_JavierCarpio](assets/img/registro-entrevista-seg-01-javier.png)
 
 **Transcripción:**  
