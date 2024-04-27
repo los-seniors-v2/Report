@@ -102,14 +102,14 @@ git commit -m “<type>[optional scope]: <title>“ -m “<description”
 ~~~
 **Tipos De Conventional Commits**
 ~~~
-1. **feat**: Se usa para describir una nueva característica o funcionalidad añadida al código.
-2. **fix**: Indica una corrección de errores o solución a un problema.
-3. **docs**: Se emplea para cambios o mejoras en la documentación del código.
-4. **style**: Describe cambios relacionados con el formato del código, como espacios en blanco, sangrías, etc., que no afectan su funcionalidad.
-5. **refactor**: Se utiliza para modificaciones en el código que no corrigen errores ni añaden nuevas funcionalidades, sino que mejoran su estructura o legibilidad.
-6. **test**: Indica la adición o modificación de pruebas unitarias o funcionales.
-7. **chore**: Se usa para cambios en el proceso de construcción o tareas de mantenimiento que no están directamente relacionadas con el código en sí.
-8. **perf**: Describe mejoras de rendimiento en el código.
+1. feat: Used to describe a new feature or functionality added to the code.
+2. fix: Indicates a bug fix or solution to a problem.
+3. docs: Employed for changes or improvements in code documentation.
+4. style: Describes changes related to the code's formatting, such as whitespace, indentation, etc., that do not affect its functionality.
+5. refactor: Used for modifications to the code that do not fix bugs or add new features, but rather improve its structure or readability.
+6. test: Indicates the addition or modification of unit tests or functional tests.
+7. chore: Used for changes in the build process or maintenance tasks that are not directly related to the code itself.
+8. perf: Describes performance improvements in the code.
 ~~~
 
 
