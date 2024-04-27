@@ -92,7 +92,7 @@ La rama de corrección rápida (Hotfix branch) se empleará para resolver y actu
 <br>Debe fusionarse con la rama Develop y Master
 #### Notación: hotfix
 
-
+### **Support branch**
 ### **Conventional Commits**
 "Conventional Commits" es una convención para estructurar los mensajes de confirmación (commits) en un formato estándar y semántico. Este formato ayuda a comunicar claramente los cambios realizados en el código y facilita la generación de registros de cambios automáticos. Los "Conventional Commits" suelen seguir un formato que incluye un encabezado, un cuerpo opcional y un pie de página opcional, y se utilizan para describir de manera sucinta y clara los cambios realizados en el código, lo que facilita su seguimiento y comprensión por parte de los desarrolladores y otros miembros del equipo.
 <br>
@@ -323,13 +323,19 @@ Como norma general, se espera que todo el código desarrollado por los miembros 
 ### 5.1.4. Software Deployment Configuration.
 - Creación Landing Page:<br>
 1. Se crea un repositorio remoto en GitHub
-![CreaciónRepositorio](assets/img/Creacion_repo.png)
+![creation-of-repository-lp](assets/img/Creacion_repo.png)
 2. Agregar a participantes
-![CreaciónRepositorio](assets/img/miembros_repo.png)
-3. Habilitmos Gitgub Pages en branch "master" y ruta "/(root)"
-   ![CreaciónRepositorio](assets/img/Github_pages.png)
+![adding-members-screenshot-lp](assets/img/miembros_repo.png)
+3. Habilitamos GitHub Pages en branch "master" y ruta "/(root)"
+![deploying-repository-in-github-pages-lp](assets/img/Github_pages.png)
 
-- Creación Landing Page:<br>
+- Creación Front End App:<br>
+1. Creación de repositorio dentro de nuestra organización:
+![creation-of-repository-lp](assets/img/creacion-repositorio-frontendapp.png)
+2. Agregar a participantes
+![adding-members-screenshot-lp](assets/img/miembros_repo.png)
+
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1.
