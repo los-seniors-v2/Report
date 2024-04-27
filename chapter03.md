@@ -1,11 +1,15 @@
 ﻿# **Capítulo III: Requirements Specification**
-
+La especificación de requisitos será una etapa crucial en nuestro trabajo, ya que nos permitirá definir claramente los objetivos y las funcionalidades que nuestro producto debe cumplir.
 ## 3.1. To-Be Scenario Mapping.
+El mapeo de escenarios "To-Be" nos permite visualizar cómo será el proceso o flujo de trabajo deseado en el futuro después de implementar las mejoras propuestas. Nos ayuda a identificar los cambios necesarios en los procesos actuales y a diseñar soluciones para optimizarlos. Al crear escenarios "To-Be", podemos visualizar claramente cómo se verá el proceso una vez que se implementen las mejoras, lo que nos permite comunicar mejor la visión del proyecto y alinear a todas las partes interesadas en torno a los objetivos comunes. Esto facilita la planificación y la implementación efectiva de los cambios para lograr los resultados deseados.
+<br><br>
 - To-Be del segmento objetivo usuario:
 ![To-Be Scenario Mapping User](assets/img/WA_To_be.jpg)
 - To-Be del segmento objetivo coach:
 ![To-Be Scenario Mapping Coach](assets/img/WA_To_be2.jpg)
 ## 3.2. User Stories.
+Las User Stories, o historias de usuario, son descripciones breves y centradas en el usuario de una funcionalidad específica del producto. Nos ayudan a comprender las necesidades y expectativas de nuestros usuarios al abordar qué quieren lograr y por qué. Al escribir User Stories, nos centramos en el valor que proporcionará la funcionalidad para el usuario y en cómo la utilizará en su contexto. Esto nos permite priorizar las características del producto de acuerdo con su importancia para el usuario y desarrollar soluciones que realmente resuelvan sus problemas y satisfagan sus necesidades.
+<br>
 Para elaborar user stories que pertenecen a un epic. A continuación, las epics que consideramos como equipo:
 
 | **Código** | **Título**                                      | **Epic**                                                                                                                                                                                                                                                            |
@@ -70,6 +74,8 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 | TSO40                     | Implementar Pruebas de Integración Continua | Como desarrollador, Quiero implementar pruebas de integración continua, Para garantizar la estabilidad del sistema durante el desarrollo.      | **Dado** que el desarrollador necesita mantener la estabilidad del sistema mientras realiza cambios. <br> **Cuando** el desarrolladorn implementa pruebas de integración continua según  las mejore s prácticas. <br> **Entonces** las pruebas se ejecutan automáticamente después de cada cambio y proporcionan retroalimentación rápida sobre la integridad del sistema. <br> **Dado** que el desarrollador intenta implementar pruebas de integración continua sin entender completamente la arquitectura del sistema. <br> **Cuando** el desarrollador crea pruebas que no cubren adecuadamente las funcionalidades críticas o producen resultados incorrectos. <br> **Entonces** las pruebas de integración continua no son efectivas para garantizar la estabilidad del sistema. | EP007       |
 
 ## 3.3. Impact Mapping.
+Impact Mapping es una herramienta poderosa que nos ayudará a visualizar y planificar cómo nuestro proyecto puede generar un impacto significativo en nuestros usuarios y en nuestro objetivo final. Nos permitirá identificar claramente los resultados deseados, los comportamientos esperados de nuestros usuarios y las acciones necesarias para alcanzar esos objetivos. Al utilizar Impact Mapping, podremos alinear mejor nuestras actividades con nuestros objetivos, tomar decisiones más informadas y maximizar el impacto de nuestro proyecto.
+<br><br>
 ### Segment 1: Users
 <img src="assets/img/Impact_map_01.png" alt="Impactmap01">
 
