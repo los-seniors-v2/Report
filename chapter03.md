@@ -63,10 +63,10 @@ Para elaborar user stories que pertenecen a un epic. A continuación, las epics 
 
 ## 3.3. Impact Mapping.
 ### Segment 1: Users
-<img src="assets/img/impact-map-01.png" alt="Impactmap01">
+<img src="assets/img/impact-map-segment01.png" alt="Impactmap01">
 
 ### Segment 2: Coachs
-<img src="assets/img/impact-map-02.png" alt="Impactmap02">
+<img src="assets/img/impact-map-segment02.png" alt="Impactmap02">
 
 ## 3.4. Product Backlog.
 | Orden | User Story ID | Título | Descripción | Story Points |
