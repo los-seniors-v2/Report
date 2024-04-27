@@ -14,14 +14,14 @@ La gestión de la configuración del software es crucial para nuestro trabajo, y
        una plataforma unificada de comunicación y colaboración que combina chat persistente en el lugar de trabajo, reuniones de video, almacenamiento de archivos e integración de aplicaciones. <br>
         [Link De Registro o Inicio De Sesión](https://www.microsoft.com/es-pe/)
       Imagen para mostrar evidencia de uso:
-      ![uxpressia-image-userpersona](assets/img/evidencia-microsoft-teams.png)
+      ![microsoft-teams-image-userpersona](assets/img/evidencia-microsoft-teams.png)
 
 - ### Requirement Management:
     * ### Miro:
       Un sistema que ofrece una amplia gama de plantillas diseñadas para abordar diversos aspectos en la creación y gestión de proyectos. <br>
       [Link De Registro o Inicio De Sesión](https://miro.com/es/login/)
       Imagen para mostrar evidencia de uso:
-      ![uxpressia-image-userpersona](assets/img/evidencia-miro.png)
+      ![Miro-image-userpersona](assets/img/evidencia-miro.png)
     * ### UXPressia:
       Es una herramienta en línea que simplifica el proceso de mapeo y comprensión de las necesidades del cliente en un proyecto determinado. <br>
       [Link De Registro o Inicio De Sesión](https://uxpressia.com)
@@ -38,17 +38,23 @@ La gestión de la configuración del software es crucial para nuestro trabajo, y
       Una herramienta colaborativa que posibilita la creación conjunta de wireframes flow y mockups flow. <br>
       [Link De Registro o Inicio De Sesión ](https://www.lucidchart.com/pages/es)
       Imagen para mostrar evidencia de uso:
-      ![uxpressia-image-userpersona](assets/img/evidencia-lucidchart.png)
+      ![lucidchart-image-userpersona](assets/img/evidencia-lucidchart.png)
 - ###  Software Development:
     * ### HTML5:
       Es un lenguaje de etiquetado utilizado para crear la estructura a páginas web. Lo utilizamos para incluir componentes como texto, imágenes, enlaces, botones y videos en nuestras páginas web. <br>
       [Información Relacionada](https://www.esic.edu/rethink/tecnologia/html5-que-es-caracteristicas-y-como-funciona-c#:~:text=El%20HTML5%20es%20un%20estándar,%2C%20estilo%20de%20letra%2C%20etc.)
+      Imagen para mostrar evidencia de uso:
+      ![uxpressia-image-userpersona](assets/img/html-evidencia.png)
     * ### CSS:
       Un lenguaje de diseño gráfico utilizado para dar formato y estilo a la presentación de un documento escrito en HTML. <br>
       [Información Relacionada](https://developer.mozilla.org/es/docs/Web/CSS)
+      Imagen para mostrar evidencia de uso:
+      ![uxpressia-image-userpersona](assets/img/evidencia-css.png)
     * ### JavaScript:
       Un lenguaje de programación orientado a objetos dinámico que utilizamos para implementar funcionalidades en un documento HTML. <br>
       [Información Relacionada]( https://developer.mozilla.org/es/docs/Web/JavaScript )
+      Imagen para mostrar evidencia de uso:
+      ![uxpressia-image-userpersona](assets/img/evidencia-uxpressia.png)
     * ### WebStorm:
       Un entorno de desarrollo integrado (IDE) que emplearemos para trabajar con JavaScript. <br>
       [Link De Descarga]( https://www.jetbrains.com/es-es/webstorm/)
