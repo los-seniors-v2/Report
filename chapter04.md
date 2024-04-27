@@ -3,28 +3,58 @@ El product design será fundamental para nuestro trabajo, ya que nos permitirá 
 ## 4.1. Style Guidelines.
 Un **Style Guideline** es un conjunto de reglas y normas que definen cómo se debe redactar, diseñar o presentar documentos, contenido web, software u otros trabajos creativos. A continuación, se detallan las especificaciones de los parámetros implementados en la estructura del proyecto.
 ### 4.1.1. General Style Guidelines
+**Branding**<br>
+Para la creación del logo de nuestro producto FlexPal, se ha optado por un diseño moderno y minimalista que refleje las intenciones de la aplicación. El logotipo se compone de una tipografía elegante y sencilla, acompañada de un icono que simboliza la flexibilidad y ejercicio, asi como también una frase alentadora. Los colores utilizados son vibrantes y energéticos, lo que refuerza la idea de un estilo de vida activo y saludable. En cuanto a la paleta de colores, se ha elegido una combinación de tonos azules y blancos que transmiten calma y frescura. 
+![flexpal-logo](assets/img/flexpal-logo.png) <br>
+**Typography**<br>
+Para la tipografía de FlexPal, se ha seleccionado una fuente moderna y legible que se adapta a la estética general del producto. La tipografía principal es **Montserrat**, una fuente sans-serif que es fácil de leer en pantallas digitales y que aporta un aspecto limpio y contemporáneo al diseño. Para los encabezados y títulos, se ha optado por la fuente **Roboto**, que es más audaz y llamativa, lo que permite destacar la información importante y captar la atención del usuario. <br>
+<br> A continuación, se presentan las tipografías seleccionadas para FlexPal:
+![monserrat-font](assets/img/montserrat-font.png) <br>
+![roboto-font](assets/img/roboto-font.png) <br>
+**Colors**<br>
+La paleta de colores de FlexPal se compone de tonos que reflejan la frescura, la calma y la energía asociadas con un estilo de vida activo y saludable. Los colores elegidos son vibrantes y atractivos, lo que ayuda a captar la atención del usuario y a transmitir la idea de un producto moderno y dinámico. A continuación, se presentan los colores seleccionados para FlexPal:
+![color-1](assets/img/colors-1.png) <br>
+![color-1](assets/img/colors-2.png) <br>
+![color-1](assets/img/colors-3.png) <br>
 
-**Overview:** <td>Deseamos capturar la atención del usuario desde el inicio mediante la creación y el diseño de una perspectiva del producto que establezca una conexión inmediata y reconocible.</td>
+**Spacing**<br>
+El espaciado es un elemento clave en el diseño de FlexPal, ya que ayuda a organizar y estructurar la información de manera clara y coherente. Se ha optado por un espaciado generoso entre los elementos de la interfaz, lo que facilita la lectura y la navegación del usuario. Además, se ha utilizado un espaciado uniforme en todo el diseño, lo que crea una sensación de equilibrio y armonía en la composición. <br>
+![spacing](assets/img/spacing.png) <br>
 
-**Brand overview**
 
-<td>Somos una compañía recién creada llamada "Flexpal" que quiere mejorar la salud de todos nuestros usuarios mediante ayuda personalizada.
-Por esta razón, nos reunimos y trabajamos con cooperación, eficencia y responsabilidad.</td>
-<br><br>
+[//]: # (**Overview:** <td>Deseamos capturar la atención del usuario desde el inicio mediante la creación y el diseño de una perspectiva del producto que establezca una conexión inmediata y reconocible.</td>)
 
-**Misión:** <td>Nustra misión es buscar respeto, colaboración, humildad y empatía en todas nuestras acciones. Escuchamos y actuamos sobre las mejores ideas de nuestros grupos de interés para lograr el mayor impacto. Reconocemos los esfuerzos de todos los involucrados en nuestro trabajo vital y apoyamos sus diversas necesidades.</td>
+[//]: # ()
+[//]: # (**Brand overview**)
 
-**Visión:** <td>Nuestra visión es un mundo donde todos tengan la oportunidad de llevar una vida saludable.</td>
+[//]: # ()
+[//]: # (<td>Somos una compañía recién creada llamada "Flexpal" que quiere mejorar la salud de todos nuestros usuarios mediante ayuda personalizada.)
 
-**Brand Name:** <td>Como la startup se trata de querer ayudar a la gente ejercitarse y comer sano, conectando al usuario con coaches y nutriólogos. Por esto, hemos decidido usar FlexPal como el nombre del producto, "Flex" de flexionar y "Pal" de amigo.</td>
+[//]: # (Por esta razón, nos reunimos y trabajamos con cooperación, eficencia y responsabilidad.</td>)
 
-<!-- Imagen!-->
+[//]: # (<br><br>)
 
-**Typography:** <td>Las tipografías asignadas por el equipo fueron:</td>
-<!-- Imagen!-->
+[//]: # ()
+[//]: # (**Misión:** <td>Nustra misión es buscar respeto, colaboración, humildad y empatía en todas nuestras acciones. Escuchamos y actuamos sobre las mejores ideas de nuestros grupos de interés para lograr el mayor impacto. Reconocemos los esfuerzos de todos los involucrados en nuestro trabajo vital y apoyamos sus diversas necesidades.</td>)
 
-**Colors:** <td></td>
-<!-- Imagen!-->
+[//]: # ()
+[//]: # (**Visión:** <td>Nuestra visión es un mundo donde todos tengan la oportunidad de llevar una vida saludable.</td>)
+
+[//]: # ()
+[//]: # (**Brand Name:** <td>Como la startup se trata de querer ayudar a la gente ejercitarse y comer sano, conectando al usuario con coaches y nutriólogos. Por esto, hemos decidido usar FlexPal como el nombre del producto, "Flex" de flexionar y "Pal" de amigo.</td>)
+
+[//]: # ()
+[//]: # (<!-- Imagen!-->)
+
+[//]: # ()
+[//]: # (**Typography:** <td>Las tipografías asignadas por el equipo fueron:</td>)
+
+[//]: # (<!-- Imagen!-->)
+
+[//]: # ()
+[//]: # (**Colors:** <td></td>)
+
+[//]: # (<!-- Imagen!-->)
 
 ### 4.1.2. Web Style Guidelines
 <td>Para FlexPal, estamos planeando desarrollar una plataforma web. Por lo tanto, implementaremos un diseño adaptable (conocido como Web Responsive Design) con el objetivo de optimizar la presentación de información en cualquier dispositivo. Esto asegurará que el contenido se mantenga intacto y, en última instancia, mejorará la experiencia del usuario.</td>
