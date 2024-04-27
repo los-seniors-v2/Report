@@ -288,13 +288,31 @@ Prototipo de la aplicación web FlexPal en Figma:
 ![Component-FlexPal](assets/img/ComponentFlexPal.png)
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
-![ClassDiagram](assets/img/DiagramC.png)
+![ClassDiagram](assets/img/class-diagram-flex.png)
 ### 4.7.2. Class Dictionary
-- Suscripcion: Representa la suscripción de un usuario al servicio. Tiene los atributos idUsuario para el identificador del usuario y suscrito para indicar si está suscrito o no. Sus métodos incluyen Suscribir para suscribir al usuario, CancelarSuscripcion para cancelar la suscripción y EstaSuscrito para verificar el estado de suscripción.
-- Usuario: Representa un usuario del sistema. Tiene los atributos idUsuario, nombreUsuario y correoElectronico. Sus métodos permiten establecer y obtener estos atributos.
-- RutinaGimnasio: Representa una rutina de ejercicio en el gimnasio. Tiene los atributos idRutina, nombreRutina y entrenador. Sus métodos permiten establecer y obtener estos atributos.
-- PlanAlimenticio: Representa un plan alimenticio personalizado para un usuario. Tiene los atributos idPlan, nombrePlan y nutricionista. Sus métodos permiten establecer y obtener estos atributos.
-- SistemaAplicacion: Esta clase conecta las funcionalidades del sistema. Tiene atributos para gestionar instancias de PlanAlimenticio, Suscripcion y RutinaGimnasio. Sus métodos permiten establecer y obtener estas instancias.
+#### Platform
+- Attributes: landingPageView, userInterface, passwordRecovery, twoFactorAuthentication, notificationSystem, monitoringTools, debuggingTools, continuousIntegrationTests.
+#### Member
+- Attributes: name, email, password
+- Methods: updateProfile(), changePassword(), managePrivacySettings(), viewInterface(), interactWithFeatures(), scheduleTrainingSessions(), accessDataTools(), updatePersonalInfo(), changeLanguage(), customizeTheme(), filterContentByCategory(), postComments(), likePosts(), sharePosts(), followWorkoutRoutines(), trackTrainingProgress(), viewStatistics(), setTrainingGoals(), viewNutritionPlans(), accessRecipes(
+#### WorkoutRoutine
+- Attributes: description, sets, repetitions, duration.
+#### MembershipPlan
+- Attributes: planName, duration, price.
+#### Session
+- Attributes: startTime, endTime, location.
+#### Goal
+- Attributes: description, targetDate.
+#### NutritionPlan
+- Attributes: mealPlan, portionSizes.
+#### Coach
+- Attributes: name, certification.
+- Methods: assignWorkoutRoutine(), createNutritionPlan(), viewSchedule(), manageClientList(), viewClientStats(), generateProgressReports(), sendSessionReminders(), scheduleRecurringSessions().
+#### User
+- Attributes: username, password.
+#### Exercise
+- Attributes: name, type, intensityLevel.
+
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-![DataBaseDiagram](assets/img/DbDiagram.png)
+![DataBaseDiagram](assets/img/db-diagram-flex.png)
