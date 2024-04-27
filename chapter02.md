@@ -1,5 +1,8 @@
 # **Capítulo II:  Requirements Elicitation & Analysis**
+La recolección y análisis de requisitos es una etapa fundamental en el desarrollo de cualquier proyecto. Este proceso implica identificar, comprender y documentar las necesidades y expectativas de los stakeholders, así como los objetivos y restricciones del proyecto. Mediante diversas técnicas como entrevistas, encuestas y talleres de trabajo colaborativo, se busca obtener una comprensión clara y detallada de lo que se espera lograr con el proyecto. El análisis de estos requisitos permite establecer una base sólida para el diseño y desarrollo posterior, asegurando que el producto final satisfaga las necesidades del usuario y cumpla con los objetivos del negocio.
 ## 2.1. Competidores.
+En la siguiente sección se presentarán los competidores, un análisis de las fortalezas de nuestro servicio frente a estas.
+<br><br>
 <img src="assets/img/MyFitnessPal_Logo+.png" alt="MFPlogo" width="200" height="200">   
 
 ***MyFitnessPal:*** Es una de las aplicaciones líderes en el seguimiento de alimentos y ejercicio físico. Ofrece una amplia base de datos de alimentos y permite a los usuarios realizar un seguimiento de su ingesta calórica y actividad física para ayudarles a alcanzar sus objetivos de salud y fitness. Además del seguimiento básico, MyFitnessPal también proporciona herramientas para establecer metas personalizadas, crear planes de alimentación y recibir apoyo de una comunidad activa de usuarios.
@@ -197,6 +200,8 @@
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
+Para destacar frente a la competencia, es crucial desarrollar estrategias y tácticas efectivas que permitan diferenciar nuestro producto o servicio y captar la atención del mercado. Algunas estrategias y tácticas que podríamos considerar incluyen:
+<br>
 1.  **Desarrollar una Propuesta de Valor Únic :**
     * Estrategia: Destacar los aspectos únicos y diferenciadores de nuestro producto que lo hacen sobresalir frente a la competencia.
     * Táctica: Identificar las fortalezas clave de nuestro producto, como el enfoque holístico en la salud y el bienestar, y comunica claramente cómo benefician a los usuarios.
@@ -217,6 +222,8 @@
 ## 2.2. Entrevistas.
 El propósito de las entrevistas es adquirir una comprensión profunda de las experiencias, perspectivas y opiniones de los segmentos de mercado seleccionados. Nuestro objetivo es obtener información valiosa que nos ayude a entender mejor a nuestro público objetivo y así mejorar nuestro conocimiento sobre los usuarios. Estas conversaciones nos permitirán obtener una visión más clara de las necesidades y deseos de nuestros usuarios, lo que nos ayudará a adaptar nuestros productos o servicios de manera más efectiva a sus requerimientos.
 ### 2.2.1. Diseño de entrevistas.
+El diseño de entrevistas nos permitirá recopilar información valiosa sobre las experiencias, perspectivas y necesidades de nuestro grupo objetivo. Esto nos ayudará a comprender mejor sus preocupaciones y expectativas, lo que a su vez nos permitirá desarrollar soluciones más efectivas y adaptadas a sus requerimientos. Además, nos brindará la oportunidad de establecer una conexión significativa con nuestros usuarios, fortaleciendo así nuestra relación con ellos y mejorando la calidad de nuestro producto o servicio.
+<br>
 * **Individuos interesados en mejorar su salud y condición física:**
 1. ¿Qué te ha motivado a buscar maneras de mejorar tu salud y condición física en este momento?
 2. ¿Cuál ha sido tu experiencia previa al intentar adoptar un estilo de vida más saludable? ¿Qué obstáculos has enfrentado?
@@ -362,6 +369,8 @@ Fin de la entrevista: 27:06 <br>
 ## [Link de la entrevista upc-pre-202401-si730-SV51-Gymfinity-sprint-2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c936_upc_edu_pe/EdthUfWGQcdNjafKk4Iss98Blmmlg1Ej3pICf9SBl_3Hkw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ctQ6T7)
 
 ### 2.2.3. Análisis de entrevistas.
+El análisis de entrevistas nos permite profundizar en la comprensión de las necesidades, deseos y comportamientos de nuestros usuarios, lo que a su vez informa la toma de decisiones en el diseño y desarrollo de productos o servicios orientados al usuario.
+<br><br>
 - #### Analisis Primer Segmento:
 ![Pregunta1](assets/img/Resultados_Segmento1_Pregunta1.png)
 ![Pregunta2](assets/img/Resultados_Segmento1_Pregunta2.png)
@@ -388,6 +397,7 @@ Características comunes:
 
 
 ## 2.3. Needfinding.
+El proceso de needfinding nos permite identificar problemas reales que enfrentan los usuarios y descubrir oportunidades de diseño que pueden llevar a soluciones innovadoras y centradas en el usuario.
 ### 2.3.1. User Personas.
 En esta sección, presentaremos el perfil de nuestros User Persona, que surge de un análisis de las entrevistas realizadas anteriormente y de una evaluación de la competencia en el mercado. Los artefactos que vamos a presentar están estrechamente relacionados con las principales características identificadas durante este proceso de análisis. Desde las entrevistas, hemos extraído valiosa información sobre las necesidades, deseos y frustraciones de nuestros potenciales usuarios, lo que nos ha permitido perfilar a nuestro User Persona de manera precisa y realista.
 - **User Persona Primer Segmento Objetivo(Usuarios interesados en mejorar su salud y condición física)**
@@ -405,9 +415,15 @@ En esta sección, presentaremos el perfil de nuestros User Persona, que surge de
 | Contar con herramientas que le ayuden a agilizar su trabajo | A veces                                             | A menudo                                               |
 
 ### 2.3.3. User Journey Mapping
+El User Journey Mapping es una herramienta  para comprender la experiencia del usuario de manera holística, lo que permite a los equipos de diseño crear productos y servicios que se alineen mejor con las necesidades y expectativas de los usuarios.
+<br><br>
+
 - **Segmento Objetivo: Usuarios interesados en mejorar su salud y condición física**  
 ![JourneyMap01](assets/img/journey_map_seg01.png)
 ### 2.3.4. Empathy Mapping.
+Se ha elaborado el Empathy Mapping utilizando los datos obtenidos de las etapas preliminares del proyecto. A través de este proceso, hemos diseñado mapas específicos para cada uno de nuestros dos User Persona, con el fin de profundizar en la comprensión de sus necesidades y experiencias. Esta comprensión es esencial para guiar las próximas fases de nuestro desarrollo.
+<br>
+
 - **Empathy Map Primer Segmento Objetivo(Usuarios interesados en mejorar su salud y condición física)**
   ![EmpathyMap__Segmento1](assets/img/EmpathyMap_Segmento1.png)
 - **Empathy Map Segundo Segmento Objetivo(Profesionales del coaching en ejercicio y alimentación)**
@@ -418,6 +434,8 @@ En esta sección, presentaremos el perfil de nuestros User Persona, que surge de
 - As-Is del segmento objetivo coach:
 ![As-Is_Coaching](assets/img/As-Is_Coaching.jpg)
 ## 2.4. Ubiquitous Language
+El "Ubiquitous Language" será una herramienta esencial en nuestro trabajo, ya que nos permitirá establecer un lenguaje común y compartido entre todos los miembros del equipo, facilitando la comunicación y la comprensión de los conceptos clave en nuestro proyecto.
+<br><br>
 
 ***Member***: A person who has registered and holds a membership at the gym. Members have access to our web facilities and services.
 
