@@ -5,28 +5,31 @@ La gestión de la configuración del software es crucial para nuestro trabajo, y
 ### 5.1.1. Software Development Environment Configuration
 
 - ### Project Management:
-    * ### Whatsapp: 
-        Una plataforma de comunicación instantánea, compatible con sistemas operativos Android e iOS, desarrollada por Meta. También dispone de una versión en línea para su uso a través de navegadores web. <br>
-        [Link De Descarga](https://www.whatsapp.com/download//?l=uz&lang=es)
-    * ### Discord:
-      Una herramienta de mensajería instantánea diseñada para organizar y facilitar reuniones internas semanales. <br>
-        [Link De Descarga](https://discord.com/download)
     * ### Trello:
       Una aplicación de gestión de proyectos que facilita el seguimiento de las tareas individuales de cada miembro del equipo de manera sencilla. <br>
-      [Link De Registro o Inicio De Sesión](https://trello.com/es)
+      [Link De Registro o Inicio De Sesión](https://trello.com/es)<br>
+      Imagen para mostrar evidencia de uso:
+      ![trello-image-grupo](assets/img/project-management-trello.png)
+      *  ### Microsoft Teams
+       una plataforma unificada de comunicación y colaboración que combina chat persistente en el lugar de trabajo, reuniones de video, almacenamiento de archivos e integración de aplicaciones. <br>
+        [Link De Registro o Inicio De Sesión](https://www.microsoft.com/es-pe/)
+      Imagen para mostrar evidencia de uso:
+      ![uxpressia-image-userpersona](assets/img/evidencia-microsoft-teams.png)
+
 - ### Requirement Management:
     * ### Miro:
       Un sistema que ofrece una amplia gama de plantillas diseñadas para abordar diversos aspectos en la creación y gestión de proyectos. <br>
       [Link De Registro o Inicio De Sesión](https://miro.com/es/login/)
+      Imagen para mostrar evidencia de uso:
+      ![uxpressia-image-userpersona](assets/img/evidencia-miro.png)
     * ### UXPressia:
       Es una herramienta en línea que simplifica el proceso de mapeo y comprensión de las necesidades del cliente en un proyecto determinado. <br>
       [Link De Registro o Inicio De Sesión](https://uxpressia.com)
+      Imagen para mostrar evidencia de uso:
+      ![uxpressia-image-userpersona](assets/img/evidencia-uxpressia.png)
     * ### Structurizr:
       Se trata de una suite de herramientas que posibilita la creación colaborativa de modelos C4 para representar de forma gráfica nuestros productos. <br>
-      [Link De Registro o Inicio De Sesión](https://structurizr.com)  
-    * ### Vertabelo:
-      Una plataforma de colaboración que nos permite diseñar conjuntamente el diagrama de nuestra base de datos. <br>
-      [Link De Registro o Inicio De Sesión](https://vertabelo.com)
+      [Link De Registro o Inicio De Sesión](https://structurizr.com)
 - ###  Product UX/UI Design:
     * ### Figma:
       Una herramienta de colaboración que facilita el desarrollo conjunto de wireframes y mockups. <br>
@@ -34,6 +37,8 @@ La gestión de la configuración del software es crucial para nuestro trabajo, y
     * ### LucidChart:
       Una herramienta colaborativa que posibilita la creación conjunta de wireframes flow y mockups flow. <br>
       [Link De Registro o Inicio De Sesión ](https://www.lucidchart.com/pages/es)
+      Imagen para mostrar evidencia de uso:
+      ![uxpressia-image-userpersona](assets/img/evidencia-lucidchart.png)
 - ###  Software Development:
     * ### HTML5:
       Es un lenguaje de etiquetado utilizado para crear la estructura a páginas web. Lo utilizamos para incluir componentes como texto, imágenes, enlaces, botones y videos en nuestras páginas web. <br>
