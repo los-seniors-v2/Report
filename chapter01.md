@@ -1,6 +1,7 @@
 # **Capítulo I: Introducción**
+La introducción es crucial para establecer el marco en el cual se desarrollará el proyecto. Proporcionará una visión general de los objetivos, antecedentes y alcance del trabajo que se va a realizar. Además, sirve para contextualizar la importancia del proyecto, destacando las razones que lo motivan y los problemas que busca resolver.
 ## 1.1. Startup Profile
-
+El perfil de una startup es crucial para comprender su visión, sus valores fundamentales y su propuesta única en el mercado. En este punto, exploraremos los elementos clave que definen la identidad y el potencial de una startup, desde su historia hasta su enfoque innovador y sus metas a largo plazo.
 ### 1.1.1. Descripción de la Startup
 
 <p>Somos una compañía recién creada llamada "Gymfinity" que tiene una misión en mente: <b>mejorar la salud de todos nuestros miembros mediante ayuda personalizada</b>.
@@ -30,6 +31,7 @@ FlexPal es una completa aplicación web desarrollada por Gymfinity, diseñada pa
 - **Seguimiento del Progreso:** FitHub permite a los miembros realizar un seguimiento de su progreso fitness con informes detallados, incluyendo métricas como pérdida de peso, ganancia muscular y mejora del rendimiento general. Esta función permite a los miembros mantenerse motivados y monitorear su éxito con el tiempo.
 
 ### 1.2.1 Antecedentes y problemática
+Los antecedentes y la problemática proporcionan el contexto y la base sobre la cual se desarrolla un proyecto. Los antecedentes suelen incluir información histórica, investigaciones previas y datos relevantes que conducen al reconocimiento de un problema o necesidad. La problemática describe los desafíos o dificultades específicas que enfrenta una situación o un grupo de personas, lo cual justifica la necesidad de una intervención o solución.
 #### Uso de la técnica  The 5'W's w Y 2'H's
 Presentación del modelo de las preguntas 5Ws y 2 hs con la que se analizaron los antecedentes y la problemática que abarca nuestro proyecto.
 
@@ -43,6 +45,7 @@ Presentación del modelo de las preguntas 5Ws y 2 hs con la que se analizaron lo
 | How?        | ¿Qué llevó a la persona a esta situación?               | Según un estudio realizado por Ipsos, un 44% de personas hace actividad física con frecuencia y percepción que el 88% considera que tener una buena alimentación es la clave para tener una vida saludable (Ipsos Perú, 2019), por consiguiente, nuestra aplicación facilitara la comunicación directa entre miembros y coaches a través de reuniones virtuales además de proporcionar acceso a planes alimentarios personalizados. Los miembros podrán suscribirse mensualmente para acceder a estos servicios y recibir el seguimiento y apoyo continuo que necesitan para alcanzar sus objetivos de salud.                                                                                                                                                                                    |
 | How Much?   | ¿Cuál es la cantidad, duración o intensidad del evento? | Según un estudio realizado por Fitness Pass (2019), se descubrió que un porcentaje alarmantemente alto del 80% de las personas optan por cancelar su membresía en el gimnasio después de tres meses de haberla adquirido. Este hallazgo preocupa a la industria del fitness, donde seguir un régimen de ejercicio a largo plazo parece ser desafiante para la mayoría de los individuos. Entre los motivos principales que impulsan esta decisión se encuentran la desmotivación y la falta de tiempo. La desmotivación puede surgir de diversas fuentes, incluida la falta de resultados rápidos o visibles. Además, en el mundo moderno, las demandas de tiempo suelen ser un factor determinante, ya que las personas luchan por equilibrar el trabajo, la familia y otras responsabilidades. |
 ### 1.2.2 Lean UX Process
+El proceso Lean UX es una metodología ágil que revoluciona la forma en que se diseña y desarrolla productos digitales. En este punto, exploraremos los principios fundamentales de Lean UX y cómo se integran en el ciclo de desarrollo de productos. Desde la colaboración multidisciplinaria hasta la iteración rápida y la validación continua, descubriremos cómo este enfoque permite a los equipos crear productos centrados en el usuario de manera eficiente y efectiva.
 - #### 1.2.2.1. Lean UX Problem Statements
 "En un contexto de creciente interés por el bienestar personal, se hace evidente la necesidad de una aplicación web de coaching que facilite la conexión entre miembros y profesionales del ejercicio y nutrición. Dicha aplicación web debe proporcionar una experiencia personalizada y efectiva para cada individuo, adaptándose a sus necesidades y objetivos específicos." <br><br>
 Como grupo, nos comprometeremos a resolver este desafío mediante una colaboración estrecha entre los miembros que deseen empezar una rutina de ejercicio, así como también con profesiones tanto en coaching y nutrición. Nos enfocaremos en comprender profundamente las necesidades y expectativas de nuestros miembros, utilizando esta información para diseñar y desarrollar una solución innovadora que satisfaga sus requerimientos de manera integral.
@@ -102,10 +105,12 @@ Como grupo, nos comprometeremos a resolver este desafío mediante una colaboraci
   * If we develop an intuitive and easy-to-use member interface on the online coaching platform, allowing members to navigate seamlessly and access resources and services quickly, then participation and frequency of use will increase, leading to higher customer retention and business growth.
 
 - #### 1.2.2.4. Lean UX Canvas
-
+El Lean UX Canvas es una herramienta  que permite a los equipos plasmar y visualizar de manera concisa los aspectos clave de su proyecto. En este punto, exploraremos cómo el Canvas facilita la colaboración y la alineación del equipo al definir claramente el problema, la solución propuesta, los usuarios y sus necesidades, así como las métricas de éxito.
+<br><br>
 ![lean-ux-canvas](assets/img/leanux-canvas-v5.jpg)
 
 ## 1.3. Segmentos objetivo.
+Los segmentos objetivo son grupos específicos de usuarios a los que se dirige un producto o servicio en particular.  <br><br>
 Los segmentos objetivos identificados se definirán en la siguiente tabla:
 
 | Segmento Objetivo                                                                                                                                    |                                                              Características Demográficas                                                              |                                                                                                                                                                                                                                                                                                                                    Información estadística de sustento |
