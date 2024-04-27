@@ -2,7 +2,7 @@
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration
 
-- ### Proyect Management:
+- ### Project Management:
     * ### Whatsapp: 
         Una plataforma de comunicación instantánea, compatible con sistemas operativos Android e iOS, desarrollada por Meta. También dispone de una versión en línea para su uso a través de navegadores web. <br>
         [Link De Descarga](https://www.whatsapp.com/download//?l=uz&lang=es)
@@ -28,20 +28,20 @@
 - ###  Product UX/UI Design:
     * ### Figma:
       Una herramienta de colaboración que facilita el desarrollo conjunto de wireframes y mockups. <br>
-      [Link De Registro,Inicio De Sesión y Descarga](https://www.figma.com/downloads/)
+      [Link De Registro, Inicio De Sesión y Descarga](https://www.figma.com/downloads/)
     * ### LucidChart:
       Una herramienta colaborativa que posibilita la creación conjunta de wireframes flow y mockups flow. <br>
       [Link De Registro o Inicio De Sesión ](https://www.lucidchart.com/pages/es)
 - ###  Software Development:
     * ### HTML5:
       Es un lenguaje de etiquetado utilizado para crear la estructura a páginas web. Lo utilizamos para incluir componentes como texto, imágenes, enlaces, botones y videos en nuestras páginas web. <br>
-      [Informacion Relacionada](https://www.esic.edu/rethink/tecnologia/html5-que-es-caracteristicas-y-como-funciona-c#:~:text=El%20HTML5%20es%20un%20estándar,%2C%20estilo%20de%20letra%2C%20etc.)
+      [Información Relacionada](https://www.esic.edu/rethink/tecnologia/html5-que-es-caracteristicas-y-como-funciona-c#:~:text=El%20HTML5%20es%20un%20estándar,%2C%20estilo%20de%20letra%2C%20etc.)
     * ### CSS:
       Un lenguaje de diseño gráfico utilizado para dar formato y estilo a la presentación de un documento escrito en HTML. <br>
-      [Informacion Relacionada](https://developer.mozilla.org/es/docs/Web/CSS)
+      [Información Relacionada](https://developer.mozilla.org/es/docs/Web/CSS)
     * ### JavaScript:
       Un lenguaje de programación orientado a objetos dinámico que utilizamos para implementar funcionalidades en un documento HTML. <br>
-      [Informacion Relacionada]( https://developer.mozilla.org/es/docs/Web/JavaScript )
+      [Información Relacionada]( https://developer.mozilla.org/es/docs/Web/JavaScript )
     * ### WebStorm:
       Un entorno de desarrollo integrado (IDE) que emplearemos para trabajar con JavaScript. <br>
       [Link De Descarga]( https://www.jetbrains.com/es-es/webstorm/)
@@ -120,15 +120,15 @@ Como norma general, se espera que todo el código desarrollado por los miembros 
         Es recomendable utilizar minúsculas o lowercase para los nombres de los elementos HTML.
         ~~~ 
       <body>
-            <p>Esto es un párrafo</p>
+            <p>This is a paragraph</p>
       <body>
        ~~~
     - #### Close All HTML Elements:
         Es recomendable cerrar todos los elementos HTML correctamente.
         ~~~ 
       <body>
-            <p>Esto es un párrafo</p>
-            <p>Esto es otro párrafo</p>
+            <p>This is a paragraph</p>
+            <p>This is another paragraph</p>
       <body>
        ~~~
     - #### Use Lowercase Attribute Names:
@@ -149,14 +149,14 @@ Como norma general, se espera que todo el código desarrollado por los miembros 
       ~~~ 
 - ### CSS
     - #### ID and Class Naming
-      Es recomendable utilizar nombres de clases y IDs significativos que expresen claramente el propósito del elemento.
+      Es recomendable utilizar nombres de clases e id's significativos que expresen claramente el propósito del elemento.
       ~~~ 
       #gallery {}
       #login {}
       .video {}
        ~~~
     - #### ID and Class Name Style
-      Se recomienda utilizar nombres cortos para nombrar IDs o clases, pero lo suficientemente descriptivos para entender su propósito.
+      Se recomienda utilizar nombres cortos para nombrar ids o clases, pero lo suficientemente descriptivos para entender su propósito.
       ~~~ 
       #nav {}
       .author {}
@@ -218,55 +218,55 @@ Como norma general, se espera que todo el código desarrollado por los miembros 
     - #### PascalCase
       Mayúscula al principio de cada palabra para nombres de clases y métodos.
       ~~~ 
-      public class MiClase {
-          public void MetodoEjemplo() {
-              // Código del método
+      public class MyClass {
+          public void ExampleMethod() {
+              // Method code
           }
       }
       ~~~
     - #### camelCase
       Minúscula al principio con mayúsculas para cada palabra subsiguiente para variables y parámetros.
       ~~~ 
-      public class MiClase {
-          public void MetodoEjemplo(int numeroEjemplo) {
-              string nombreEjemplo = "Ejemplo";
-              // Código del método      
+      public class MyClass {
+          public void ExampleMethod(int exampleNumber) {
+              string exampleName = "Example";
+              // Method code     
           }
       }
       ~~~
-    - #### Reasonable line length
-      Mantener líneas de código con longitud adecuada para mejorar la legibilidad.
-      ~~~ 
-      public class MiClase {
-          public void MetodoEjemplo() {
-              string mensaje = "Este es un mensaje de ejemplo que ocupa varias líneas " +
-                               "para demostrar cómo mantener una longitud razonable.";
-               Console.WriteLine(mensaje);  
+      - #### Reasonable line length
+        Mantener líneas de código con longitud adecuada para mejorar la legibilidad.
+        ~~~ 
+        public class MyClass {
+            public void ExampleMethod() {
+                string message = "This is an example message that spans multiple lines " +
+                                 "to demonstrate how to maintain a reasonable length.";
+                 Console.WriteLine(message);  
+          }
         }
-      }
-      ~~~ 
-    - #### Clear comments:
-      Utilizar comentarios para explicar el propósito del código de manera concisa.
-      ~~~ 
-      public class MiClase {
-      // Este método realiza una operación de suma y retorna el resultado.
-      public int Sumar(int a, int b) {
-      return a + b;
-      }
-      }
-      ~~~
+        ~~~ 
+      - #### Clear comments:
+          Utilizar comentarios para explicar el propósito del código de manera concisa.
+          ~~~ 
+          public class MyClass {
+              // This method performs an addition operation and returns the result.
+              public int Add(int a, int b) {
+                return a + b;
+               }
+          }
+          ~~~
     - #### Single responsibility:
       Cada clase o método debe tener una única función bien definida.
       ~~~ 
-      // Clase responsable de manejar operaciones matemáticas básicas
-      public class OperacionesMatematicas { 
-          // Método para sumar dos números 
-          public int Sumar(int a, int b) { 
+      // Class responsible for handling basic mathematical operations
+      public class MathematicalOperations {
+          // Method to add two numbers
+          public int Add(int a, int b) {
               return a + b; 
           } 
        
-          // Método para restar dos números 
-          public int Restar(int a, int b) { 
+          // Method to subtract two numbers
+          public int Subtract(int a, int b) { 
               return a - b; 
           } 
       }
@@ -321,13 +321,15 @@ Como norma general, se espera que todo el código desarrollado por los miembros 
       ~~~
       
 ### 5.1.4. Software Deployment Configuration.
-- Creacion Landing Page:<br>
+- Creación Landing Page:<br>
 1. Se crea un repositorio remoto en GitHub
-![CreacionRepositorio](assets/img/Creacion_repo.png)
+![CreaciónRepositorio](assets/img/Creacion_repo.png)
 2. Agregar a participantes
-![CreacionRepositorio](assets/img/miembros_repo.png)
+![CreaciónRepositorio](assets/img/miembros_repo.png)
 3. Habilitmos Gitgub Pages en branch "master" y ruta "/(root)"
-   ![CreacionRepositorio](assets/img/Github_pages.png)
+   ![CreaciónRepositorio](assets/img/Github_pages.png)
+
+- Creación Landing Page:<br>
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1.
@@ -347,7 +349,7 @@ El sprint planning es una reunión en la metodología ágil donde el equipo plan
 		</tr>
         <tr>
 			<td colspan="1">Location</td>
-            <td colspan="1">Microoft Teams (Reuniones Virtuales)</td>
+            <td colspan="1">Microsoft Teams (Reuniones Virtuales)</td>
 		</tr>
         <tr>
 			<td colspan="1">Prepared By</td>
@@ -386,9 +388,9 @@ El sprint planning es una reunión en la metodología ágil donde el equipo plan
 #### 5.2.1.2. Sprint Backlog 1.
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
-| Repository | Bramch | Commit ID | Commit Message | Commite Message Body | Commited on (Date) |
-|--|--------|-----------|----------------|----------------------|--------------------|
-|  |        |           |                |                      |                    |
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+|            |        |           |                |                     |                    |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
@@ -411,6 +413,6 @@ Se ha omitido la sección de la aplicación web debido a que solo se ha desarrol
 - Anexo 2: [Mockups - Wireframe](https://www.figma.com/file/91Ez19KOQpxgpmPEZ9NtIm/FlexPal?type=design&node-id=0%3A1&mode=design&t=vgM82K5YOfavEdYS-1)
 - Anexo 3: [User-Flow - WireFlow Diagram](https://lucid.app/lucidspark/2c642c76-fe1b-41c2-a0e3-613a0b64f8f0/edit?viewport_loc=-1797%2C-1394%2C8704%2C4350%2C0_0&invitationId=inv_0f96f168-1b85-4920-a9fb-ce76f2b42015)
 ### Bibliografía
-- Ipsos. (16 de Octubre de 2019). Alimentación y vida saludable  en Lima. Ipsos. https://www.ipsos.com/es-pe/alimentacion-y-vida-saludable-en-lima
-- Aproximadamente 15 millones de peruanos sufren de obesidad. (4 de Marzo de 2024). Noticias - Ministerio De Salud - Plataforma Del Estado Peruano. https://www.gob.pe/institucion/minsa/noticias/915217-aproximadamente-15-millones-de-peruanos-sufren-de-obesidad
-- Mena, F. G. (10 de Junio de 2019). La realidad de los gimnasios: “80% de peruanos abandona su membresía en los primeros 3 meses.” Gestión. https://gestion.pe/tendencias/realidad-gimnasios-80-peruanos-abandona-membresia-primeros-3-meses-269519-noticia/
+- Ipsos. (16 de cctubre de 2019). Alimentación y vida saludable en Lima. Ipsos. https://www.ipsos.com/es-pe/alimentacion-y-vida-saludable-en-lima
+- Aproximadamente 15 millones de peruanos sufren de obesidad. (4 de marzo de 2024). Noticias - Ministerio De Salud - Plataforma Del Estado Peruano. https://www.gob.pe/institucion/minsa/noticias/915217-aproximadamente-15-millones-de-peruanos-sufren-de-obesidad
+- Mena, F. G. (10 de junio de 2019). La realidad de los gimnasios: “80% de peruanos abandona su membresía en los primeros 3 meses.” Gestión. https://gestion.pe/tendencias/realidad-gimnasios-80-peruanos-abandona-membresia-primeros-3-meses-269519-noticia/
