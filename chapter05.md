@@ -407,11 +407,15 @@ El sprint planning es una reunión en la metodología ágil donde el equipo plan
 </table>
 
 #### 5.2.1.2. Sprint Backlog 1.
+
+
+
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
-| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Commited on (Date) |
-|------------|--------|-----------|----------------|---------------------|--------------------|
-|            |        |           |                |                     |                    |
+| Repository         | Branch | Commit ID | Commit Message | Commit Message Body | Commited on (Date) |
+|--------------------|--------|-----------|----------------|---------------------|--------------------|
+| Report             |        |           |                |                     |                    |
+| LandingPageFlexPal |        |           |                |                     |                    |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
@@ -427,6 +431,30 @@ En esta entrega, el equipo de desarrolladores de FlexPal ha completado con éxit
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+
+#### 5.2.2. Sprint 2
+#### 5.2.2.1.Sprint Planning 2.
+#### .2.2.2.Sprint Backlog 2.
+#### 5.2.2.3.Development Evidence for Sprint Review.
+
+| Repository         | Branch | Commit ID | Commit Message | Commit Message Body | Commited on (Date) |
+|--------------------|--------|-----------|----------------|---------------------|--------------------|
+| Report             |        |           |                |                     |                    |
+| LandingPageFlexPal |        |           |                |                     |                    |
+| FrontEndApp        |        |           |                |                     |                    |
+
+
+#### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page y la Front End Application. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
+#### 5.2.2.5.Execution Evidence for Sprint Review.
+
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page y la Front End Application. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+#### 5.2.2.8.Team Collaboration Insights during Sprint.
+
+![team-collab-ins-sprint2]()
 
 ## Avance de Conclusiones, Bibliografía y Anexos.
 ### Anexos
