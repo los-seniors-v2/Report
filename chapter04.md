@@ -316,10 +316,33 @@ Prototipo de la aplicación web FlexPal en Figma:
 ## 4.6. Domain-Driven Software Architecture
 La arquitectura de software orientada al dominio es un enfoque de diseño que se centra en la estructura y organización del software en torno a los conceptos y procesos clave de un dominio específico. Este enfoque nos permite crear sistemas que reflejen con precisión los requisitos y la lógica del negocio, lo que facilita la implementación de funcionalidades específicas y la adaptación a los cambios en el dominio. Con FlexPal, utilizamos una arquitectura de software orientada al dominio para estructurar nuestro sistema de manera coherente y escalable, lo que nos permitirá desarrollar una aplicación robusta y fácil de mantener.
 ### 4.6.1. Software Architecture Context Diagram
+**Elementos**:
+
+- FlexPal: Interfaz principal para los usuarios.
+- Usuario Miembro: Accede a la aplicación con diferentes niveles de suscripción.
+- Usuario Coach: Asesora a los miembros y programa sesiones.
+<br><br>
 ![Context-FlexPal](assets/img/ContextFlexPal.png)
 ### 4.6.2. Software Architecture Container Diagrams
+**Elementos:**
+
+- **Aplicación Web:** Frontend donde los usuarios interactúan con la aplicación.
+<br>**Tecnología: Vue.js.**<br><br>
+
+- **Servidor de Aplicaciones:** Backend que maneja la lógica de negocio, autenticación, y gestión de suscripciones.
+**Tecnología: C#.**<br><br>
+- **Base de Datos:** Almacena información de usuarios, suscripciones, rutinas y sesiones.
+  <br>**Tecnología: SQL Server.**<br>
+<br><br>
 ![Container-FlexPal](assets/img/ContainerFlexPal.png)
 ### 4.6.3. Software Architecture Components Diagrams
+**Elementos:**
+
+- **Módulo de Autenticación:** Gestiona el inicio de sesión mediante Gmail. <br><br>
+- **Módulo de Gestión de Suscripciones:** Administra los diferentes planes de suscripción (Free, Monthly, Annual). <br><br>
+- **Módulo de Gestión de Usuarios:** Maneja la información de perfil y las relaciones entre miembros y coaches. <br><br>
+- **Módulo de Recomendaciones de Rutinas:** Ofrece rutinas personalizadas basadas en las preferencias y objetivos del usuario. <br><br>
+- **Módulo de Asesoramiento:** Facilita las interacciones y la programación de sesiones entre miembros y coaches. <br><br>
 ![Component-FlexPal](assets/img/ComponentFlexPal.png)
 ## 4.7. Software Object-Oriented Design
 El diseño orientado a objetos del software será esencial para nuestro proyecto. Esta metodología nos permitirá estructurar nuestro sistema de manera modular y escalable, aprovechando los principios de encapsulamiento, herencia y polimorfismo para crear componentes reutilizables y de fácil mantenimiento.
