@@ -75,7 +75,7 @@ La gestión de la configuración del software es crucial para nuestro trabajo, y
 Landing Page Repository: [Landing Page Repository](https://github.com/los-seniors-v2/LandingPageFlexPal.git)
 - #### GitFlow Implementation:
 Para implementar el flujo de trabajo Gitflow utilizando Git como nuestra herramienta de control de versiones, nos basamos en la entrada de blog "A successful Git branching model" de Vincent Driessen. Esta referencia nos permitió establecer las convenciones detalladas que serán aplicadas en nuestro proyecto 
-![Gitflow Vincent Driessen ](assets/img/Gitflow_graphic.png)
+![gitflow](assets/img/team_collab_ins.png)
 
 ### **Master o Main branch**
 La rama principal de desarrollo del proyecto es la Master branch. En esta rama reside el código que actualmente se encuentra en producción.
