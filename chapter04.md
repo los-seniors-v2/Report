@@ -314,6 +314,7 @@ El diseño de experiencia de usuario (UX) y diseño de interfaz de usuario (UI) 
 Prototipo de la aplicación web FlexPal en Figma:
 [Prototipo-FlexPal](https://www.figma.com/file/91Ez19KOQpxgpmPEZ9NtIm/FlexPal?type=design&node-id=0%3A1&mode=design&t=vgM82K5YOfavEdYS-1)
 ## 4.6. Domain-Driven Software Architecture
+La arquitectura de software orientada al dominio es un enfoque de diseño que se centra en la estructura y organización del software en torno a los conceptos y procesos clave de un dominio específico. Este enfoque nos permite crear sistemas que reflejen con precisión los requisitos y la lógica del negocio, lo que facilita la implementación de funcionalidades específicas y la adaptación a los cambios en el dominio. Con FlexPal, utilizamos una arquitectura de software orientada al dominio para estructurar nuestro sistema de manera coherente y escalable, lo que nos permitirá desarrollar una aplicación robusta y fácil de mantener.
 ### 4.6.1. Software Architecture Context Diagram
 ![Context-FlexPal](assets/img/ContextFlexPal.png)
 ### 4.6.2. Software Architecture Container Diagrams
