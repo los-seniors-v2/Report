@@ -345,7 +345,7 @@ Como norma general, se espera que todo el código desarrollado por los miembros 
 - Creación Front End App:<br>
 1. Creación de repositorio dentro de nuestra organización:
 ![creation-of-repository-lp](assets/img/creacion-repositorio-frontendapp.png)
-2. Agregar a participantes
+2. Agregar a participantes:
 ![adding-members-screenshot-lp](assets/img/miembros_repo.png)
 
 
@@ -413,20 +413,120 @@ El sprint planning es una reunión en la metodología ágil donde el equipo plan
 #### 5.2.1.2. Sprint Backlog 1.
 
 En este primer sprint, nos enfocamos en la implementación de las funcionalidades básicas de la Landing Page, incluyendo la estructura general, el diseño visual y la navegación básica, también se ha creado un reporte que muestra el ciclo de vida de todo nuestro proyecto de software. Estas características son fundamentales para establecer las bases de nuestro producto y proporcionar una experiencia de usuario sólida y coherente.
-A continuación el sprint backlog 1 y el Trello donde se repartieron los trabajos: []()
+A continuación el sprint backlog 1 y el Trello donde se repartieron los trabajos: 
 
+[Link para ingresar al board del primer sprint](https://trello.com/invite/b/OVQC9ARc/ATTI0aff475a30a66269bb2b8469d3332a14873BB5C1/task-app-web)
 
+![trello-screenshot](assets/img/evidencia-trello-sprint-1.png)
+
+<table>
+	<tbody>
+		<tr>
+			<td>Sprint #</td>
+			<td colspan="7">Sprint 1</td>
+		</tr>
+		<tr>
+			<td colspan="2">User Story</td>
+			<td colspan="6">Work - Item / Task</td>
+		</tr>
+		<tr>
+			<td>Id</td>
+			<td>Title</td>
+			<td>Id</td>
+			<td>Title</td>
+			<td>Description</td>
+			<td>Estimation (Hours)</td>
+			<td>Assigned To</td>
+			<td>Status (To-do / In-Process / To-Review / Done)</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK001</td>
+			<td>Remote environment creation for Report and Landing Page</td>
+			<td>Organization, repositories and branch creation in GitHub</td>
+			<td>0</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK002</td>
+			<td>Conclude Chapter01</td>
+			<td>Finish all section and add the respective information in chapter01</td>
+			<td>5</td>
+			<td>Juan Pescoran</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK003</td>
+			<td>Conclude Chapter02</td>
+			<td>Finish all section and add the respective information in chapter02</td>
+			<td>3</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK004</td>
+			<td>Conclude Chapter03</td>
+			<td>Finish all section and add the respective information in chapter03</td>
+			<td>5</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK005</td>
+			<td>Conclude Chapter04</td>
+			<td>Finish all section and add the respective information in chapter04</td>
+			<td>19</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK006</td>
+			<td>Conclude Chapter05</td>
+			<td>Finish all section and add the respective information in chapter05</td>
+			<td>3</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+    <tbody>
+</table>
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
+En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint: Landing Page, Web Applications, Web Services.
 
-| Repository         | Branch | Commit ID | Commit Message | Commit Message Body | Commited on (Date) |
-|--------------------|--------|-----------|----------------|---------------------|--------------------|
-| Report             |        |           |                |                     |                    |
-| LandingPageFlexPal |        |           |                |                     |                    |
+Primero, se mostrarán los commits más importantes para el Reporte, los cuales muestran el ciclo de vida del proyecto, y toda la información que se usó, usa y usará para el desarrollo del proyecto:
+
+| Repository          | Branch  | Commit ID                                | Commit Message                           | Commit Message Body                                                                                                                                 | Commited on (Date) |
+|---------------------|---------|------------------------------------------|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
+| JuanPescoran/Report | develop | 98783487238973c5dd4a8097197adb2cf70af00a | feat: added content in chapter IV        | added content in all sections of chapter04                                                                                                          | 4/9/2024           |
+| JuanPescoran/Report | master  | 889cdc0229a96aa9fca4641ebfccccd71f0d7a5a | feat(assets)                             | added img to master branch                                                                                                                          | 4/9/2024           |
+
+
+A continuación se presentan los commits más importantes para la Landing Page, los cuales muestran todo el contenido visual y funcionalidades implementadas en el Sprint 2:
+
+| Repository                      | Branch                | Commit ID                                | Commit Message                   | Commit Message Body                                                                                                                                 | Commited on (Date) |
+|---------------------------------|-----------------------|------------------------------------------|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
+| JDu202012207/LandingPageFlexPal | feat-bienvenida       | 563de4f7bde5ef4a20ce639bc4f6bd881d205856 | feat(welcome-container)          | implemented cta in section home, added slogan and banner.                                                                                           | 4/9/2024           |
+| Fabrizio0711/LandingPageFlexPal | feature-testimonios   | d3d404bfa4c98d4bd3311d54d2edca3c2b7f6f51 | feat: added testimonials section | added testimonials section with user feedback                                                                                                       | 4/9/2024           |
+| JDu202012207/LandingPageFlexPal | feature-header-footer | f8351fb08d1718af912437127ac10d350a6b0d2c | feat(header-footer)              | implemented logo in header and information in footer.                                                                                               | 4/9/2024           |
+| JDu202012207/LandingPageFlexPal | feature-contacto      | c8d979e154ceec2e6b7e924b6aa16137199f743d | feat(contact-us)                 | implemented form, description and labels                                                                                                            | 4/9/2024           |
+| JuanPescoran/LandingPageFlexPal | feature-contenido     | db8e4a108071eeed824a148623bf34e7785ea982 | feat(assets): added images       | feat(assets): added all information for hero content, about us, subscriptions and other sections Also, added images for banners and everything else | 4/9/2024           |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
 #### 5.2.1.5. Execution Evidence for Sprint Review.
+
 En esta entrega, el equipo de desarrolladores de FlexPal ha completado con éxito la implementación y el lanzamiento de la página de la Landing Page. Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto.
 ![Evidencia1](assets/img/Evidencia1.png)
 ![Evidencia2](assets/img/Evidencia2.png)
@@ -437,14 +537,16 @@ En esta entrega, el equipo de desarrolladores de FlexPal ha completado con éxit
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
-
+Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint 1:
 
+![team-collab-ins-sprint2](assets/img/analytics-collaboration-insights-sprint2.png)
 
 
 - - -
 
-#### 5.2.2. Sprint 2
+### 5.2.2. Sprint 2
 En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el Sprint 2. Incluye como secciones internas: Sprint Planning 2, Sprint Backlog 2, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, junto con Team Collaboration Insights during Sprint
 #### 5.2.2.1.Sprint Planning 2.
 
@@ -510,27 +612,126 @@ En este segundo sprint el equipo se ha enfocado en el mejoramiento de la Landing
 
 ![trello-screenshot](assets/img/trello-screenshot.png)
 
+<table>
+	<tbody>
+		<tr>
+			<td>Sprint #</td>
+			<td colspan="7">Sprint 2</td>
+		</tr>
+		<tr>
+			<td colspan="2">User Story</td>
+			<td colspan="6">Work - Item / Task</td>
+		</tr>
+		<tr>
+			<td>Id</td>
+			<td>Title</td>
+			<td>Id</td>
+			<td>Title</td>
+			<td>Description</td>
+			<td>Estimation (Hours)</td>
+			<td>Assigned To</td>
+			<td>Status (To-do / In-Process / To-Review / Done)</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK008</td>
+			<td>Remote environment creation for Front End App</td>
+			<td>repositories and branch creations for Web Application in GitHub</td>
+			<td>0</td>
+			<td>Juan Pescoran</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK009</td>
+			<td>Update Chapter01</td>
+			<td>add the respective information resulting from the observations made in the review in chapter01</td>
+			<td>5</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK010</td>
+			<td>Update Chapter02</td>
+			<td>add the respective information resulting from the observations made in the review in chapter02</td>
+			<td>1</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK011</td>
+			<td>Update Chapter03</td>
+			<td>add the respective information resulting from the observations made in the review in chapter03</td>
+			<td>2</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK012</td>
+			<td>Update Chapter04</td>
+			<td>add the respective information resulting from the observations made in the review in chapter04</td>
+			<td>6</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td>TSK013</td>
+			<td>Update Chapter05</td>
+			<td>add the respective information resulting from the observations made in the review in chapter02</td>
+			<td>4</td>
+			<td>All team members</td>
+			<td>Done</td>
+		</tr>
+    <tbody>
+</table>
 
 #### 5.2.2.3.Development Evidence for Sprint Review.
 
-| Repository         | Branch | Commit ID | Commit Message | Commit Message Body | Commited on (Date) |
-|--------------------|--------|-----------|----------------|---------------------|--------------------|
-| Report             |        |           |                |                     |                    |
-| LandingPageFlexPal |        |           |                |                     |                    |
-| FrontEndApp        |        |           |                |                     |                    |
+En la primera tabla
+En la segunda tabla se ve el commit que realizó el cambio de lenguaje en la Landing Page.
+
+Primero, se mostrarán los commits más importantes para el arreglo según las observaciones hechas al reporte:
+
+
+Ahora, se mostrarán los commits más importantes para el arreglo según las observaciones hechas a la Landing Page:
+
+| Repository                   | Branch | Commit ID                                | Commit Message | Commit Message Body                    | Commited on (Date) |
+|------------------------------|--------|------------------------------------------|----------------|----------------------------------------|--------------------|
+| s4ck1to99/LandingPageFlexPal | master | 51d1e22858cd8356c12bc86d530eda3935e6b3e5 | refactor       | Language spanish to english index.html | 25/9/2024          |
+
 
 
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review.
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page y la Front End Application. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
 #### 5.2.2.5.Execution Evidence for Sprint Review.
+En esta entrega, el equipo de desarrolladores de FlexPal ha completado con éxito la implementación y el lanzamiento de la página de la Landing Page. Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto.
+![Evidencia1](assets/img/evidencia-landing-page-home-sprint2.png)
+![Evidencia2](assets/img/evidencia-landing-page-aboutus-sprint2.png)
+![Evidencia3](assets/img/evidencia-landing-page-subscriptions-sprint2.png)
+![Evidencia4](assets/img/evidencia-landing-page-user-testimonials-sprint2.png)
+![Evidencia5](assets/img/evidencia-landing-page-contact-us-sprint2.png)
+![Evidencia6](assets/img/evidencia-landing-page-footer-content-sprint2.png)
+
+También se ha completado la implementación de la Front End Application, que presenta una interfaz de usuario interactiva y funcionalidades básicas para los usuarios. A continuación, se presentan algunas capturas de pantalla de la aplicación en funcionamiento:
+
+
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page y la Front End Application. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page y la Front End Application. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
-
-![team-collab-ins-sprint2]()
+A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint 2:
 
 ## Avance de Conclusiones, Bibliografía y Anexos.
 ### Anexos
@@ -538,6 +739,6 @@ Se ha omitido la sección de la aplicación web debido a que solo se ha desarrol
 - Anexo 2: [Mockups - Wireframe](https://www.figma.com/file/91Ez19KOQpxgpmPEZ9NtIm/FlexPal?type=design&node-id=0%3A1&mode=design&t=vgM82K5YOfavEdYS-1)
 - Anexo 3: [User-Flow - WireFlow Diagram](https://lucid.app/lucidspark/2c642c76-fe1b-41c2-a0e3-613a0b64f8f0/edit?viewport_loc=-1797%2C-1394%2C8704%2C4350%2C0_0&invitationId=inv_0f96f168-1b85-4920-a9fb-ce76f2b42015)
 ### Bibliografía
-- Ipsos. (16 de cctubre de 2019). Alimentación y vida saludable en Lima. Ipsos. https://www.ipsos.com/es-pe/alimentacion-y-vida-saludable-en-lima
+- Ipsos. (16 de octubre de 2019). Alimentación y vida saludable en Lima. Ipsos. https://www.ipsos.com/es-pe/alimentacion-y-vida-saludable-en-lima
 - Aproximadamente 15 millones de peruanos sufren de obesidad. (4 de marzo de 2024). Noticias - Ministerio De Salud - Plataforma Del Estado Peruano. https://www.gob.pe/institucion/minsa/noticias/915217-aproximadamente-15-millones-de-peruanos-sufren-de-obesidad
 - Mena, F. G. (10 de junio de 2019). La realidad de los gimnasios: “80% de peruanos abandona su membresía en los primeros 3 meses.” Gestión. https://gestion.pe/tendencias/realidad-gimnasios-80-peruanos-abandona-membresia-primeros-3-meses-269519-noticia/
