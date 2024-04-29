@@ -9,7 +9,7 @@ Para la creación del logo de nuestro producto FlexPal, se ha optado por un dise
 **Typography**<br>
 Para la tipografía de FlexPal, se ha seleccionado una fuente moderna y legible que se adapta a la estética general del producto. La tipografía principal es **Montserrat**, una fuente sans-serif que es fácil de leer en pantallas digitales y que aporta un aspecto limpio y contemporáneo al diseño. Para los encabezados y títulos, se ha optado por la fuente **Roboto**, que es más audaz y llamativa, lo que permite destacar la información importante y captar la atención del usuario. <br>
 <br> A continuación, se presentan las tipografías seleccionadas para FlexPal:
-![monserrat-font](assets/img/montserrat-font.png) <br>
+![monserrat-font](assets/img/Montserrat-font.png) <br>
 ![roboto-font](assets/img/roboto-font.png) <br>
 **Colors**<br>
 La paleta de colores de FlexPal se compone de tonos que reflejan la frescura, la calma y la energía asociadas con un estilo de vida activo y saludable. Los colores elegidos son vibrantes y atractivos, lo que ayuda a captar la atención del usuario y a transmitir la idea de un producto moderno y dinámico. A continuación, se presentan los colores seleccionados para FlexPal:
@@ -290,7 +290,9 @@ El diseño de la interfaz de usuario para nuestra landing page será crucial par
 **Landing Page para Desktop Web Browser**
 ![Landing Page Desktop](assets/img/wireframe-FlexPal.PNG)
 ![Landing Page_2 Desktop](assets/img/wireframe_2-FlexPal.PNG)
+
 **Landing Page para Mobile Web Browser**
+
 ![Landing Page Mobile](assets/img/wireframe-mobile-FlexPal.PNG) 
 ![Landing Page_2 Mobile](assets/img/wireframe-mobile2-FlexPal.PNG)
 
