@@ -272,7 +272,9 @@ El diseño de experiencia de usuario (UX) y diseño de interfaz de usuario (UI) 
 
 Web Applications Wireflow Diagrams son representaciones visuales de los flujos de navegación y la arquitectura de una aplicación web. Estos diagramas combinan elementos de wireframes y diagramas de flujo para proporcionar una vista general de cómo los usuarios navegarán a través de la aplicación y cómo interactuarán con ella. Los wireflows son útiles para identificar posibles problemas de usabilidad y diseñar una experiencia de usuario coherente y eficiente.
 
-![Wireflow-FlexPal](assets/img/wireflow-diagram1.PNG)
+El diagrama de wireflow de FlexPal muestra los diferentes flujos de usuario para los miembros y los coaches, incluyendo la autenticación, la visualización de perfiles, la programación de sesiones y el acceso a las herramientas de asesoramiento y seguimiento.
+
+![Wireflow-FlexPal](assets/img/Wireflow-diagram.PNG)
 ### 4.4.3. Web Applications Mock-ups
 ![Mockup-FlexPal](assets/img/mockup-1.png)
 ![Mockup-FlexPal-2](assets/img/mockup-2.png)
