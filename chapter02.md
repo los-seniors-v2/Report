@@ -15,6 +15,8 @@ En la siguiente sección se presentarán los competidores, un análisis de las f
 
 ***NikeTrainingClub:*** Es una aplicación de entrenamiento de Nike que ofrece una amplia variedad de programas de ejercicio, desde entrenamientos de fuerza hasta yoga y cardio. La aplicación incluye entrenamientos guiados por expertos, seguimiento del progreso y una comunidad activa de usuarios que comparten sus logros y motivan a otros. Además, Nike Training Club está integrado con dispositivos Nike y ofrece acceso exclusivo a contenido de entrenamiento de atletas y celebridades patrocinados por Nike.
 ### 2.1.1. Análisis competitivo.
+El análisis competitivo nos brinda una visión clara de cómo nos comparamos con nuestros competidores en el mercado. Nos ayuda a identificar áreas en las que podemos mejorar, así como oportunidades para diferenciarnos y destacar. Esta comprensión nos permite desarrollar estrategias más efectivas como grupo, lo que nos ayuda a alcanzar nuestros objetivos y mantenernos competitivos en el mercado.<br>
+
 <table border="1" style="text-align: center;">
 	<tbody>
 		<tr>
@@ -240,6 +242,7 @@ El diseño de entrevistas nos permitirá recopilar información valiosa sobre la
 5. ¿Qué aspectos considerarías críticos al seleccionar una plataforma de coaching en línea para ofrecer tus servicios profesionales?
 6. ¿Cómo crees que una aplicación web de coaching  podría mejorar la eficacia de tu trabajo como coach y la experiencia de tus clientes?
 ### 2.2.2. Registro de entrevistas.
+El registro de entrevistas es una herramienta fundamental que nos ayuda a recopilar y organizar la información obtenida durante las entrevistas con nuestros usuarios o clientes. Nos permite documentar de manera estructurada las respuestas, comentarios y observaciones relevantes, lo que facilita su análisis posterior y la identificación de patrones o tendencias. Además, nos proporciona un registro histórico de las interacciones con los usuarios, lo que nos ayuda a mantenernos alineados con sus necesidades y expectativas a lo largo del tiempo.<br>
 # **Personas que frecuentan actividades físicas:**
 
 ### **Entrevista #1**
@@ -405,14 +408,104 @@ En esta sección, presentaremos el perfil de nuestros User Persona, que surge de
 - **User Persona Segundo Segmento Objetivo(Profesionales del coaching en ejercicio y alimentación)**
   ![UserPersona_Segmento2](assets/img/UserPersona__Segmento2.png)
 ### 2.3.2. User Task Matrix.
-| Tareas                                               | Usuarios interesados en mejorar su salud y condición física | Profesionales del coaching en ejercicio y alimentación |
-|------------------------------------------------------|-------------------------------------------------------------|--------------------------------------------------------|
-| Lograr peso deseado                                  | A menudo                                                   | A menudo                                               |
-| Oportunidad de alcanzar sus objetivos con el internet | A menudo                                                   | A menudo                                               |
-| Dieta más saludable                                  | A menudo                                                   | A menudo                                               |
-| Brindar buen servicio                                | Nunca                                                      | A menudo                                               |
-| Poder conectar con sus clientes                     | A veces                                                    | A menudo                                               |
-| Contar con herramientas que le ayuden a agilizar su trabajo | A veces                                             | A menudo                                               |
+La User Task Matrix es una herramienta que nos permite identificar las tareas clave que nuestros usuarios necesitan realizar en nuestra aplicación web. Al mapear estas tareas, podemos comprender mejor las necesidades y expectativas de nuestros usuarios, lo que nos ayuda a diseñar una experiencia de usuario más efectiva y centrada en sus requerimientos.
+<br><br>
+- User Task Matrix Primer Segmento Objetivo(Usuarios interesados en mejorar su salud y condición física)
+
+<table  style="text-align: center">
+    <tbody>
+     <tr>
+            <td colspan="3"> Javier Cornejo</td>
+    </tr>  
+    <tr>
+        <td>Tareas</td>
+        <td>Frecuencia</td>
+        <td>Importancia</td>
+    </tr>
+    <tr>
+        <td>Asistir a clases de gimnasio o grupos de entrenamiento </td>
+        <td>Never</td>
+        <td>High</td>
+    </tr>
+    <tr>
+        <td>Hacer ejercicio en casa </td>
+        <td>Rarely</td>
+        <td>High</td>
+    </tr>
+    <tr>
+        <td>Planificar comidas semanalmente</td>
+        <td>Sometimes</td>
+        <td>Medium</td>
+    </tr>
+    <tr>
+        <td>Consultar blogs y videos sobre nutrición y fitness</td>
+        <td>Often</td>
+        <td>High</td>
+    </tr>
+    <tr>
+        <td>Hablar con amigos o familiares sobre sus experiencias con planes de ejercicio y alimentación</td>
+        <td>Sometimes</td>
+        <td>Low</td>
+    </tr>
+    <tr>
+        <td>Investigar diferentes tipos de dietas y programas de ejercicio</td>
+        <td>Low</td>
+        <td>Medium</td>
+    </tr>
+    <tr>
+        <td>Buscar aplicaciones de seguimiento de alimentos y ejercicios</td>
+        <td>Always</td>
+        <td>High</td>
+    </tr>
+    </tbody>
+
+</table>
+
+
+- User Task Matrix Segundo Segmento Objetivo(Profesionales del coaching en ejercicio y alimentación)
+
+<table  style="text-align: center">
+    <tbody>
+     <tr>
+            <td colspan="3"> Andrés Torres</td>
+    </tr>  
+    <tr>
+        <td>Tareas</td>
+        <td>Frecuencia</td>
+        <td>Importancia</td>
+    </tr>
+    <tr>
+        <td>Crear planes de ejercicio personalizados para sus clientes presencialmente</td>
+        <td>Always</td>
+        <td>High</td>
+    </tr>
+    <tr>
+        <td>Seguir el progreso de los clientes </td>
+        <td>High</td>
+        <td>High</td>
+    </tr>
+    <tr>
+        <td>Comunicarse con los clientes</td>
+        <td>Often</td>
+        <td>Medium</td>
+    </tr>
+    <tr>
+        <td>Hacer uso de redes sociales y plataformas digitales para atraer clientes</td>
+        <td>Low</td>
+        <td>High</td>
+    </tr>
+    <tr>
+        <td>Buscar oportuniades para mejorar su forma de trabajo</td>
+        <td>Sometimes</td>
+        <td>Medium</td>
+    </tr>
+    <tr>
+        <td>Mantenerse al día con las últimas investigaciones en salud y fitness</td>
+        <td>Low</td>
+        <td>Medium</td>
+    </tr>
+    </tbody>
+</table>                                    
 
 ### 2.3.3. User Journey Mapping
 El User Journey Mapping es una herramienta  para comprender la experiencia del usuario de manera holística, lo que permite a los equipos de diseño crear productos y servicios que se alineen mejor con las necesidades y expectativas de los usuarios.
@@ -429,6 +522,7 @@ Se ha elaborado el Empathy Mapping utilizando los datos obtenidos de las etapas 
 - **Empathy Map Segundo Segmento Objetivo(Profesionales del coaching en ejercicio y alimentación)**
   ![EmpathyMap__Segmento2](assets/img/EmpathyMap_Segmento2.png)
 ### 2.3.5. As-is Scenario Mapping.
+El "As-is Scenario Mapping" será una parte fundamental de nuestro enfoque de trabajo, ya que nos permitirá comprender el estado actual de nuestros procesos, identificar áreas de mejora y visualizar los pasos necesarios para alcanzar nuestros objetivos.
 - As-Is del segmento objetivo usuario:
 ![As-Is Usuarios](assets/img/As-Is_Usuarios.jpg)
 - As-Is del segmento objetivo coach:
