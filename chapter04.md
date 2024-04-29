@@ -20,42 +20,6 @@ La paleta de colores de FlexPal se compone de tonos que reflejan la frescura, la
 **Spacing**<br>
 El espaciado es un elemento clave en el diseño de FlexPal, ya que ayuda a organizar y estructurar la información de manera clara y coherente. Se ha optado por un espaciado generoso entre los elementos de la interfaz, lo que facilita la lectura y la navegación del usuario. Además, se ha utilizado un espaciado uniforme en todo el diseño, lo que crea una sensación de equilibrio y armonía en la composición. <br>
 ![spacing](assets/img/spacing.png) <br>
-
-
-[//]: # (**Overview:** <td>Deseamos capturar la atención del usuario desde el inicio mediante la creación y el diseño de una perspectiva del producto que establezca una conexión inmediata y reconocible.</td>)
-
-[//]: # ()
-[//]: # (**Brand overview**)
-
-[//]: # ()
-[//]: # (<td>Somos una compañía recién creada llamada "Flexpal" que quiere mejorar la salud de todos nuestros usuarios mediante ayuda personalizada.)
-
-[//]: # (Por esta razón, nos reunimos y trabajamos con cooperación, eficencia y responsabilidad.</td>)
-
-[//]: # (<br><br>)
-
-[//]: # ()
-[//]: # (**Misión:** <td>Nustra misión es buscar respeto, colaboración, humildad y empatía en todas nuestras acciones. Escuchamos y actuamos sobre las mejores ideas de nuestros grupos de interés para lograr el mayor impacto. Reconocemos los esfuerzos de todos los involucrados en nuestro trabajo vital y apoyamos sus diversas necesidades.</td>)
-
-[//]: # ()
-[//]: # (**Visión:** <td>Nuestra visión es un mundo donde todos tengan la oportunidad de llevar una vida saludable.</td>)
-
-[//]: # ()
-[//]: # (**Brand Name:** <td>Como la startup se trata de querer ayudar a la gente ejercitarse y comer sano, conectando al usuario con coaches y nutriólogos. Por esto, hemos decidido usar FlexPal como el nombre del producto, "Flex" de flexionar y "Pal" de amigo.</td>)
-
-[//]: # ()
-[//]: # (<!-- Imagen!-->)
-
-[//]: # ()
-[//]: # (**Typography:** <td>Las tipografías asignadas por el equipo fueron:</td>)
-
-[//]: # (<!-- Imagen!-->)
-
-[//]: # ()
-[//]: # (**Colors:** <td></td>)
-
-[//]: # (<!-- Imagen!-->)
-
 ### 4.1.2. Web Style Guidelines
 <td>Para FlexPal, estamos planeando desarrollar una plataforma web. Por lo tanto, implementaremos un diseño adaptable (conocido como Web Responsive Design) con el objetivo de optimizar la presentación de información en cualquier dispositivo. Esto asegurará que el contenido se mantenga intacto y, en última instancia, mejorará la experiencia del usuario.</td>
 <br><br>
