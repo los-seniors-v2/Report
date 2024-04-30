@@ -783,7 +783,7 @@ A continuación, fotos de como lucen los endpoints dentro de nuestro código y e
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page y la Front End Application. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint 2:
-
+![analytics-5-report](assets/img/team-collab-insights.png)
 ## Avance de Conclusiones, Bibliografía y Anexos.
 ### Conclusiones
 - Durante el desarrollo de la Landing Page, el equipo de FlexPal ha logrado implementar con éxito las funcionalidades y características planificadas, proporcionando una experiencia de usuario sólida y coherente.
