@@ -1,6 +1,5 @@
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
-![UPC](assets/img/upc-logo-transparente.png)
-<br>Imagen de logo UPC
+![UPC](assets/img_chapter01/UPC_logo_transparente.png)
 # APLICACIONES WEB (SV51)
 ## PROFESOR: Angel Augusto Velasquez Nuñez
 ## "INFORME DE TRABAJO FINAL APLICACIONES WEB"
@@ -19,21 +18,16 @@
 
 # Registro de Versiones del Informe
 
-| Versión | Fecha      | Autores            | Descripción de Modificación                                                                                                                                                                                                                                                   |
-|---------|------------|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1       | 10/04/2024 | - Juan Pescoran    | - Añadió contenido a todos los capítulos <br> - Aportó ideas para la creación de User Stories <br> - Realizó código para el despliegue de la Landing Page <br> - Adicionó las secciones que pertenecen al capítulo 1 hasta el 2.                                              |
-| 1       | 10/04/2024 | - Fabrizio Sanchez | - Se realizó x cosa <br> - Se realizó y cosa                                                                                                                                                                                                                                  |
-| 1       | 10/04/2024 | - Juan Cueto       | - Se realizó x cosa <br> - Se realizó y cosa                                                                                                                                                                                                                                  |
-| 1       | 10/04/2024 | - Luiggi Paredes   | - Se realizó x cosa <br> - Se realizó y cosa                                                                                                                                                                                                                                  |
-| 1       | 10/04/2024 | - Miguel Carpio    | - Se culminó con el capítulo 3 agregando el impact map y product backlog                                                                                                                                                                                                      |
-| 2       | 29/04/2024 | - Juan Pescoran    | - Corrigió, mediante commits dirigidos al "refactor", el nombre de los archivos en assets <br> - Agregó el seguimiento que faltaba en la sección "Project Report Collaboration Insights" <br> - Investigó y se realizó de forma correcta los "Lean UX Assumptions" <br> - . . . |
-| 2       | 29/04/2024 | - Fabrizio Sanchez | - Se realizó x cosa <br> - Se realizó y cosa                                                                                                                                                                                                                                  |
-| 2       | 29/04/2024 | - Juan Cueto       | - Se realizó x cosa <br> - Se realizó y cosa                                                                                                                                                                                                                                  |
-| 2       | 29/04/2024 | - Luiggi Paredes   | - Se realizó x cosa <br> - Se realizó y cosa                                                                                                                                                                                                                                  |
-| 2       | 29/04/2024 | - Miguel Carpio    | - Se realizó x cosa <br> - Se realizó y cosa                                                                                                                                                                                                                                  |
+| Versión               | Fecha    | Autores            | Descripción de Modificación                  |
+|-----------------------|----------|--------------------|----------------------------------------------|
+| Primera entrega (TB1) | -/-/2024 | - Juan Pescorán    | - Se realizó x cosa <br> - Se realizó y cosa |
+| Primera entrega (TB1) | -/-/2024 | - Fabrizio Sanchez | - Se realizó x cosa <br> - Se realizó y cosa |
+| Primera entrega (TB1) | -/-/2024 | - Juan Cueto       | - Se realizó x cosa <br> - Se realizó y cosa |
+| Primera entrega (TB1) | -/-/2024 | - Luiggi Paredes   | - Se realizó x cosa <br> - Se realizó y cosa |
+| Primera entrega (TB1) | -/-/2024 | - Miguel Carpio    | - Se realizó x cosa <br> - Se realizó y cosa |
 
 - - -
-# Project Report Collaboration Insights
+# Project Report Collaboration
 
 El siguiente enlace lleva al URL del repositorio que se encuentra en nuestra
 organización pública: https://github.com/Los-seniors/Informe
@@ -43,27 +37,10 @@ Aquí se encuentra el resultado del Project Report de la entrega correspondiente
 A continuación, se explicará todo a cerca del desarrollo de activades para la
 elaboración del informe junto con capturas de los analíticos de colaboración y commits en Github.
 
-Para la entrega de la TB1, este es el análisis de colaboración, que presenta el número de contribuciones
-hechas en el repositorio del informe.
-![analytics-1-report](assets/img/analytics-screenshots-contributions-tb1.png)
-
-En la primera semana del reporte, estos eran los commits totales realizados durante la semana 3:
-![analytics-2-report](assets/img/analytics-screenshots-commits-mar24.png)
-
-los commits totales realizados durante la semana 4:
-![analytics-3-report](assets/img/analytics-screenshots-commits-mar31.png)
-
-los commits totales realizados durante la semana 5:
-![analytics-4-report](assets/img/analytics-screenshots-commits-apr7.png)
-
-los commits totales realizados durante la semana 6:
-
-![analytics-5-report](assets/img/analytics-screenshots-commits-apr14.png)
-
 
 # Contenido
 ## Tabla de contenidos
-#### [Capítulo I: Introducción](/chapter01.md)
+#### [Capítulo I: Introducción](/chapter01.md/)
 
 [1.1. Startup Profile](/chapter01.md#11-startup-profile)
 
@@ -129,7 +106,7 @@ los commits totales realizados durante la semana 6:
 
 [3.4. Product Backlog](/chapter03.md#33-impact-mapping)
 
-##### [Capítulo IV: Product Design](/chapter04.md#capítulo-iv-product-design)
+##### [Capítulo IV: Product Design](/chapter04.md#capítulo-iv-product-design
 
 [4.1. Style Guidelines](/chapter04.md#41-style-guidelines)
 
@@ -157,7 +134,7 @@ los commits totales realizados durante la semana 6:
 
 [4.4. Web Applications UX/UI Design](/chapter04.md#44-web-applications-uxui-design)
 
-[4.4.1. Web Applications Wireframes](/chapter04.md#441-web-applications-wireframes)
+[4.4.1. Web Applications Wireframes](**/chapter04.md#441-web-applications-wireframes)
 
 [4.4.2. Web Applications Wireflow Diagrams](/chapter04.md#442-web-applications-wireflow-diagrams)
 
@@ -217,15 +194,15 @@ los commits totales realizados durante la semana 6:
 
 [5.2.1.8. Team Collaboration Insights during Sprint](/chapter05.md#5218-team-collaboration-insights-during-sprint)
 
-[5.3. Validation Interviews](/chapter05.md)
+[5.3. Validation Interviews](/chapter05.md#)
 
-[5.3.1. Diseño de Entrevistas](/chapter05.md)
+[5.3.1. Diseño de Entrevistas](/chapter05.md#)
 
-[5.3.2. Registro de Entrevistas](/chapter05.md)
+[5.3.2. Registro de Entrevistas](/chapter05.md#)
 
-[5.3.3. Evaluaciones según heurísticas](/chapter05.md)
+[5.3.3. Evaluaciones según heurísticas](/chapter05.md#)
 
-[5.4. Video About-the-Product](/chapter05.md)
+[5.4. Video About-the-Product](/chapter05.md#)
 
 [Conclusiones]()
 
@@ -239,8 +216,8 @@ los commits totales realizados durante la semana 6:
 
 # Student Outcome
 
-| Criterio Específico                                                                                                                                  | Acciones Ralizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Conclusiones                       |
-|------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | **-----------TB1-----------**<br>  **Juan Pescorán** <br> Realizó trabajos durante sesiones virtuales hechas en Microsoft Team, usando eficientemente las herramientas para las soluciones de Software. <br><br>**Juan Cueto** - Cordinó con el equipo para la creación de los repositorios, reuniones para el entendimiento de gitflow, y la creación de las respectivas ramas de cada repositorio a trabajar. De manera que, se obtuvo un desarrollo organizado en la forma de realizar las tareas asignadas al grupo, teniendo así un mejor control y registro en el contenido del proyecto. <br><br> **Luiggi Paredes** - Coordinó con el equipo las fechas para la entrega de avances, las reuniones, las partes que cada uno tenía que realizar. De manera que, se tuvo un desarrollo óptimo de la TB1 <br><br> **Fabrizio Sanchez**: Avanzó los elementos asignados a través de las reuniones grupales que fueron realizadas de manera diaria y semanal, por lo que pudo avanzar de la manera esperada. <br> <br> **Miguel Carpio**: Colaboró activamente en la resolución de problemas técnicos durante las sesiones virtuales, proporcionando soluciones efectivas y contribuyendo al avance del proyecto. | **-----------TB1-----------**<br> El equipo demostró una sólida capacidad para trabajar de manera colaborativa y efectiva, utilizando herramientas virtuales de manera eficiente para coordinar, planificar y ejecutar las tareas del proyecto. La comunicación fluida, la organización adecuada y el compromiso con los objetivos del equipo permitieron un avance significativo y un desarrollo ordenado del proyecto. La participación activa de cada miembro, su capacidad para resolver problemas de manera eficiente durante las sesiones virtuales, así como su compromiso con los plazos y objetivos del proyecto, fueron fundamentales para el éxito del equipo. |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software                                                              | **-----------TB1-----------**<br>  **Juan Pescorán** <br> Utilizó frameworks como vue que crearán dominios locales: "localhost:1800" por ejemplo. También usaremos la herramienta GitHun Pages para que, al subir nuestra landing page a un repositorio, GitHub cree un dominio en internet donde se alojará nuestro index. <br><br>**Juan Cueto** - Investigó los posibles y actuales competidores de nuestro negocio. Con el fin de tener una retroalimentación y destacar los puntos que pueden impulsar y destacar entre los demas competidores. Obteniendo un resultado del entedimiento del dominio del problema que abarca este modelo de negocio.  <br><br> **Luiggi Paredes** - Investigó el dominio y aplicación del software a implementar, es por ello que todo el equipo participó de forma activa en el proceso de investigación de la problemática y la segmentación de nuestro público objetivo. <br><br>  **Fabrizio Sanchez**: Utilizó diferentes técnicas y herramientas para poder recaudar mas información de manera que ampliemos nuestro conocimiento de nuestros segmentos. <br> <br> **Miguel Carpio**: Realizó un análisis de la competencia para identificar fortalezas y oportunidades de mejora en el proyecto, contribuyendo así a la definición de estrategias competitivas.                                                                                   | **-----------TB1-----------**<br> El equipo demostró un profundo conocimiento del dominio de aplicación del proyecto, mediante la investigación exhaustiva de la problemática a abordar y la identificación de los competidores relevantes. Esta comprensión sólida del sector empresarial permitió identificar oportunidades y establecer estrategias competitivas adecuadas para el éxito del proyecto. La investigación detallada sobre competidores proporcionó información valiosa para diferenciar el proyecto y destacar entre la competencia, mientras que la comprensión clara del público objetivo garantizó un enfoque preciso y efectivo en el desarrollo de soluciones de software adaptadas a las necesidades del mercado. En resumen, el profundo conocimiento del dominio de aplicación del proyecto fue clave para la definición de estrategias efectivas y el éxito global del equipo en la implementación de soluciones de ingeniería de software.| 
+| Criterio Específico                                                                                                                                  | Acciones Ralizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Conclusiones |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | **-----------TB1-----------**<br>  **Juan Pescorán** <br> Para el buen trabajo en equipo, se realizaron trabajos durante sesiones virtuales hechas en Microsoft Team, usando eficientemente las herramientas para las soluciones de Software. <br><br>**Juan Cueto** - Cordinó con el equipo para la creación de los repositorios, reuniones para el entendimiento de gitflow, y la creación de las respectivas ramas de cada repositorio a trabajar. De manera que, se obtuvo un desarrollo organizado en la forma de realizar las tareas asignadas al grupo, teniendo así un mejor control y registro en el contenido del proyecto. <br><br> **Luiggi Paredes** - Se coordinó con el equipo las fechas para la entrega de avances, las reuniones, las partes que cada uno tenía que realizar. De manera que, se tuvo un desarrollo óptimo de la TB1 <br><br> **Fabrizio Sanchez**: Avanzó los elementos asignados a través de las reuniones grupales que fueron realizadas de manera diaria y semanal, por lo que pudo avanzar de la manera esperada.                                                                                                                                                                                                                                                                                            |              |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software                                                              | **-----------TB1-----------**<br>  **Juan Pescorán** <br> En este trabajo, se usaran frameworks como vue que crearán dominios locales: "localhost:1800" por ejemplo. También usaremos la herramienta GitHun Pages para que, al subir nuestra landing page a un repositorio, GitHub cree un dominio en internet donde se alojará nuestro index. <br><br>**Juan Cueto** - Teniend en cuenta nuestro modelo de negocio, fue necesario investigar los posibles y actuales competidores de nuestro negocio. Con el fin de tener una retroalimentación y destacar los puntos que pueden impulsar y destacar entre los demas competidores. Obteniendo un resultado del entedimiento del dominio del problema que abarca este modelo de negocio.  <br><br> **Luiggi Paredes** - Con el fin de que el equipo tome decisiones informadas fue necesario conocer el dominio y aplicación del software a implementar, es por ello que todo el equipo participó de forma activa en el proceso de investigación de la problemática y la segmentación de nuestro público objetivo. <br><br>  **Fabrizio Sanchez**: Para poder tener un mejor conocimiento y un mejor desarrollo de solucion del software, fue necesario usar diferentes técnicas y herramientas para poder recaudar mas información de manera que ampliemos nuestro conocimiento de nuestros segmentos. |  
 
