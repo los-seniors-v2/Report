@@ -733,6 +733,295 @@ Se ha omitido la sección de la aplicación web debido a que solo se ha desarrol
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint 2:
 
+## 5.2.3. Sprint 3
+## 5.2.3.1.Spring Planning 3.
+Durante el sprint 3 el equipo realizo la implementacion de la parte backend
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2024/05/26</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>3:00 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Discord</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Pescoran Angulo, Juan Fabritzzio</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                <li>Carpio Cornejo, Miguel Angel Jesus</li>
+                <li>Cueto Dominguez, Juan Diego</li>
+                <li>Sanchez Zamora Fabrizio Alessandro</li>
+                <li>Paredes Zapata, Luiggi Gianfranco</li>
+                <li>Velasquez Chambi, Ruben Genaro</li>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Review Summary</td>
+            <td>
+                Se alcanzaron los objetivos: el mejoramiento del reporte , el arreglo del código en el despliegue de la primera versión de nuestra Front End App  y se desarrollo parte de la implementacion del backend.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Retrospective Summary</td>
+            <td>
+                El equipo realizo las correcciones del lado front-end de la aplicacion.
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Goal</td>
+            <td>
+                <li>Se mejoro el Front-end</li>
+                <li>Se implemento 3 bounded context del back-end</li>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Velocity</td>
+            <td>
+                15
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                15
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+## 5.2.3.2.Sprint Backlog 3.
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 3</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>Description<strong></td>
+    <td align="center"> <strong>Estimation (Hours)<strong></td>
+    <td align="center"> <strong>Assigned To<strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="2" align="center"> ID </td>
+    <td rowspan="2" align="center"> US001 Iniciar Sesión</td>
+    <td align="center"> TA01 </td>
+     <td align="center"> Crear el front-end para el inicio sesion</td>
+    <td align="center">Desarrollar la logica para que actue el inicio sesion</td>
+    <td align="center"> 1</td>
+    <td align="center"> Ruben Velasquez Chambi</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Back-end de inicio sesion</td>
+    <td align="center"> desarrollar la logica de autenticacion por el lado back-end</td>
+    <td align="center"> 3</td>
+    <td align="center"> Ruben Velasquez Chambi</td>
+    <td align="center">Done</td>
+  </tr>
+<!----------------------------------------------->
+  <tr>
+    <td rowspan="2" align="center"> ID </td>
+    <td rowspan="2" align="center"> US003 Actualizar Información Personal</td>
+    <td align="center"> TA01 </td>
+    <td align="center">Front-end de profile</td>
+    <td align="center"> Mostrar informacion del usuario y tener un formulario para actualizar datos</td>
+    <td align="center"> 1</td>
+    <td align="center">-------------- </td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Desarrollar el back-end para profile</td>
+    <td align="center"> Se dasarrollo la logica para la busqueda y actualizacion de los perfiles de usuario </td>
+    <td align="center"> 2</td>
+    <td align="center">Ruben Velasquez Chambi</td>
+    <td align="center"> Done</td>
+  </tr>
+<!-------------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> US010 Programar Sesiones de Entrenamiento </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Back-end de creacion de sesion</td>
+    <td align="center">Se creo la logica de fitnes plans para</td>
+    <td align="center"> 2</td>
+    <td align="center"> Luiggi Gianfranco Paredes Zapata</td>
+    <td align="center"> Done</td>
+  </tr>
+
+
+<!---------------------------------------------------->
+  <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> US011 Seguir Rutinas de Ejercicio</td>
+      <td align="center"> TA01 </td>
+    <td align="center"> Backend de routines items</td>
+    <td align="center"> Desarrollo de la logica para agregar rutinas al plan de ejercicio.</td>
+    <td align="center"> 3</td>
+    <td align="center"> Luiggi Gianfranco Paredes Zapata</td>
+    <td align="center"> Done</td>
+  </tr>
+<!------------------------------------------------>
+   <tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> US015 Planes de Nutrición
+    </td>
+      <td align="center"> TA01 </td>
+    <td align="center"> Backend de nuticion</td>
+    <td align="center"> Desarrollo de la logica para agregar un esquema de nuticion al plan de ejercicio.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Luiggi Gianfranco Paredes Zapata </td>
+    <td align="center"> Done</td>
+  </tr>
+</table>
+
+## 5.2.3.3.Development Evidence for Sprint Review.
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center">https://github.com/los-seniors-v2/flex-pal-platform</td>
+    <td align="center"> main</td>
+    <td align="center">eb600a8210920d357cca6c316d4eb5f8dc607123</td>
+    <td align="center"> chore: initial commit</td>
+    <td align="center">---</td>
+    <td align="center"> 29/05/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center">develop</td>
+    <td align="center" > 714a1a596469dd157fcc2341f1e471def2c7d989</td>
+    <td align="center"> chore: Added basic dependencies</td>
+    <td align="center">---</td>
+    <td align="center"> 29/05/2024</td>
+  </tr>
+
+   <tr>
+    <td align="center">develop</td>
+    <td align="center" > 0db0fb88782353a2fd5a185ac38dc800a7de4f83</td>
+    <td align="center"> feat: implement bounded context shared</td>
+    <td align="center"> ---</td>
+    <td align="center"> 29/05/2024</td>
+  </tr>
+
+   <tr>
+    <td align="center">feature/profiles</td>
+    <td align="center" > 85f2f70a1ef4def24179cefad1f87747159215cb</td>
+    <td align="center">feat(domain): add profile model</td>
+    <td align="center">--- </td>
+    <td align="center"> 30/05/2024</td>
+  </tr>
+
+   <tr>
+    <td align="center">feature/profiles</td>
+    <td align="center">c9377ce962d28ea7e2221f0fd562d686ddc74916</td>
+    <td align="center">feat: add infrastructure layer and interfaces without API controller implementation </td>
+    <td align="center"> ---</td>
+    <td align="center"> 30/05/2024</td>
+  </tr>
+ 
+  <tr>
+    <td align="center">feature/profiles</td>
+    <td align="center" > 982bf7a7f2b596ced87e6e76d06b1015ec82b65b</td>
+    <td align="center">feat(profile): add PUT method in bounded context</td>
+    <td align="center"> ---</td>
+    <td align="center"> 30/05/2024</td>
+  </tr>
+
+   <tr>
+    <td align="center">feature/iam</td>
+    <td align="center" > 7fd2c641b79a56f520671013685fbc21a5d99017</td>
+    <td align="center">feat(iam): add application and domain layers to bounded context</td>
+    <td align="center"> ---</td>
+    <td align="center"> 31/05/2024</td>
+  </tr>
+
+   <tr>
+    <td align="center">feature/iam</td>
+    <td align="center" > 609588dcb68103d64f55336dcc53df2540048601</td>
+    <td align="center">feat(iam): implement register logic using ACL between IAM and profile, needs refactoring</td>
+    <td align="center"> ---</td>
+    <td align="center"> 01/05/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/couseling</td>
+    <td align="center" > 66bad6ff146c2343539b7ce0b9925814a998908a</td>
+    <td align="center">feat(counseling): add directories for DDD</td>
+    <td align="center"> ---</td>
+    <td align="center"> 01/05/2024</td>
+  </tr>
+
+   <tr>
+    <td align="center">feature/profile</td>
+    <td align="center" > 94269d701fac07ff153e16a383e9c44f56e1d470</td>
+    <td align="center">refactor(profile): add documentation and error handling</td>
+    <td align="center"> ---</td>
+    <td align="center"> 02/05/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/couseling</td>
+    <td align="center" > ca7d8bbf6e1daff1f935c755cc72b23b7365ff0a</td>
+    <td align="center">feat(counseling): add required DDD classes</td>
+    <td align="center"> ---</td>
+    <td align="center"> 02/05/2024</td>
+  </tr>
+ 
+</table>
+
+## 5.2.3.4.Testing Suite Evidence for Sprint Review.
+
+## 5.2.3.5.Execution Evidence for Sprint Review.
+
+## 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+## 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+## 5.2.3.8.Team Collaboration Insights during Sprint.
+
+
 ## 5.3. Validation Interviews.
 
 ### 5.3.1. Diseño de Entrevistas.
@@ -767,6 +1056,12 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
 - La implementación de la Landing Page ha sentado las bases para el desarrollo de la Web Application, que se espera completar en etapas posteriores del proyecto.
 - El uso de herramientas de gestión de proyectos como Trello y GitHub ha facilitado la planificación, el seguimiento y la colaboración en el desarrollo del proyecto, permitiendo al equipo mantenerse organizado y enfocado en los objetivos.
 - El proceso de desarrollo ágil ha demostrado ser efectivo para la implementación de la Landing Page, permitiendo al equipo adaptarse a los cambios y desafíos de manera eficiente y eficaz.
+
+## 5.3.3. Evaluaciones según heurísticas.
+## 5.4. Video About-the-Product.
+
+
+
 
 ### Anexos
 - Anexo 1: [Landing Page Repository](https://github.com/los-seniors-v2)
