@@ -12,6 +12,7 @@
 - Fabrizio Alessandro Sanchez Zamora (U202213652)
 - Pescorán Angulo Juan Fabritzzio (U20221C936)
 - Luiggi Gianfranco Paredes Zapata (U202218996)
+- Ruben Velasquez Chambi (U202117342)
 ### FECHA: MARZO 2024
 
 - - - 
