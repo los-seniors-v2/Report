@@ -733,6 +733,32 @@ Se ha omitido la sección de la aplicación web debido a que solo se ha desarrol
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint 2:
 
+## 5.3. Validation Interviews.
+
+### 5.3.1. Diseño de Entrevistas.
+#### Saludo y presentación
+Comenzamos con una introducción breve de los entrevistados para recordar quiénes son ya que han sido entrevistados anteriormente.
+
+1. ¿Cómo se llama?
+2. ¿Cuántos años tiene?
+3. ¿En qué distrito vive?
+
+#### Preguntas
+Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nuestro producto llenó las expectativas del usuario, y también saber las posibles mejoras, comentarios y quejas sobre nuestro producto.
+
+1. ¿Qué piensas de la interfaz de usuario de la aplicación web? ¿Es fácil de navegar?
+2. ¿Encuentras que las funciones de la aplicación web son intuitivas y fáciles de usar?
+4. ¿Hay alguna función que crees que debería estar en la aplicación web que actualmente no está?
+5. ¿Cómo calificarías la experiencia general de uso de la aplicación web?
+6. ¿Qué te gusta más y qué te gusta menos de la aplicación web?
+7. ¿Te sentirías cómodo usando regularmente nuestra aplicación web?
+8. ¿Cómo crees que nuestra aplicación web se comparan con otras similares que hayas utilizado?
+9. ¿Hay algo que te confunda o te resulte difícil de entender en la aplicación web?
+10. ¿Considerarías recomendarnos a tus amigos o familiares?
+11. ¿Tienes alguna sugerencia para mejorar la experiencia del usuario en nuestra aplicación web?
+
+### 5.3.2. Registro de Entrevistas.
+
 ## Avance de Conclusiones, Bibliografía y Anexos.
 ### Conclusiones
 - Durante el desarrollo de la Landing Page, el equipo de FlexPal ha logrado implementar con éxito las funcionalidades y características planificadas, proporcionando una experiencia de usuario sólida y coherente.
