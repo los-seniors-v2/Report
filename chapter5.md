@@ -1139,14 +1139,36 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
 10. ¿Considerarías recomendarnos a tus amigos o familiares?
 11. ¿Tienes alguna sugerencia para mejorar la experiencia del usuario en nuestra aplicación web?
 
-## Avance de Conclusiones, Bibliografía y Anexos.
-### Conclusiones
+#### 5.3.2. Registro De Entrevistas
+![RegistroEntrevistas](assets/img/img_8.png) <br> <br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213652_upc_edu_pe/EZMU38BmzmtDmzICiRP9ypgBmH5pYGdeA2ogPTberO5h1g?e=CHMn4l&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+#### 5.3.3. Evaluaciones según heurísticas.
+
+### 5.4 Video About-the-Product.
+
+![AboutProduct](assets/img/img_8.png) <br>
+#### YouTube
+https://youtu.be/7yi8_0qWF7k
+
+
+
+### Conclusiones y Recomendaciones
 - Durante el desarrollo de la Landing Page, el equipo de FlexPal ha logrado implementar con éxito las funcionalidades y características planificadas, proporcionando una experiencia de usuario sólida y coherente.
 - La implementación de la Landing Page ha permitido al equipo demostrar su capacidad para traducir los requisitos y especificaciones en código funcional, desarrollando una estructura sólida y un diseño visual atractivo.
 - La colaboración y el trabajo en equipo han sido fundamentales para el éxito del proyecto, permitiendo a los miembros del equipo compartir conocimientos, habilidades y recursos para lograr los objetivos establecidos.
 - La implementación de la Landing Page ha sentado las bases para el desarrollo de la Web Application, que se espera completar en etapas posteriores del proyecto.
 - El uso de herramientas de gestión de proyectos como Trello y GitHub ha facilitado la planificación, el seguimiento y la colaboración en el desarrollo del proyecto, permitiendo al equipo mantenerse organizado y enfocado en los objetivos.
 - El proceso de desarrollo ágil ha demostrado ser efectivo para la implementación de la Landing Page, permitiendo al equipo adaptarse a los cambios y desafíos de manera eficiente y eficaz.
+
+### Video About-the-Team.
+![AboutTeam](assets/img/img_8.png) <br>
+
+#### Microsoft Stream
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213652_upc_edu_pe/EUzF2s_VeyxLoLS1JP1IQO0BXB_uZv271FQfEF-FVIx-sQ?e=EbCPBk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+<br> 
+#### YouTube
+https://youtu.be/y6P2SFQNDK0
 
 ### Anexos
 - Anexo 1: [Landing Page Repository](https://github.com/los-seniors-v2)
