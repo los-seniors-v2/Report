@@ -258,9 +258,11 @@ El registro de entrevistas es una herramienta fundamental que nos ayuda a recopi
 #### Características:
 Nombre y apellidos: Javier Cornejo <br>
 Edad: 30 años <br>
-Sistema Operativo: Windows <br>
-Dispositivo más usado: Celular <br>
 Distrito: <br>
+Dispositivo más usado: Celular <br>
+Navegadores Preferidos: Chrome, Mozila Firefox, Safari <br>
+
+
 
 #### Imagen de referencia:
 ![Entrevista_Seg01_JavierCarpio](assets/img/Registro_Entrevista_Seg01_JavierCarpio.png)
@@ -299,6 +301,8 @@ Fin de la entrevista: 2:10 <br>
 Nombre y apellidos: Renzo Enciso <br>
 Edad: 20 años <br>
 Distrito: Chorrillos<br>
+Dispositivo más usado: Computador <br>
+Navegadores Preferidos: Chrome <br>
 
 #### Imagen de referencia:
 ![Entrevista_Seg01_RenzoEnciso](assets/img/Registro_Entrevista_Seg01_RenzoEnciso.png) <br>
@@ -316,6 +320,8 @@ Resumen De Entrevista: El entrevistado muestra una motivación actual para mejor
 Nombre y apellidos: Diego Paulino <br>
 Edad: 21 años <br>
 Distrito: Santiago de Surco <br>
+Dispositivo más usado: Computador <br>
+Navegadores Preferidos: OperaGx <br>
 
 #### Imagen de referencia:
 ![Entrevista_Seg01_DiegoPaulino](assets/img/Registro_Entrevista_Seg01_DiegoPaulino.png) <br>
@@ -335,6 +341,8 @@ Resumen De Entrevista: El entrevistado revela una motivación actual para mejora
 Nombre y apellidos: Andres Torres <br>
 Edad: 23 años <br>
 Distrito: Lince<br>
+Dispositivo más usado: Computador <br>
+Navegadores Preferidos: Brave <br>
 
 #### Imagen de referencia:
 ![Entrevista_Seg01_AndresTorres](assets/img/Registro_Entrevista_Seg02_AndresTorres.png) <br>
@@ -351,6 +359,8 @@ Resumen De Entrevista: El entrevistado revela una fuerte motivación en el campo
 Nombre y apellidos: Cristopher Paredes <br>
   Edad: 23 años <br>
   Distrito: Santiago de Surco<br>
+Dispositivo más usado: Computador <br>
+Navegadores Preferidos: Safari <br>
 
 #### Imagen de referencia:
   ![Entrevista_Seg02_CristopherParedes](assets/img/Registro_Entrevista_Seg02_Cristopher.png) <br>
@@ -369,6 +379,8 @@ Edad: 22 años <br>
 Dispositivo más usado: Móvil <br>
 Sistema Operativo: Android <br>
 Distrito: Chorrillos<br>
+Dispositivo más usado: Computador <br>
+Navegadores Preferidos: Chrome <br>
 
 #### Imagen de referencia:
 ![Entrevista_Seg02_AdrianValerio](assets/img/Registro_Entrevista_Seg02_Valerio.png) <br>
