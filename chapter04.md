@@ -282,28 +282,8 @@ El diagrama de wireflow de FlexPal muestra los diferentes flujos de usuario para
 ### 4.4.4. Web Applications User Flow Diagrams
 El diagrama de flujo de usuario es una representación visual de los pasos que un usuario sigue al interactuar con una aplicación o sitio web. Muestra la secuencia de acciones que el usuario realiza para completar una tarea específica, lo que nos ayuda a identificar posibles puntos de fricción y a optimizar la experiencia del usuario.
 <br><br>
-**Leyenda:**
 
-![Leyenda](assets/img/Userflow-Legend.PNG)
-<br><br>
-**Flujo de Usuario:**
-Empieza con el usuario ingresando a la página de inicio de FlexPal. Aqui determina si es "Miembro" o "Coach".
-
-![UserFlow-FlexPal](assets/img/Userflow-Login.PNG)
-<br><br>
-**Flujo de Miembro:** 
-El usuario Miembro puede acceder a su perfil, ver las rutinas recomendadas, programar sesiones con su coach, y acceder a las herramientas de asesoramiento y seguimiento.
-
-![UserFlow-Member](assets/img/Userflow-Member.PNG)
-<br><br>
-**Flujo de Coach:**
-El usuario Coach puede acceder a su perfil, ver la lista de miembros, programar sesiones con sus clientes, y acceder a las herramientas de asesoramiento y seguimiento.
-
-![UserFlow-Coach](assets/img/Userflow-Coach.PNG)
-<br><br>
-**Vista general del flujo de usuario:**
-
-[![UserFlow-Overview](assets/img/Userflow-Global.PNG)](https://www.figma.com/file/91Ez19KOQpxgpmPEZ9NtIm/FlexPal?type=design&node-id=0%3A1&mode=design&t=DA1ZoY7KsViAxYLq-1)
+![UserFlow](assets/img/Userflow.png)
 
 ## 4.5. Web Applications Prototyping
 Prototipo de la aplicación web FlexPal en Figma:
