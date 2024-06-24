@@ -1309,24 +1309,26 @@ En esta sección, se describen los EndPoints documentados con OpenAPI mediante l
 ![Swagger_Imagw1](assets/img/service01.png)
 ![Swagger_Imagw2](assets/img/service02.png)
 
-| EndPoints                                               | Acciones Implementadas                                                                                      |
-|---------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| /api/v1/coaches                                         | Permite la creación de un nuevo coach, teniendo como atributos username y  password y                       |
-| /api/v1/coaches/{coachId}                               | Permite obtener la informacion de los coaches registrados en la base de datos de la apliación               |
-| /api/v1/fitness-plans                                   | Permite la creacion de planes fitness                                                                       |
-| /api/v1/fitness-plans/{fitnessPlanId}/routine-items     | Permite añadir rutinas al plan fitness del usuario                                                          |
-| /api/v1/fitness-plans/{fitnessPlanId}/nutritional-meals | Permite añadir planes nutricionales al plan fitness del usuario                                             |
-| /api/v1/fitness-plans/{fitnessPlanId}/nutritional-meals | Permite añadir planes nutricionales al plan fitness del usuario                                             |
-| /api/v1/fitness-plans/{fitnessPlanId}                   | Permite obtener el plan fitness de un usario                                                                |
-| /api/v1/profiles      (POST)                            | Permite la creacion de un nuevo perfil de usuario                                                           |
-| /api/v1/profiles    (GET)                               | Permite obtener la informacion de los perfiles de usuarios registrados en la base de datos de la aplicacion |
-| /api/v1/profiles/{profilesId} (GET)                     | Permite obtener la informacion de un perfil mediante un id                                                  |
-| /api/v1/profiles/{profilesId} (PUT)                     | Permite editar la informacion de un perfil de usuario                                                       |
-| /api/v1/users/{userId}    (GET)                         | Permite obtener la informacion de un member                                                                 |
-| /api/v1/users/{register} (POST)                         | Permite la creacion de un nuevo member mediante un correo y contraseña                                      |
-| /api/v1/users/login (POST)                              | Permite el login de un member para entrar a la aplicacion                                                   |
-
+| Nombre del Endpoint | Acciones Implementadas | Sintaxis de Llamada                                                                                                                                                                                        | Especificación de Parámetros                                                                                                                                                                                                                                                    | Ejemplo de Llamada | Explicación del Response                                                                                                                 |
+|---------------------|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| Coach               | POST, GET              | POST: ```/api/v1/coaches```, GET: ```/api/v1/coaches/{coachId}```                                                                                                                                          | GET: ```"id": int```, POST: ```"firstName": "string", "lastName": "string", "email": "string", "phone": "string", "knowledge": "string"```                                                                                                                                      | -                  | En este caso, se está devolviendo el valor de todos los objetos "coaches" alojados en el json con el nombre 'api/v1/coach'.              |
+| FitnessPlan         | POST, GET              | POST: ```/api/v1/fitness-plans```, ```/api/v1/fitness-plans{fitnessPlanId}/routine-items```, ```/api/v1/fitness-plans{fitnessPlanId}/nutritional-meals```  GET: ```/api/v1/fitness-plans{fitnessPlanId}``` | GET: ```"id": int```, POST: ```"profileId": 0, "coachId": 0```, ```"name": "string", "sets": 100, "reps": 100, "type": "string", "restTime": 600```, ```"name": "string", "weight": 10000```                                                                                    | -                  | En este caso, se está devolviendo el valor de todos los objetos "fitness-plan" alojados en el json con el  nombre 'api/v1/fitness-plan'. |
+| Profiles            | POST, GET, PUT         | POST: ```/api/v1/profiles```, GET: ```/api/v1/profiles```, ```/api/v1/profiles/{profileId}```, PUT: ```/api/v1/profiles/{profileId}```                                                                     | GET: ```"id": int```, POST: ```"firstName": "string", "lastName": "string", "email": "string", "weight": "string", "height": "string", "phone": "string", "role": "string"```, PUT: ```"id": 0, "email": "string", "weight": "string", "height": "string", "phone": "string"``` | -                  | En este caso, se está devolviendo el valor de todos los objetos "perfiles" alojados en el json con el nombre 'api/v1/profiles'.          |
+| Users               | POST, GET              | POST: ```/api/v1/users```, ```/api/v1/users/register```, ```/api/v1/users/login```, GET: ```/api/v1/users/{userId}```                                                                                      | GET: ```"id": int```, POST: ``````                                                                                                                                                                                                                                              | -                  | En este caso, se está devolviendo el valor de todos los objetos "user" alojados en el json con el nombre 'api/v1/users'.                 |
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+Para este sprint 4, se realizo un deploy de los elementos faltantes, como la autenticación de usuarios y funcionalidades del lado backend. Se logró una correcta comunicación entre el FrontEnd y el BackEnd de manera estable.<br><br>
+
+### Fronted Deployment
+![Netlify](assets/img/img_9.png)
+![Netlify2](assets/img/img_10.png)
+### Backend Deployment
+![Image1](assets/img/DP01.jpg)
+![Image2](assets/img/DP02.jpg)
+### Database Deployment
+![Image3](assets/img/DP03.jpg)
+![Image4](assets/img/DP04.jpg)
+![Image5](assets/img/DP05.jpg)
+![Image6](assets/img/DP06.jpg)
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
 
 ## 5.3. Validation Interviews.
