@@ -782,9 +782,9 @@ A continuación, fotos de como lucen los endpoints dentro de nuestro código y e
 
 - - -
 
-### 5.2.2. Sprint 3
+### 5.2.3. Sprint 3
 En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el Sprint 3. Incluye como secciones internas: Sprint Planning 3, Sprint Backlog 3, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, junto con Team Collaboration Insights during Sprint
-#### 5.2.2.1.Sprint Planning 2.
+#### 5.2.3.1.Sprint Planning 2.
 
 <table  style="text-align: center;">
     <tbody>
@@ -841,7 +841,7 @@ En esta sección se registra y explica el avance en términos de producto y trab
 </tbody>
 </table>
 
-#### .2.2.2.Sprint Backlog 3.
+#### 5.2.3.2.Sprint Backlog 3.
 
 En este tercer sprint el equipo se ha enfocado en el mejoramiento de la Landing Page, el reporte, Front End Application y el Back End. A continuación, se presenta el backlog de tareas para el Sprint 3:
 [Link para ingresar al board del tecer Sprint](https://trello.com/b/5bsUVC3d/flexpal-sprint-2)
@@ -971,7 +971,7 @@ En este tercer sprint el equipo se ha enfocado en el mejoramiento de la Landing 
     <tbody>
 </table>
 
-#### 5.2.2.3.Development Evidence for Sprint Review.
+#### 5.2.3.3.Development Evidence for Sprint Review.
 
 <table>
   <tr>
@@ -1074,9 +1074,9 @@ En este tercer sprint el equipo se ha enfocado en el mejoramiento de la Landing 
 
 </table>
 
-#### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+#### 5.2.3.4.Testing Suite Evidence for Sprint Review.
 Se ha omitido esta sección, puesto que aún no se dispone con el conocimiento para realizar pruebas de tests automatizados, que están planeadas en realizarse en el siguiente sprint.
-#### 5.2.2.5.Execution Evidence for Sprint Review.
+#### 5.2.3.5.Execution Evidence for Sprint Review.
 En esta entrega, el equipo de desarrolladores de FlexPal ha completado con éxito la implementación de la página del Back end Application. Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto.
 
 ![Web-API-screenshot1](assets/img/img_1.png)
@@ -1090,7 +1090,7 @@ Por parte de la base de datos:
 
 ![Database](assets/img/img_7.png)
 
-#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 En este sprint, hemos podido desplegar una Web Application que consume json como data para mostrárselos al usuario, a continuación se muestra el código de la aplicación:
 
 | Nombre del Endpoint | Acciones Implementadas | Sintaxis de Llamada                                                                                                                                                                                        | Especificación de Parámetros                                                                                                                                                                                                                                                    | Ejemplo de Llamada | Explicación del Response                                                                                                                 |
@@ -1100,7 +1100,7 @@ En este sprint, hemos podido desplegar una Web Application que consume json como
 | Profiles            | POST, GET, PUT         | POST: ```/api/v1/profiles```, GET: ```/api/v1/profiles```, ```/api/v1/profiles/{profileId}```, PUT: ```/api/v1/profiles/{profileId}```                                                                     | GET: ```"id": int```, POST: ```"firstName": "string", "lastName": "string", "email": "string", "weight": "string", "height": "string", "phone": "string", "role": "string"```, PUT: ```"id": 0, "email": "string", "weight": "string", "height": "string", "phone": "string"``` | -                  | En este caso, se está devolviendo el valor de todos los objetos "perfiles" alojados en el json con el nombre 'api/v1/profiles'.          |
 | Users               | POST, GET              | POST: ```/api/v1/users```, ```/api/v1/users/register```, ```/api/v1/users/login```, GET: ```/api/v1/users/{userId}```                                                                                      | GET: ```"id": int```, POST: ``````                                                                                                                                                                                                                                              | -                  | En este caso, se está devolviendo el valor de todos los objetos "user" alojados en el json con el nombre 'api/v1/users'.                 |
 
-#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 
 Para el despliegue de nuestra Front End App, se usó: 
 
@@ -1111,9 +1111,223 @@ Para el despliegue de nuestra aPI se usó: [SmarterAsp](https://www.smarterasp.n
 
 ![SmarterASP](assets/img/img_8.png)
 
-#### 5.2.2.8.Team Collaboration Insights during Sprint.
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
 A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint 3:
 ![analytics-5-report](assets/img/img_11.png)
+
+
+### 5.2.4. Sprint 4
+En esta sección se explicaran los detalles presentados y analizados durante la reunión del Sprint Planning para el número 4. El objetivo principal de esta reunión es establecer un plan claro y realista para el sprint, identificando las tareas a realizar y comprometiéndose con un conjunto de entregables concretos que contribuyan al avance del proyecto. A continuación, se presenta el resumen del Sprint Planning Meeting, que proporcionará una visión general de los temas discutidos y las decisiones tomadas durante la reunión. <br>
+#### 5.2.4.1. Sprint Planning 4.
+En esta sección se explicaran los detalles presentados y analizados durante la reunión del Sprint Planning para el número 4. El objetivo principal de esta reunión es establecer un plan claro y realista para el sprint, identificando las tareas a realizar y comprometiéndose con un conjunto de entregables concretos que contribuyan al avance del proyecto. A continuación, se presenta el resumen del Sprint Planning Meeting, que proporcionará una visión general de los temas discutidos y las decisiones tomadas durante la reunión. <br>
+<br>Tabla del planeamiento a profundidad del Sprint 4. <br>
+
+<table>
+        <tr>
+            <td colspan="1">Sprint #</td>
+            <td colspan="1">Sprint 4</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>22-06-2024</td>
+        </tr>
+          <tr>
+            <td>Time</td>
+            <td>20:52</td>
+        </tr>
+            <tr>
+            <td>Location</td>
+            <td>Discord</td>
+        </tr>
+            <tr>
+            <td>Prepared by</td>
+            <td>Sanchez Zamora, Fabrizio Alessandro</td>
+        </tr>
+            <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td>Carpio Cornejo, Miguel Angel Jesus / Cueto Dominguez, Juan Diego / Sanchez Zamora Fabrizio Alessandro / Paredes Zapata, Luiggi Gianfranco / Velasquez Chambi, Ruben Genaro</td>
+        </tr>
+            <tr>
+            <td>Sprint 4 Review Summary</td>
+            <td>Para este Sprint 4, nuestro enfoque principal fue mejorar e implementar características que se habían desarrollado en entregables anteriores. En el lado del frontend de nuestra aplicación, trabajamos en temas como la navegación por rutas y la refactorización de componentes mínimos. Por otro lado, en el backend, nos centramos en la autenticación del usuario mediante Json Web Token y en la creación de rutinas para cada usuario. En resumen, en este sprint 4 se han agregado tanto detalles mínimos pendientes como aspectos clave para nuestra aplicación web.</td>
+        </tr>
+            <tr>
+            <td>Sprint 4 Retrospective Summary</td>
+            <td> En la retrospectiva del Sprint 4, evaluamos en grupo la planificacíon de nuestro tiempo para llegar a una correcta organización. Hicimos uso de la herramienta Trello nuevamente para asignar tareas y coordinarlas, lo que tuvo como resultado un mejor control sobre nuestro proyecto. Además, optamos por dividir las tareas en procesos más pequeños para trabajar de manera más eficiente. Esta estrategia nos ayudó a abordar nuestro proyecto grande dividiéndolo en partes más manejables.       </td>
+            </tr>
+            <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+              <tr>
+            <td>Sprint 4 Goal</td>
+            <td>Para este últimos sprint, se tuvo como objetivo culminar con los puntos pendientes mejorar nuestro reporte del trabajo, asi como un enfoque especia en el desarrollo de funcionalidades finales del lado fronted y backend de nuestra aplicación. Dichos objetivos se lograron gracias a las reuniones semanales que se hicieron a lo largo del plazo dado para este entregable.  </td>
+        </tr>
+              <tr>
+            <td>Sprint 4 Velocity</td>
+            <td>Para este Sprint 4, nuestro Sprint 4 Velocity es de 8 puntos.</td>
+        </tr>
+              <tr>
+            <td>Sum of Story Points</td>
+            <td>La suma de las historias de usuario para el Sprint 4, alcanza un valor de 65 puntos en total</td>
+        </tr>
+    </table>
+
+#### 5.2.4.2. Sprint Backlog 4.
+En esta sección se revisará todo el proceso dado para el Sprint Backlog 4, en el cual nuestro equipo de trabajo se centró principalmente en la implementación de los puntos faltantes de la entrega anterior tales como autenticacion de usuarios y funcionalidades del lado backend, además de haber realizado una correcta comunicación entre el FrontEnd y el BackEnd de manera estable. Para este sprint, hemos separado toda la construcción de la aplicación en 7 historias de usuario, donde cada integrante del grupo hizo al menos uno. Gracias a este proceso, para el final del Sprint Backlog 4, hemos conseguido tener una página web estable, con buenos modelos de interfaz, conexiones con APIs externas, y entre otros. <br>
+
+*Tabla principal del planeamiento del Sprint Backlog 4.* <br>
+
+<table>
+	<tbody>
+		<tr>
+			<td>Sprint #</td>
+			<td colspan="7">Sprint 4</td>
+		</tr>
+		<tr>
+			<td colspan="2">User Story</td>
+			<td colspan="6">Work - Item / Task</td>
+		</tr>
+		<tr>
+			<td>Id</td>
+			<td>Title</td>
+			<td>Id</td>
+			<td>Title</td>
+			<td>Description</td>
+			<td>Estimation (Hours)</td>
+			<td>Assigned To</td>
+			<td>Status (To-do / In-Process / To-Review / Done)</td>
+		</tr>
+		<tr>
+			<td>US01</td>
+			<td>Iniciar Sesión</td>
+			<td>TS01</td>
+			<td>Implementacion de inicio de sesion del usuario</td>
+            <td>Como usuario registrado, Quiero poder iniciar sesión en la plataforma, Para acceder a mi cuenta y utilizar las funciones disponibles.	</td>
+			<td>4</td>
+			<td>Ruben</td>
+			<td>Done</td>
+		</tr >
+        <tr>
+			<td>US02</td>
+			<td>Recuperar Contraseña	</td>
+			<td>TS02</td>
+			<td>Funcion para recuperar una contraseña en caso el usuario la olvide</td>
+            <td>Como usuario de la plataforma, Quiero poder recuperar mi contraseña olvidada, Para poder acceder nuevamente a mi cuenta.		</td>
+			<td>1</td>
+			<td>Ruben</td>
+			<td>Done</td>
+		</tr>
+        <tr>
+			<td>US010</td>
+			<td>Programar Sesiones de Entrenamiento</td>
+			<td>TS03</td>
+			<td>Funcionalidad que permite a los usurios crear sesiones de entrenamiento</td>
+            <td>Como usuario, Quiero programar una sesión de entrenamiento con un coach, Para recibir orientación personalizada.		</td>
+			<td>4</td>
+			<td>Luiggi</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US011</td>
+			<td>Seguir Rutinas de Ejercicio	</td>
+			<td>TS04</td>
+			<td>Sección que permite a los usuarios visualizar las rutinas recomendadas por los coach de entrenamiento</td>
+            <td>Como usuario, Quiero poder seguir rutinas de ejercicio recomendadas por mi coach, Para mejorar mi rendimiento físico.</td>
+			<td>2</td>
+			<td>Juan Diegp</td>
+			<td>Done</td>
+		</tr>
+        <tr>
+			<td>US015	</td>
+			<td>Visualizar Planes de Nutrición	</td>
+			<td>TS05</td>
+			<td>Sección de la app que contiene los diversos planes de nutricion disponibles</td>
+            <td>Como usuario, Quiero visualizar los planes de nutrición personalizados, Para tener una guía alimentaria adaptada a mis necesidades.	</td>
+			<td>2.5</td>
+			<td>Miguel</td>
+			<td>Done</td>
+		</tr>
+        <tr>
+			<td>BS019	</td>
+			<td>Visualizar Calendario de Sesiones		</td>
+			<td>TS06</td>
+			<td>Funcionalidad que se encuentra en el sector de perfil y permite ver el calendario de sesiones programadas</td>
+            <td>Como coach, Quiero visualizar un calendario con las sesiones programadas de mis clientes, Para organizar mi agenda y planificar las sesiones.		</td>
+			<td>3</td>
+			<td>Fabrizio</td>
+			<td>Done</td>
+		</tr>
+        <tr>
+			<td>BS028	</td>
+			<td>Gestionar Información del Perfil</td>
+			<td>TS07</td>
+			<td>Seccion destinada a gestionar informacion  del cliente en caso lo necesite </td>
+            <td>Como coach, Quiero gestionar la información de mi perfil, Para mantener actualizados mis datos personales y de contacto.			</td>
+			<td>1</td>
+			<td>Juan Pescoran</td>
+			<td>Done</td>
+		</tr>
+     <tbody>
+</table>
+
+Con el fin de que la lista de tareas en el sprint pueda ser visualizada a más profundidad, se mostrara un enlace directo a la sección de trabajo designada por el equipo junto a todas las actividades de forma completa. Hemos usado Trello como nuestra herramienta para planificar actividades: [Link Para ingresar a trello](https://trello.com/invite/b/gGX8tUs5/ATTI7e8b3e5d487b49012e6ef9ae6f2da419F8FE8291/tareas-para-aplicaciones-web) <br><br>
+![trello-screenshot](assets/img/img_12.png)
+
+#### 5.2.4.3. Development Evidence for Sprint Review.
+En esta sección, se describen los avances en la implementación de los productos de la solución relacionados con los Web Services, según el alcance del Sprint 4. Aquí se presentarán los commits ya implementados en el repositorio de GitHub, junto con toda la información relevante y los cambios realizados.
+
+Tabla de los commits realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 4.
+
+| Repository         | Branch                | Commit Id                                         | Commit Message                                                                    | Commit Message Body                                  | Commited on (Date) |
+|--------------------|-----------------------|---------------------------------------------------|-----------------------------------------------------------------------------------|------------------------------------------------------|--------------------|
+| LamdingPageFlexPal | master                | fcfc3a4efbdb2aa1e9663fbb64c172caaa409740          | feat: added videos and hyperlink button                                           | Adding Videos and Hyperlinks to the evidence section | 17/06/2024         |
+| LamdingPageFlexPal | master                | 0ea58cf3cb7e83da6e0eede3a673dd4189845725          | refactor: login link updated.                                                     | Updating login link from navbar                      | 18/06/2024         |
+| LamdingPageFlexPal | master                | d98dd3d9b2491638cd06b1a1edd6264f4c781ab6          | fix: login url fixed.                                                             | Fixing login link                                    | 18/06/2024         |
+|    FrontEndApp      | develop-fixing        | cc14c8459cd01b03f41b03fc26284cb2db01b65d          | refactor: login and register components updated.                                  | Adding Componnets for login and register             | 18/06/2024         |
+|    FrontEndApp      | develop               | 125dab7                                           | feat(app-login): merging with backend                                             | Merging with Backend                                 | 23/06/2024         |
+|    FrontEndApp      | develop               | feat: implemented connections to the app-service. | feat: implemented connections to the app-service.                                 | Adding Connections to the app-service                | 23/06/2024         |
+| flex-pal-platform  | feature/iam           | 25a39204236e3b47f354bf82f799e875b48b24ff          | feat: Create and develop iam bounded context, and functional                      | Adding Bounded Context Iam                           | 17/06/2024         |
+| flex-pal-platform  | feature/iam           | 3b3c50915ed47381e1bc6bbcbd0d3e8516180d88          | fix: Role cannot be null fixed                                                    | Fixing Role error                                    | 17/06/2024         |
+| flex-pal-platform  | feature/iam           | 1ef812b7dd0ec4301b365888088c3014c2760414          | fix: Post sign-in fixed with builder of tokensettings                             | Fixing POST Sign In error                            | 17/06/2024         |
+| flex-pal-platform  | feature/susbscription | 4ac3884ec19944ec5f144571bb25184c3a55b287          | refactor: database conection schema name is flex-pal-wa and password 12345678     | Adding Database Connection                           | 17/06/2024         |
+| flex-pal-platform  | feature/susbscription | 626018e9aeb08778de1fc4af94aaa69991af977b          | feat(subscription): added services and entities tables for subscription aggregate | Adding Services and entitites tables                 | 17/06/2024         |
+| flex-pal-platform  | feature/susbscription | acc8d61ea101b39366d827971f3d2214b708cefa          | fix: post method in controller                                                    | Adding Post Method controller                        | 17/06/2024         |
+| flex-pal-platform  | feature/susbscription | 0f7832dc6dff0b4f0e801d74b0584b5957b2ab6c          | feat: add procfile to deploy                                                      | Adding Profile Deployment                            | 18/06/2024         |
+
+
+
+
+
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+#### 5.2.4.5. Execution Evidence for Sprint Review.
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+En esta sección, se describen los EndPoints documentados con OpenAPI mediante la herramienta Swagger para el sprint 4. Esto permite una visualización clara de los puntos de acceso de la API y sus características. Además, se adjuntan evidencias de la implementación de dichos EndPoints. <br><br>
+![Swagger_Imagw1](assets/img/service01.png)
+![Swagger_Imagw2](assets/img/service02.png)
+
+| EndPoints                                               | Acciones Implementadas                                                                                      |
+|---------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| /api/v1/coaches                                         | Permite la creación de un nuevo coach, teniendo como atributos username y  password y                       |
+| /api/v1/coaches/{coachId}                               | Permite obtener la informacion de los coaches registrados en la base de datos de la apliación               |
+| /api/v1/fitness-plans                                   | Permite la creacion de planes fitness                                                                       |
+| /api/v1/fitness-plans/{fitnessPlanId}/routine-items     | Permite añadir rutinas al plan fitness del usuario                                                          |
+| /api/v1/fitness-plans/{fitnessPlanId}/nutritional-meals | Permite añadir planes nutricionales al plan fitness del usuario                                             |
+| /api/v1/fitness-plans/{fitnessPlanId}/nutritional-meals | Permite añadir planes nutricionales al plan fitness del usuario                                             |
+| /api/v1/fitness-plans/{fitnessPlanId}                   | Permite obtener el plan fitness de un usario                                                                |
+| /api/v1/profiles      (POST)                            | Permite la creacion de un nuevo perfil de usuario                                                           |
+| /api/v1/profiles    (GET)                               | Permite obtener la informacion de los perfiles de usuarios registrados en la base de datos de la aplicacion |
+| /api/v1/profiles/{profilesId} (GET)                     | Permite obtener la informacion de un perfil mediante un id                                                  |
+| /api/v1/profiles/{profilesId} (PUT)                     | Permite editar la informacion de un perfil de usuario                                                       |
+| /api/v1/users/{userId}    (GET)                         | Permite obtener la informacion de un member                                                                 |
+| /api/v1/users/{register} (POST)                         | Permite la creacion de un nuevo member mediante un correo y contraseña                                      |
+| /api/v1/users/login (POST)                              | Permite el login de un member para entrar a la aplicacion                                                   |
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.4.8. Team Collaboration Insights during Sprint.
 
 ## 5.3. Validation Interviews.
 
