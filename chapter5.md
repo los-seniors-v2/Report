@@ -528,16 +528,20 @@ Se ha omitido la sección de la aplicación web debido a que solo se ha desarrol
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
 En esta entrega, el equipo de desarrolladores de FlexPal ha completado con éxito la implementación y el lanzamiento de la página de la Landing Page. Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto.
+
 ![Evidencia1](assets/img/Evidencia1.png)
 ![Evidencia2](assets/img/Evidencia2.png)
 ![Evidencia3](assets/img/Evidencia3.png)
 ![Evidencia4](assets/img/Evidencia4.png)
 ![Evidencia5](assets/img/Evidencia5.png)
 ![Evidencia6](assets/img/Evidencia6.png)
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint 1:
 
@@ -730,11 +734,12 @@ Por último, se mostrarán los commits más importantes para la implementación 
 | JDu202012207/FrontEndApp | develop | e78c9c50638df5b9078dc3b50d0762c06bea697d | Merge branch 'develop-feat-session' of https://github.com/los-seniors-v2/FrontEndApp into develop-features  | -                   | 4/29/2024          |
 | JDu202012207/FrontEndApp | develop | 4d6b89ce8efb40d60e614c3b133f65f06eb5859c | fix: fixed merging develop-features.                                                                        | -                   | 4/29/2024          |
 
-
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review.
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page y la Front End Application. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
+
 #### 5.2.2.5.Execution Evidence for Sprint Review.
 En esta entrega, el equipo de desarrolladores de FlexPal ha completado con éxito la implementación y el lanzamiento de la página de la Landing Page. Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto.
+
 ![Evidencia1](assets/img/evidencia-landing-page-home-sprint2.png)
 ![Evidencia2](assets/img/evidencia-landing-page-aboutus-sprint2.png)
 ![Evidencia3](assets/img/evidencia-landing-page-subscriptions-sprint2.png)
@@ -743,12 +748,19 @@ En esta entrega, el equipo de desarrolladores de FlexPal ha completado con éxit
 ![Evidencia6](assets/img/evidencia-landing-page-footer-content-sprint2.png)
 
 También se ha completado la implementación de la Front End Application, que presenta una interfaz de usuario interactiva y funcionalidades básicas para los usuarios. A continuación, se presentan algunas capturas de pantalla de la aplicación en funcionamiento:
-![Evidencia7](assets/img/evidencia-food-list-frontendapp.png)
-![Evidencia8](assets/img/evidencia-frontendapp-1.png)
-![Evidencia9](assets/img/evidencia-frontendapp-2.png)
-![Evidencia10](assets/img/evidencia-frontendapp-3.png)
-![Evidencia11](assets/img/evidencia-frontendapp-4.png)
-![Evidencia12](assets/img/evidencia-frontendapp-5.png)
+
+![Evidencia7](assets/img/evidencia-frontendapp-login.png)
+![Evidencia8](assets/img/evidencia-frontendapp-user-bookasession.png)
+![Evidencia9](assets/img/evidencia-frontendapp-user-home.jpg)
+![Evidencia10](assets/img/evidencia-frontendapp-user-routines.png)
+![Evidencia10](assets/img/evidencia-frontendapp-user-nutrition.png)
+![Evidencia11](assets/img/evidencia-frontendapp-user-profile1.png)
+![Evidencia13](assets/img/evidencia-frontendapp-user-profile2.png)
+![Evidencia14](assets/img/evidencia-frontendapp-user-profile3.png)
+![Evidencia12](assets/img/evidencia-frontendapp-user-profile-options.png)
+![Evidencia15](assets/img/evidencia-frontendapp-user-plan1.png)
+![Evidencia16](assets/img/evidencia-frontendapp-user-plan2.png)
+
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 En este sprint, hemos podido desplegar una Web Application que consume json como data para mostrárselos al usuario, a continuación se muestra el código de la aplicación:
@@ -764,21 +776,19 @@ A continuación, fotos de como lucen los endpoints dentro de nuestro código y e
 
 ## Coach
 
-![Evidencia7](assets/img/endpoint-screenshot-coachs.png)
-![Evidencia12](assets/img/evidencia-frontendapp-5.png)
+![Evidencia7](assets/img/endpoint-coach-controller.png)
 
-## Food card
+## Fitness Plan
 
-![Evidencia8](assets/img/endpoint-screenshot-food.png)
-![Evidencia7](assets/img/evidencia-food-list-frontendapp.png)
+![Evidencia8](assets/img/endpoint-fitnessplan-controller.png)
 
-## Member
-![Evidencia9](assets/img/endpoint-screenshot-member.png)
+## User
 
-## Routine
-![Evidencia10](assets/img/endpoint-screenshot-routines.png)
-![Evidencia9](assets/img/evidencia-frontendapp-2.png)
+![Evidencia9](assets/img/endpoint-user-controller.png)
 
+## Profile
+
+![Evidencia10](assets/img/endpoint-profile-controller.png)
 
 - - -
 
@@ -1076,16 +1086,11 @@ En este tercer sprint el equipo se ha enfocado en el mejoramiento de la Landing 
 
 #### 5.2.3.4.Testing Suite Evidence for Sprint Review.
 Se ha omitido esta sección, puesto que aún no se dispone con el conocimiento para realizar pruebas de tests automatizados, que están planeadas en realizarse en el siguiente sprint.
+
 #### 5.2.3.5.Execution Evidence for Sprint Review.
-En esta entrega, el equipo de desarrolladores de FlexPal ha completado con éxito la implementación de la página del Back end Application. Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto.
-
-![Web-API-screenshot1](assets/img/img_1.png)
-![Web-API-screenshot1](assets/img/img_2.png)
-![Web-API-screenshot1](assets/img/img_3.png)
-![Web-API-screenshot1](assets/img/img_4.png)
-![Web-API-screenshot1](assets/img/img_5.png)
-![Web-API-screenshot1](assets/img/img_6.png)
-
+En esta sección, se describen los EndPoints documentados con OpenAPI mediante la herramienta Swagger para el sprint 4. Esto permite una visualización clara de los puntos de acceso de la API y sus características. Además, se adjuntan evidencias de la implementación de dichos EndPoints. <br><br>
+![Swagger_Imagw1](assets/img/service01.png)
+![Swagger_Imagw2](assets/img/service02.png)
 Por parte de la base de datos:
 
 ![Database](assets/img/img_7.png)
@@ -1297,13 +1302,12 @@ Tabla de los commits realizados y relacionados con el desarrollo de todas las se
 | flex-pal-platform  | feature/susbscription | acc8d61ea101b39366d827971f3d2214b708cefa          | fix: post method in controller                                                    | Adding Post Method controller                        | 17/06/2024         |
 | flex-pal-platform  | feature/susbscription | 0f7832dc6dff0b4f0e801d74b0584b5957b2ab6c          | feat: add procfile to deploy                                                      | Adding Profile Deployment                            | 18/06/2024         |
 
-
-
-
-
-
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+
+
 #### 5.2.4.5. Execution Evidence for Sprint Review.
+
+
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 En esta sección, se describen los EndPoints documentados con OpenAPI mediante la herramienta Swagger para el sprint 4. Esto permite una visualización clara de los puntos de acceso de la API y sus características. Además, se adjuntan evidencias de la implementación de dichos EndPoints. <br><br>
 ![Swagger_Imagw1](assets/img/service01.png)
@@ -1329,6 +1333,7 @@ Para este sprint 4, se realizo un deploy de los elementos faltantes, como la aut
 ![Image4](assets/img/DP04.jpg)
 ![Image5](assets/img/DP05.jpg)
 ![Image6](assets/img/DP06.jpg)
+
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
 
 ## 5.3. Validation Interviews.
