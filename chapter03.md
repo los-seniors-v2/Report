@@ -89,11 +89,9 @@ TS047|Creación de Comida Nutricional en Plan de Fitness|Como desarrollador, qui
 ## 3.3. Impact Mapping.
 Impact Mapping es una herramienta poderosa que nos ayudará a visualizar y planificar cómo nuestro proyecto puede generar un impacto significativo en nuestros usuarios y en nuestro objetivo final. Nos permitirá identificar claramente los resultados deseados, los comportamientos esperados de nuestros usuarios y las acciones necesarias para alcanzar esos objetivos. Al utilizar Impact Mapping, podremos alinear mejor nuestras actividades con nuestros objetivos, tomar decisiones más informadas y maximizar el impacto de nuestro proyecto.
 <br><br>
-### Segment 1: Users
-<img src="assets/img/Impact_map_01.png" alt="Impactmap01">
 
-### Segment 2: Coachs
-<img src="assets/img/Impact_map_02.png" alt="Impactmap02">
+<img src="assets/img/impact_map_ux.png" alt="Impactmap01">
+
 
 ## 3.4. Product Backlog.
 | Orden | User Story ID | Título | Descripción | Story Points |
