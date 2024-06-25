@@ -1275,6 +1275,58 @@ En esta sección se revisará todo el proceso dado para el Sprint Backlog 4, en 
 			<td>Juan Pescoran</td>
 			<td>Done</td>
 		</tr>
+      <tr>
+			<td>TS042	</td>
+			<td>Authenticacion</td>
+			<td>TA01</td>
+			<td>Genarar un token </td>
+            <td>cuando se usa "/api/v1/authentication/sign-in" esté disponible.
+se envíe una solicitud POST con las credenciales del usuario (username, password) y de respuesta un token</td>
+			<td>1</td>
+			<td>Ruben Velasquez</td>
+			<td>Done</td>
+		</tr>
+     <tr>
+			<td>TS043	</td>
+			<td>Manejo de perfil</td>
+			<td>TA01</td>
+			<td>Enpoint para actualizar datos</td>
+            <td>se envíe una solicitud PUT con los datos actualizados de weight y height de un usuario específico.</td>
+			<td>1</td>
+			<td>Ruben Velasquez</td>
+			<td>Done</td>
+		</tr>
+    <tr>
+			<td>TS044	</td>
+			<td>Creación de Coach</td>
+			<td>TA01</td>
+			<td>Enpoint para cargar datos de coach</td>
+            <td>se envíe una solicitud POST con los datos de un coach</td>
+			<td>1</td>
+			<td>Luigui paredes</td>
+			<td>Done</td>
+		</tr>
+     <tr>
+			<td>TS045	</td>
+			<td>Creación de Plan de Fitness</td>
+			<td>TA01</td>
+			<td>Enpoint para generar un plan fitness</td>
+            <td>se envíe una solicitud POST con los datos de del plan</td>
+			<td>1</td>
+			<td>Luigui paredes</td>
+			<td>Done</td>
+		</tr>
+       <tr>
+			<td>TS046	</td>
+			<td>Creación de Rutina en Plan de Fitness</td>
+			<td>TA01</td>
+			<td>Enpoint para generar agregar una rutina al plan fitness</td>
+            <td>Agregar una rutina a un plan de fitness
+con  el Endpoint "/api/v1/fitness-plans/{fitnessPlansId}/routine-items" cuando se envíe una solicitud POST con los datos de la rutina (name, sets, reps, type, restTime).</td>
+			<td>1</td>
+			<td>Luigui paredes</td>
+			<td>Done</td>
+		</tr>
      <tbody>
 </table>
 
