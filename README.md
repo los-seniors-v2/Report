@@ -1,9 +1,28 @@
-# UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
-![UPC](assets/img/upc-logo-transparente.png)
+<div align="center">
 
-# APLICACIONES WEB (SV51)
-## PROFESOR: Angel Augusto Velasquez Nuñez
-## "INFORME DE TRABAJO FINAL APLICACIONES WEB"
+## Universidad Peruana de Ciencia Aplicadas 
+
+![logo](./assets/img/upc-logo-transparente.png)
+
+##### Nombre del curso: Aplicaciones Web
+##### Carrera: Ingeniería de Software
+##### Nombre del profesor: Angel Augusto Velasquez Nuñez
+##### Sección: SV51
+
+#### " Informe de Trabajo Final "
+##### Nombre de la Startup: Los Seniors
+##### Nombre del Producto: Flexpal
+
+#### Integrantes
+* Miguel Angel Jesus Carpio Cornejo
+* Juan Diego Cueto Dominguez -  u202012207
+* Luiggi Gianfranco Paredes Zapata - u202218996
+* Juan Fabritzzio Pescorán Angulo -   u20221c936
+* Fabrizio Alessandro Sanchez Zamora- u202213652
+* Ruben Velasquez Chambi - u202117342
+
+Fecha: **Julio de 2024**.
+</div>
 
 # Registro de Versiones del Informe
 
@@ -23,7 +42,9 @@
 | 3       | 29/04/2024 | - Fabrizio Sanchez | - Apoyó en el desarrollo de los bounded countext profiles                                                                                                                                                                                                                                                               |
 | 3       | 29/04/2024 | - Juan Cueto       | - Implementó nuvas funcionas en la web application y apoyó en el desarrollo de profiles del web service                                                                                                                                                                                                                 |
 | 3       | 29/04/2024 | - Luiggi Paredes   | - Implementó el bounded context counseling                                                                                                                                                                                                                                                                              |
-| 3       | 29/04/2024 | - Miguel Carpio    | - Encargado del bounded context subscription en la parte de BackEnd, siguió estructura DDD.                                                                                                                                                                                                                             |
+| 3       | 29/04/2024 | - Miguel Carpio    | - Encargado del bounded context subscription en la parte de BackEnd, siguió estructura DDD. |
+|3|29/04/2024|-Ruben Velasquez|-Encargado de desarrollar  los bounded context de iam y profiles|
+4|25/06/2024|-Ruben Velasquez|-Encargado de implementar el register, login y logout de la aplicacion.|                                                                                                                                                                                                                            
 
 
 - - -
