@@ -1331,7 +1331,7 @@ con  el Endpoint "/api/v1/fitness-plans/{fitnessPlansId}/routine-items" cuando s
 </table>
 
 Con el fin de que la lista de tareas en el sprint pueda ser visualizada a más profundidad, se mostrara un enlace directo a la sección de trabajo designada por el equipo junto a todas las actividades de forma completa. Hemos usado Trello como nuestra herramienta para planificar actividades: [Link Para ingresar a trello](https://trello.com/invite/b/gGX8tUs5/ATTI7e8b3e5d487b49012e6ef9ae6f2da419F8FE8291/tareas-para-aplicaciones-web) <br><br>
-![trello-screenshot](assets/img/img_12.png)
+![trello-screenshot](assets/img/Trello.png)
 
 #### 5.2.4.3. Development Evidence for Sprint Review.
 En esta sección, se describen los avances en la implementación de los productos de la solución relacionados con los Web Services, según el alcance del Sprint 4. Aquí se presentarán los commits ya implementados en el repositorio de GitHub, junto con toda la información relevante y los cambios realizados.
@@ -1362,8 +1362,8 @@ Tabla de los commits realizados y relacionados con el desarrollo de todas las se
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 En esta sección, se describen los EndPoints documentados con OpenAPI mediante la herramienta Swagger para el sprint 4. Esto permite una visualización clara de los puntos de acceso de la API y sus características. Además, se adjuntan evidencias de la implementación de dichos EndPoints. <br><br>
-![Swagger_Imagw1](assets/img/service01.png)
-![Swagger_Imagw2](assets/img/service02.png)
+![Swagger_Imagw1](assets/img/Swagger.png)
+
 
 | Nombre del Endpoint | Acciones Implementadas | Sintaxis de Llamada                                                                                                                                                                                        | Especificación de Parámetros                                                                                                                                                                                                                                                    | Ejemplo de Llamada | Explicación del Response                                                                                                                 |
 |---------------------|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1375,8 +1375,8 @@ En esta sección, se describen los EndPoints documentados con OpenAPI mediante l
 Para este sprint 4, se realizo un deploy de los elementos faltantes, como la autenticación de usuarios y funcionalidades del lado backend. Se logró una correcta comunicación entre el FrontEnd y el BackEnd de manera estable.<br><br>
 
 ### Fronted Deployment
-![Netlify](assets/img/img_9.png)
-![Netlify2](assets/img/img_10.png)
+![Netlify](assets/img/DP_Front.png)
+![Netlify2](assets/img/DP_Front2.png)
 ### Backend Deployment
 ![Image1](assets/img/DP01.jpg)
 ![Image2](assets/img/DP02.jpg)
@@ -1413,14 +1413,14 @@ Estas preguntas nos ayudarán a saber cuál es la experiencia de usuario, si nue
 11. ¿Tienes alguna sugerencia para mejorar la experiencia del usuario en nuestra aplicación web?
 
 #### 5.3.2. Registro De Entrevistas
-![RegistroEntrevistas](assets/img/img_8.png) <br> <br>
+![RegistroEntrevistas](assets/img/Registro_Entrevistas.png) <br> <br>
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213652_upc_edu_pe/EZMU38BmzmtDmzICiRP9ypgBmH5pYGdeA2ogPTberO5h1g?e=CHMn4l&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 #### 5.3.3. Evaluaciones según heurísticas.
 
 ### 5.4 Video About-the-Product.
 
-![AboutProduct](assets/img/img_8.png) <br>
+![AboutProduct](assets/img/AboutProduct.png) <br>
 #### YouTube
 https://youtu.be/7yi8_0qWF7k
 
@@ -1435,7 +1435,7 @@ https://youtu.be/7yi8_0qWF7k
 - El proceso de desarrollo ágil ha demostrado ser efectivo para la implementación de la Landing Page, permitiendo al equipo adaptarse a los cambios y desafíos de manera eficiente y eficaz.
 
 ### Video About-the-Team.
-![AboutTeam](assets/img/img_8.png) <br>
+![AboutTeam](assets/img/AboutTeam.png) <br>
 
 #### Microsoft Stream
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213652_upc_edu_pe/EUzF2s_VeyxLoLS1JP1IQO0BXB_uZv271FQfEF-FVIx-sQ?e=EbCPBk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
