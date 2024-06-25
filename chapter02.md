@@ -410,102 +410,115 @@ En esta sección, presentaremos el perfil de nuestros User Persona, que surge de
 ### 2.3.2. User Task Matrix.
 La User Task Matrix es una herramienta que nos permite identificar las tareas clave que nuestros usuarios necesitan realizar en nuestra aplicación web. Al mapear estas tareas, podemos comprender mejor las necesidades y expectativas de nuestros usuarios, lo que nos ayuda a diseñar una experiencia de usuario más efectiva y centrada en sus requerimientos.
 <br><br>
-- User Task Matrix Primer Segmento Objetivo(Usuarios interesados en mejorar su salud y condición física)
-
-<table  style="text-align: center">
+<table style="text-align: center; width: 100%;">
+    <thead>
+        <tr>
+            <th rowspan="2">Tareas</th>
+            <th colspan="2">Javier Cornejo</th>
+            <th colspan="2">Andrés Torres</th>
+        </tr>
+        <tr>
+            <th>Frecuencia</th>
+            <th>Importancia</th>
+            <th>Frecuencia</th>
+            <th>Importancia</th>
+        </tr>
+    </thead>
     <tbody>
-     <tr>
-            <td colspan="3"> Javier Cornejo</td>
-    </tr>  
-    <tr>
-        <td>Tareas</td>
-        <td>Frecuencia</td>
-        <td>Importancia</td>
-    </tr>
-    <tr>
-        <td>Asistir a clases de gimnasio o grupos de entrenamiento </td>
-        <td>Never</td>
-        <td>High</td>
-    </tr>
-    <tr>
-        <td>Hacer ejercicio en casa </td>
-        <td>Rarely</td>
-        <td>High</td>
-    </tr>
-    <tr>
-        <td>Planificar comidas semanalmente</td>
-        <td>Sometimes</td>
-        <td>Medium</td>
-    </tr>
-    <tr>
-        <td>Consultar blogs y videos sobre nutrición y fitness</td>
-        <td>Often</td>
-        <td>High</td>
-    </tr>
-    <tr>
-        <td>Hablar con amigos o familiares sobre sus experiencias con planes de ejercicio y alimentación</td>
-        <td>Sometimes</td>
-        <td>Low</td>
-    </tr>
-    <tr>
-        <td>Investigar diferentes tipos de dietas y programas de ejercicio</td>
-        <td>Low</td>
-        <td>Medium</td>
-    </tr>
-    <tr>
-        <td>Buscar aplicaciones de seguimiento de alimentos y ejercicios</td>
-        <td>Always</td>
-        <td>High</td>
-    </tr>
+        <tr>
+            <td>Asistir a clases de gimnasio o grupos de entrenamiento</td>
+            <td>Never</td>
+            <td>High</td>
+            <td>-------</td>
+            <td>-------</td>
+        </tr>
+        <tr>
+            <td>Hacer ejercicio en casa</td>
+            <td>Rarely</td>
+            <td>High</td>
+            <td>-------</td>
+            <td>-------</td>
+        </tr>
+        <tr>
+            <td>Planificar comidas semanalmente</td>
+            <td>Sometimes</td>
+            <td>Medium</td>
+            <td>-------</td>
+            <td>-------</td>
+        </tr>
+        <tr>
+            <td>Consultar blogs y videos sobre nutrición y fitness</td>
+            <td>Often</td>
+            <td>High</td>
+            <td>-------</td>
+            <td>-------</td>
+        </tr>
+        <tr>
+            <td>Hablar con amigos o familiares sobre sus experiencias con planes de ejercicio y alimentación</td>
+            <td>Sometimes</td>
+            <td>Low</td>
+            <td>-------</td>
+            <td>-------</td>
+        </tr>
+        <tr>
+            <td>Investigar diferentes tipos de dietas y programas de ejercicio</td>
+            <td>Low</td>
+            <td>Medium</td>
+            <td>-------</td>
+            <td>-------</td>
+        </tr>
+        <tr>
+            <td>Buscar aplicaciones de seguimiento de alimentos y ejercicios</td>
+            <td>Always</td>
+            <td>High</td>
+            <td>-------</td>
+            <td>-------</td>
+        </tr>
+        <tr>
+            <td>Crear planes de ejercicio personalizados para sus clientes presencialmente</td>
+            <td>-------</td>
+            <td>-------</td>
+            <td>Always</td>
+            <td>High</td>
+        </tr>
+        <tr>
+            <td>Seguir el progreso de los clientes</td>
+            <td>-------</td>
+            <td>-------</td>
+            <td>High</td>
+            <td>High</td>
+        </tr>
+        <tr>
+            <td>Comunicarse con los clientes</td>
+            <td>-------</td>
+            <td>-------</td>
+            <td>Often</td>
+            <td>Medium</td>
+        </tr>
+        <tr>
+            <td>Hacer uso de redes sociales y plataformas digitales para atraer clientes</td>
+            <td>-------</td>
+            <td>-------</td>
+            <td>Low</td>
+            <td>High</td>
+        </tr>
+        <tr>
+            <td>Buscar oportunidades para mejorar su forma de trabajo</td>
+            <td>-------</td>
+            <td>-------</td>
+            <td>Sometimes</td>
+            <td>Medium</td>
+        </tr>
+        <tr>
+            <td>Mantenerse al día con las últimas investigaciones en salud y fitness</td>
+            <td>-------</td>
+            <td>-------</td>
+            <td>Low</td>
+            <td>Medium</td>
+        </tr>
     </tbody>
-
 </table>
-
-
-- User Task Matrix Segundo Segmento Objetivo(Profesionales del coaching en ejercicio y alimentación)
-
-<table  style="text-align: center">
-    <tbody>
-     <tr>
-            <td colspan="3"> Andrés Torres</td>
-    </tr>  
-    <tr>
-        <td>Tareas</td>
-        <td>Frecuencia</td>
-        <td>Importancia</td>
-    </tr>
-    <tr>
-        <td>Crear planes de ejercicio personalizados para sus clientes presencialmente</td>
-        <td>Always</td>
-        <td>High</td>
-    </tr>
-    <tr>
-        <td>Seguir el progreso de los clientes </td>
-        <td>High</td>
-        <td>High</td>
-    </tr>
-    <tr>
-        <td>Comunicarse con los clientes</td>
-        <td>Often</td>
-        <td>Medium</td>
-    </tr>
-    <tr>
-        <td>Hacer uso de redes sociales y plataformas digitales para atraer clientes</td>
-        <td>Low</td>
-        <td>High</td>
-    </tr>
-    <tr>
-        <td>Buscar oportuniades para mejorar su forma de trabajo</td>
-        <td>Sometimes</td>
-        <td>Medium</td>
-    </tr>
-    <tr>
-        <td>Mantenerse al día con las últimas investigaciones en salud y fitness</td>
-        <td>Low</td>
-        <td>Medium</td>
-    </tr>
-    </tbody>
-</table>                                    
+                  
 
 ### 2.3.3. User Journey Mapping
 El User Journey Mapping es una herramienta  para comprender la experiencia del usuario de manera holística, lo que permite a los equipos de diseño crear productos y servicios que se alineen mejor con las necesidades y expectativas de los usuarios.
