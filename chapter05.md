@@ -605,7 +605,7 @@ En esta sección se registra y explica el avance en términos de producto y trab
 </tbody>
 </table>
 
-#### .2.2.2.Sprint Backlog 2.
+#### 5.2.2.2.Sprint Backlog 2.
 
 En este segundo sprint el equipo se ha enfocado en el mejoramiento de la Landing Page, el reporte y la implementación de la Front End Application. A continuación, se presenta el backlog de tareas para el Sprint 2:
 [Link para ingresar al board del segundo Sprint](https://trello.com/b/gGX8tUs5/tareas-para-aplicaciones-web)
@@ -695,7 +695,7 @@ En este segundo sprint el equipo se ha enfocado en el mejoramiento de la Landing
     <tbody>
 </table>
 
-#### 5.2.2.3.Development Evidence for Sprint Review.
+#### 5.2.2.3.Development Evidence for Sprint Review
 
 En la primera tabla
 En la segunda tabla se ve el commit que realizó el cambio de lenguaje en la Landing Page.
@@ -731,9 +731,9 @@ Por último, se mostrarán los commits más importantes para la implementación 
 | JDu202012207/FrontEndApp | develop | 4d6b89ce8efb40d60e614c3b133f65f06eb5859c | fix: fixed merging develop-features.                                                                        | -                   | 4/29/2024          |
 
 
-#### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+#### 5.2.2.4.Testing Suite Evidence for Sprint Review
 Se ha omitido la sección de la aplicación web debido a que solo se ha desarrollado la Landing Page y la Front End Application. Se ofrecerá más información sobre la aplicación en una etapa posterior del desarrollo.
-#### 5.2.2.5.Execution Evidence for Sprint Review.
+#### 5.2.2.5.Execution Evidence for Sprint Review
 En esta entrega, el equipo de desarrolladores de FlexPal ha completado con éxito la implementación y el lanzamiento de la página de la Landing Page. Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto.
 ![Evidencia1](assets/img/evidencia-landing-page-home-sprint2.png)
 ![Evidencia2](assets/img/evidencia-landing-page-aboutus-sprint2.png)
@@ -750,7 +750,7 @@ También se ha completado la implementación de la Front End Application, que pr
 ![Evidencia11](assets/img/evidencia-frontendapp-4.png)
 ![Evidencia12](assets/img/evidencia-frontendapp-5.png)
 
-#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review
 En este sprint, hemos podido desplegar una Web Application que consume json como data para mostrárselos al usuario, a continuación se muestra el código de la aplicación:
 
 | Nombre del Endpoint        | Acciones Implementadas | Sintaxis de Llamada                                                   | Especificación de Parámetros                         | Ejemplo de Llamada                                                                                                                                                                                                                                                                                                             | Explicación del Response                                                                                                                      |
@@ -841,7 +841,7 @@ En esta sección se registra y explica el avance en términos de producto y trab
 </tbody>
 </table>
 
-#### .2.2.2.Sprint Backlog 3.
+#### 5.2.2.2.Sprint Backlog 3
 
 En este tercer sprint el equipo se ha enfocado en el mejoramiento de la Landing Page, el reporte, Front End Application y el Back End. A continuación, se presenta el backlog de tareas para el Sprint 3:
 [Link para ingresar al board del tecer Sprint](https://trello.com/b/5bsUVC3d/flexpal-sprint-2)
@@ -971,7 +971,7 @@ En este tercer sprint el equipo se ha enfocado en el mejoramiento de la Landing 
     <tbody>
 </table>
 
-#### 5.2.2.3.Development Evidence for Sprint Review.
+#### 5.2.2.3.Development Evidence for Sprint Review
 
 Se mostrarán los commits más importantes para la implementación de la API Platform Application:
 
@@ -985,9 +985,9 @@ Se mostrarán los commits más importantes para la implementación de la API Pla
 | s4ck1to99/flex-pal-platform     | subscriptions | 97b259ecb2f8f2055cc3c1d02ebdeadb7838dd46 | feat: Add subscription branch and backend developed                        | -                   | 6/3/2024           |
 
 
-#### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+#### 5.2.2.4.Testing Suite Evidence for Sprint Review
 Se ha omitido esta sección, puesto que aún no se dispone con el conocimiento para realizar pruebas de tests automatizados, que están planeadas en realizarse en el siguiente sprint.
-#### 5.2.2.5.Execution Evidence for Sprint Review.
+#### 5.2.2.5.Execution Evidence for Sprint Review
 En esta entrega, el equipo de desarrolladores de FlexPal ha completado con éxito la implementación de la página del Back end Application. Esta página presenta diferentes secciones que brindan información detallada sobre nuestro producto.
 
 ![Web-API-screenshot1](assets/img/img_1.png)
@@ -1001,7 +1001,7 @@ Por parte de la base de datos:
 
 ![Database](assets/img/img_7.png)
 
-#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review
 En este sprint, hemos podido desplegar una Web Application que consume json como data para mostrárselos al usuario, a continuación se muestra el código de la aplicación:
 
 | Nombre del Endpoint | Acciones Implementadas | Sintaxis de Llamada                                                                                                                                                                                        | Especificación de Parámetros                                                                                                                                                                                                                                                    | Ejemplo de Llamada | Explicación del Response                                                                                                                 |
@@ -1011,7 +1011,7 @@ En este sprint, hemos podido desplegar una Web Application que consume json como
 | Profiles            | POST, GET, PUT         | POST: ```/api/v1/profiles```, GET: ```/api/v1/profiles```, ```/api/v1/profiles/{profileId}```, PUT: ```/api/v1/profiles/{profileId}```                                                                     | GET: ```"id": int```, POST: ```"firstName": "string", "lastName": "string", "email": "string", "weight": "string", "height": "string", "phone": "string", "role": "string"```, PUT: ```"id": 0, "email": "string", "weight": "string", "height": "string", "phone": "string"``` | -                  | En este caso, se está devolviendo el valor de todos los objetos "perfiles" alojados en el json con el nombre 'api/v1/profiles'.          |
 | Users               | POST, GET              | POST: ```/api/v1/users```, ```/api/v1/users/register```, ```/api/v1/users/login```, GET: ```/api/v1/users/{userId}```                                                                                      | GET: ```"id": int```, POST: ``````                                                                                                                                                                                                                                              | -                  | En este caso, se está devolviendo el valor de todos los objetos "user" alojados en el json con el nombre 'api/v1/users'.                 |
 
-#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review
 
 Para el despliegue de nuestra Front End App, se usó: 
 
@@ -1022,9 +1022,10 @@ Para el despliegue de nuestra aPI se usó: [SmarterAsp](https://www.smarterasp.n
 
 ![SmarterASP](assets/img/img_8.png)
 
-#### 5.2.2.8.Team Collaboration Insights during Sprint.
+#### 5.2.2.8.Team Collaboration Insights during Sprint
 A continuación todos los analíticos que nos proporciona Github, en su apartado de Insights, sobre la colaboración del equipo durante el Sprint 3:
 ![analytics-5-report](assets/img/img_11.png)
+
 ## Avance de Conclusiones, Bibliografía y Anexos.
 ### Conclusiones
 - Durante el desarrollo de la Landing Page, el equipo de FlexPal ha logrado implementar con éxito las funcionalidades y características planificadas, proporcionando una experiencia de usuario sólida y coherente.
@@ -1035,10 +1036,19 @@ A continuación todos los analíticos que nos proporciona Github, en su apartado
 - El proceso de desarrollo ágil ha demostrado ser efectivo para la implementación de la Landing Page, permitiendo al equipo adaptarse a los cambios y desafíos de manera eficiente y eficaz.
 
 ### Anexos
-- Anexo 1: [Landing Page Repository](https://github.com/los-seniors-v2)
+- Anexo 1: [Organización en GitHub](https://github.com/los-seniors-v2)
 - Anexo 2: [Mockups - Wireframe](https://www.figma.com/file/91Ez19KOQpxgpmPEZ9NtIm/FlexPal?type=design&node-id=0%3A1&mode=design&t=vgM82K5YOfavEdYS-1)
 - Anexo 3: [User-Flow - WireFlow Diagram](https://lucid.app/lucidspark/2c642c76-fe1b-41c2-a0e3-613a0b64f8f0/edit?viewport_loc=-1797%2C-1394%2C8704%2C4350%2C0_0&invitationId=inv_0f96f168-1b85-4920-a9fb-ce76f2b42015)
+- Anexo 4: [Netlify](https://www.netlify.com/)
+- Anexo 6: [Trello](https://trello.com/)
+- Anexo 7: [SmarterAsp](https://www.smarterasp.net/)
+
 ### Bibliografía
 - Ipsos. (16 de octubre de 2019). Alimentación y vida saludable en Lima. Ipsos. https://www.ipsos.com/es-pe/alimentacion-y-vida-saludable-en-lima
 - Aproximadamente 15 millones de peruanos sufren de obesidad. (4 de marzo de 2024). Noticias - Ministerio De Salud - Plataforma Del Estado Peruano. https://www.gob.pe/institucion/minsa/noticias/915217-aproximadamente-15-millones-de-peruanos-sufren-de-obesidad
 - Mena, F. G. (10 de junio de 2019). La realidad de los gimnasios: “80% de peruanos abandona su membresía en los primeros 3 meses.” Gestión. https://gestion.pe/tendencias/realidad-gimnasios-80-peruanos-abandona-membresia-primeros-3-meses-269519-noticia/
+  Ruiz, A. M. (20 de mayo de 2020). El auge del coaching deportivo: Cómo los entrenadores personales están transformando la industria del fitness. ABC. https://abc.es/auge-coaching-deportivo-entrenadores-personales-transformando-industria-fitness
+  Gómez, L. J. (12 de noviembre de 2019). La capacitación de profesionales en el ejercicio físico: Clave para el éxito de los gimnasios. El Mundo. https://elmundo.es/capacitacion-profesionales-ejercicio-fisico-exito-gimnasios
+  Fernández, C. R. (7 de febrero de 2021). La importancia de la nutrición en el entrenamiento personal. El País. https://elpais.com/importancia-nutricion-entrenamiento-personal
+  Sánchez, P. L. (3 de agosto de 2022). Tendencias en la industria del fitness: Del entrenamiento online a la personalización. La Vanguardia. https://lavanguardia.com/tendencias-industria-fitness-entrenamiento-online-personalizacion
+  Navarro, E. F. (18 de abril de 2018). Formación y certificación de entrenadores personales: Estándares y mejores prácticas. Diario AS. https://as.com/formacion-certificacion-entrenadores-personales-estandares-mejores-practicas
